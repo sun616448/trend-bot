@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% set d = rec.digest %}
+{% block title %}{{ rec.week }} · Trend Pulse{% endblock %}
+{% block nav %}
+  {% if d %}{% for sec in d.sections %}<a href="#{{ sec.key }}">{{ SECTION_META[sec.key][0] }}</a>{% endfor %}{% endif %}
+  <a href="{{ root }}weeks/{{ rec.week }}-signals.html">All signals</a>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="eyebrow">
+    <span>Week {{ rec.week[-2:] }}</span> <span aria-hidden="true">·</span> <span>{{ rec.week | fmt_range }}</span>
+    {% if is_latest %}<span class="pill">Latest</span>{% endif %}
+  </p>
+  {% if d %}
+  <h1>{{ d.headline }}</h1>
+  <ul class="tldr">{% for b in d.tldr %}<li>{{ b }}</li>{% endfor %}</ul>
+  {% else %}
+  <h1>Signals collected, digest not written</h1>
+  <p class="lede">This week ran without a model key, so there is no editorial digest. The raw ranked signals are still browsable.</p>
+  {% endif %}
+  <p class="stats">
+    <span><b>{{ rec.signal_count }}</b> signals</span>
+    {% for src, n in rec.source_counts.items() | sort(attribute=1, reverse=true) %}<span>{{ SOURCE_NAMES.get(src, src) }} <b>{{ n }}</b></span>{% endfor %}
+  </p>
+</section>
+
+{% if d %}
+<section class="radar" aria-labelledby="radar-h">
+  <h2 id="radar-h">On the radar</h2>
+  <p class="section-sub">Coming up in the next few weeks</p>
+  <ol class="radar-list">
+    {% for ev in d.radar %}
+    <li><span class="radar-when">{{ ev.when }}</span><div><b>{{ ev.name }}</b><p>{{ ev.angle }}</p></div></li>
+    {% endfor %}
+  </ol>
+</section>
+
+{% for sec in d.sections %}
+<section class="section" id="{{ sec.key }}" aria-labelledby="h-{{ sec.key }}">
+  <div class="section-head">
+    <h2 id="h-{{ sec.key }}">{{ SECTION_META[sec.key][0] }}</h2>
+    <p class="section-sub">{{ SECTION_META[sec.key][1] }}</p>
+  </div>
+  <div class="grid">
+  {% for it in sec.items %}
+    {% set key = sec.key ~ ':' ~ loop.index0 %}
+    {% set img = rec.media.get(key) %}
+    <article class="card{% if loop.first %} card-lead{% endif %}">
+      {% set link = it.hero_url or it.sources[0].url %}
+      <a class="card-media" href="{{ link }}" target="_blank" rel="noopener" aria-label="Open {{ it.title }}">
+        {% if img %}<img src="{{ root }}media/{{ rec.week }}/{{ img }}" alt="" loading="lazy">
+        {% else %}<div class="card-placeholder" aria-hidden="true">{{ link | domain }}</div>{% endif %}
+      </a>
+      <div class="card-body">
+        <p class="momentum momentum-{{ it.momentum }}"><span aria-hidden="true">{{ MOMENTUM[it.momentum][0] }}</span> {{ MOMENTUM[it.momentum][1] }}</p>
+        <h3><a href="{{ link }}" target="_blank" rel="noopener">{{ it.title }}</a></h3>
+        <p class="summary">{{ it.summary }}</p>
+        <p class="why"><b>Why it matters</b> {{ it.why_it_matters }}</p>
+        {% if it.what_people_say %}
+        <ul class="quotes">{% for q in it.what_people_say %}<li>“{{ q }}”</li>{% endfor %}</ul>
+        {% endif %}
+        <ul class="sources" aria-label="Sources">
+          {% for s in it.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }}<span class="muted"> · {{ s.url | domain }}</span></a></li>{% endfor %}
+        </ul>
+        {% if it.tags %}<p class="tags">{% for t in it.tags %}<span>{{ t }}</span>{% endfor %}</p>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</section>
+{% endfor %}
+{% endif %}
+
+{% set tt = signals | selectattr('source', 'equalto', 'tiktok') | list %}
+{% if tt or tiktok_shot %}
+<section class="section tiktok" aria-labelledby="h-tiktok">
+  <div class="section-head">
+    <h2 id="h-tiktok">TikTok this week</h2>
+    <p class="section-sub">Top hashtags in the US over the last seven days, from TikTok Creative Center</p>
+  </div>
+  <div class="tiktok-row">
+    {% if tiktok_shot %}<a class="tiktok-shot" href="https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en" target="_blank" rel="noopener"><img src="{{ root }}media/{{ rec.week }}/tiktok-creative-center.png" alt="TikTok Creative Center trending hashtag table" loading="lazy"></a>{% endif %}
+    {% if tt %}<ol class="tiktok-tags">
+      {% for s in tt | sort(attribute='rank') %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title.split(' ')[0] }}</a> <span class="muted">{{ s.metrics.views }} views · {{ s.metrics.posts }} posts{% if s.metrics.category %} · {{ s.metrics.category }}{% endif %}</span></li>{% endfor %}
+    </ol>{% endif %}
+  </div>
+</section>
+{% endif %}
+
+<section class="section signals-preview" aria-labelledby="h-signals">
+  <div class="section-head">
+    <h2 id="h-signals">Top raw signals</h2>
+    <p class="section-sub">{{ signals | length }} signals kept after ranking; the top 25 are below. <a href="{{ root }}weeks/{{ rec.week }}-signals.html">See all signals</a></p>
+  </div>
+  <ol class="signal-list">
+    {% for s in signals[:25] %}
+    <li>
+      <span class="sig-src">{{ SOURCE_NAMES.get(s.source, s.source) }} · {{ s.source_label }}</span>
+      <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>
+      {% if s.metrics.upvotes %}<span class="sig-metric">{{ '{:,}'.format(s.metrics.upvotes) }} upvotes</span>
+      {% elif s.metrics.likes %}<span class="sig-metric">{{ '{:,}'.format(s.metrics.likes) }} likes</span>
+      {% elif s.metrics.points %}<span class="sig-metric">{{ '{:,}'.format(s.metrics.points) }} points</span>
+      {% elif s.metrics.views %}<span class="sig-metric">{{ s.metrics.views }} views</span>
+      {% elif s.metrics.approx_searches %}<span class="sig-metric">{{ s.metrics.approx_searches }} searches</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endblock %}
+{% block foot %}
+<p class="muted">Generated {{ rec.generated_at.strftime('%b %d, %Y %H:%M UTC') }}{% if rec.model %} · {{ rec.model }}{% endif %}.
+{% if rec.notes %} Collector notes: {{ rec.notes | join('; ') }}.{% endif %}</p>
+{% endblock %}

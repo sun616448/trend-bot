@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}Trend Pulse{% endblock %}</title>
+<meta name="description" content="Weekly digest of what consumers are talking about: products, digital, campaigns and culture.">
+<link rel="stylesheet" href="{{ root }}static/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap top-inner">
+    <a class="brand" href="{{ root }}index.html"><span class="brand-mark" aria-hidden="true">◉</span> Trend Pulse</a>
+    <nav class="top-nav" aria-label="Primary">
+      {% block nav %}{% endblock %}
+      <details class="archive">
+        <summary>Archive</summary>
+        <ul>
+          {% for w in weeks %}<li><a href="{{ root }}weeks/{{ w.week }}.html">{{ w.week }} <span class="muted">{{ w.week | fmt_range }}</span></a></li>{% endfor %}
+        </ul>
+      </details>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="wrap foot">
+  <p>Built from public sources: Reddit, Bluesky, TikTok Creative Center, Google Trends, Hacker News, Product Hunt, the App Store chart and trade press feeds. Summaries are model-written from those signals and every link points back at the original.</p>
+  {% block foot %}{% endblock %}
+</footer>
+</body>
+</html>

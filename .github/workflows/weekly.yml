@@ -1,0 +1,69 @@
+name: Weekly trend digest
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"        # Mondays 12:00 UTC (8am ET)
+  workflow_dispatch:
+    inputs:
+      skip_llm:
+        description: "Skip the Claude digest step (collect + build only)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: weekly-digest
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install
+        run: |
+          uv sync --frozen
+          uv run playwright install --with-deps chromium
+
+      - name: Collect, digest, capture media, build site
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          FLAGS=""
+          if [ "${{ inputs.skip_llm }}" = "true" ] || [ -z "$ANTHROPIC_API_KEY" ]; then FLAGS="--skip-llm"; fi
+          uv run trendbot run $FLAGS
+
+      - name: Commit this week's data
+        run: |
+          git config user.name "trend-bot"
+          git config user.email "trend-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "data: $(date -u +%G-W%V)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: run
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

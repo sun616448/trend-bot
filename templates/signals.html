@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}{{ rec.week }} signals · Trend Pulse{% endblock %}
+{% block nav %}<a href="{{ root }}weeks/{{ rec.week }}.html">Digest</a>{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="eyebrow"><span>Week {{ rec.week[-2:] }}</span> <span aria-hidden="true">·</span> <span>{{ rec.week | fmt_range }}</span></p>
+  <h1>All {{ signals | length }} signals</h1>
+  <p class="lede">Every item collected this week, in ranked order. Use your browser's find to search.</p>
+</section>
+<div class="table-wrap">
+<table class="signals">
+  <thead><tr><th>#</th><th>Source</th><th>Signal</th><th>Engagement</th><th>Date</th></tr></thead>
+  <tbody>
+  {% for s in signals %}
+  <tr>
+    <td>{{ loop.index }}</td>
+    <td class="nowrap">{{ SOURCE_NAMES.get(s.source, s.source) }}<br><span class="muted">{{ s.source_label }}</span></td>
+    <td><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>{% if s.text %}<br><span class="muted small">{{ s.text[:220] }}{% if s.text | length > 220 %}…{% endif %}</span>{% endif %}</td>
+    <td class="nowrap num">
+      {% if s.metrics.upvotes %}{{ '{:,}'.format(s.metrics.upvotes) }} ↑ · {{ '{:,}'.format(s.metrics.comments) }} 💬
+      {% elif s.metrics.likes %}{{ '{:,}'.format(s.metrics.likes) }} ♥ · {{ '{:,}'.format(s.metrics.reposts) }} ↻
+      {% elif s.metrics.points %}{{ '{:,}'.format(s.metrics.points) }} pts · {{ '{:,}'.format(s.metrics.comments) }} 💬
+      {% elif s.metrics.views %}{{ s.metrics.views }} views
+      {% elif s.metrics.approx_searches %}{{ s.metrics.approx_searches }} searches
+      {% elif s.rank %}#{{ s.rank }}{% endif %}
+    </td>
+    <td class="nowrap num">{{ s.published.strftime('%b %d') if s.published else '' }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

@@ -1,0 +1,12 @@
+# private working notes
+CLAUDE.md
+.claude/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# build output (deployed via GitHub Pages action, not committed)
+site/
