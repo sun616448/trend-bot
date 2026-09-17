@@ -915,14 +915,14 @@
    }
   ]
  },
- "signal_count": 489,
+ "signal_count": 479,
  "source_counts": {
-  "bluesky": 321,
+  "bluesky": 23,
   "google_trends": 10,
   "hackernews": 40,
   "producthunt": 40,
   "appstore": 25,
-  "rss": 339,
+  "rss": 338,
   "tiktok": 3
  },
  "media": {
@@ -930,6 +930,7 @@
   "products:1": "81904970f2.jpg",
   "products:2": "2117ab563c.jpg",
   "products:3": "fd888f5996.jpg",
+  "products:4": "add393d0f1.jpg",
   "products:5": "9cd677276a.webp",
   "products:6": "19f588bac9.jpg",
   "products:7": "0124c6d75c.jpg",
@@ -953,10 +954,10 @@
   "culture:2": "47d70a9a2e.webp",
   "culture:3": "0703829b63.jpg",
   "culture:4": "bfefe5ed0c.jpg",
+  "culture:5": "a4676fe951.jpg",
   "culture:6": "beb680e147.jpg",
   "culture:7": "4ba39a42ab.webp",
-  "products:4": "add393d0f1.jpg",
-  "culture:5": "a4676fe951.jpg"
+  "campaigns:7": "ba64628978.jpg"
  },
  "notes": [
   "reddit: returned no signals",
