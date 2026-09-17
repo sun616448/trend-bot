@@ -1,9 +1,921 @@
 {
  "week": "2026-W38",
- "generated_at": "2026-09-16T06:14:49.634043Z",
- "model": null,
- "digest": null,
- "signal_count": 778,
+ "generated_at": "2026-09-17T17:39:09.067081Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Human contractors reading ChatGPT chats rattled users while fashion brands spent the week chasing music, pop-ups and collabs",
+  "tldr": [
+   "404 Media's scoop that OpenAI contractors read real ChatGPT prompts was the week's biggest consumer-tech reaction, racking up thousands of likes on Bluesky and a flood of 'just turn this setting off' posts.",
+   "Collab drops did the heavy lifting in product: Aimé Leon Dore x The North Face, Gap x A.P.C., Carhartt WIP's stainless cargo bike, and Stanley revealing Farm Rio made six of its ten bestsellers in launch week.",
+   "Coach turned its fall campaign into a Spotify hub plus a roving Tabby Tour bus, the clearest example of brands buying culture rather than media this week.",
+   "'Lemme ask ChatGPT' became a punchline: Bluesky users are openly mocking people who cite the chatbot in arguments, and creators quit Fourthwall over its gen-AI pivot.",
+   "Livestream commerce keeps compounding — 94% of TikTok Shop US luxury resale revenue now comes from lives, and QVC's Kim Gravel is launching her own live-selling platform."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Products",
+    "items": [
+     {
+      "title": "Aimé Leon Dore x The North Face returns with a 30-piece archive raid",
+      "summary": "The two brands dropped a 30-piece Fall/Winter 2026 collection on September 17, rebuilding archival silhouettes including a GORE-TEX Mountain Jacket 2000 and a late-1990s Heli Vest. It went live at 11 AM ET via both brands' channels, the usual timed-drop format that turns the release itself into content.",
+      "why_it_matters": "Archive-reissue collabs remain the most reliable way for a heritage outdoor brand to reach a fashion audience without discounting.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "fashion",
+       "collab",
+       "drop",
+       "outdoor"
+      ],
+      "hero_url": "https://hypebeast.com/2026/9/aime-leon-dore-the-north-face-new-30-piece-fw26-collaborative-collection-release-info",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/aime-leon-dore-the-north-face-new-30-piece-fw26-collaborative-collection-release-info"
+       }
+      ]
+     },
+     {
+      "title": "Pokémon's 30th anniversary cards send shoppers hunting",
+      "summary": "'30th celebration pokemon cards' pulled 10,000+ US searches this week, the highest-volume consumer query in our Google Trends set, driven by Good Morning America's guide to where to buy the anniversary cards, toys and merch. Anniversary card releases reliably trigger resale scalping and restock chasing.",
+      "why_it_matters": "Nostalgia-led collectibles are still the strongest organic demand spike of the week; retailers and adjacent brands should expect anniversary drops to dominate attention through the holiday run-up.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "collectibles",
+       "nostalgia",
+       "retail",
+       "pokemon"
+      ],
+      "hero_url": "https://trends.google.com/trends/explore?q=30th+celebration+pokemon+cards&geo=US&date=now%207-d",
+      "sources": [
+       {
+        "label": "Google Trends (US)",
+        "url": "https://trends.google.com/trends/explore?q=30th+celebration+pokemon+cards&geo=US&date=now%207-d"
+       }
+      ]
+     },
+     {
+      "title": "Stanley says Farm Rio made six of its ten bestsellers in launch week",
+      "summary": "The Quencher once accounted for 80% of Stanley 1913's business; the brand is now building its next act on collaborations and promotions. Its Farm Rio collab products made up six of Stanley's 10 bestsellers during launch week, and Stanley says it's tracking collab customers over six months to see whether limited-edition buyers ever come back.",
+      "why_it_matters": "A rare public admission that collab spikes are easy and retention is the hard part — the metric to ask for when your own drop sells out.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "collab",
+       "drinkware",
+       "retention",
+       "dtc"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/stanley-1913-quencher-farm-rio-discount-strategy/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/stanley-1913-quencher-farm-rio-discount-strategy/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Gap x A.P.C. puts a 37-piece collection at $28 to $328",
+      "summary": "Gap and A.P.C. revealed a 37-piece men's, women's and accessories collection releasing September 18, built around Japanese denim, archive-inspired jackets, sailor stripes and reworked arch logo hoodies. The price ladder starts at $28, which keeps the logo pieces impulse-buyable.",
+      "why_it_matters": "Gap continues to rent credibility from designer partners while holding mass price points — the template for legacy retailers trying to look current.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "fashion",
+       "collab",
+       "denim",
+       "gap"
+      ],
+      "hero_url": "https://hypebeast.com/2026/9/gap-a-p-c-collaborative-37-piece-apparel-accessories-collection-release-info",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/gap-a-p-c-collaborative-37-piece-apparel-accessories-collection-release-info"
+       }
+      ]
+     },
+     {
+      "title": "Capri Sun tests a giant pouch because Reddit asked for it",
+      "summary": "Kraft Heinz is testing its largest Capri Sun pouch yet, based on years of fan requests, and is using Reddit and TikTok to test-and-learn the idea in public. It's a straightforward 'we read the comments' product move from a brand whose format is its entire identity.",
+      "why_it_matters": "Packaging-scale jokes that fans have made for years are cheap, high-recognition product news — if the brand can actually ship them.",
+      "what_people_say": [
+       "Fans have been asking for a bigger pouch for years, which the brand cites as the reason for the test."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "food",
+       "fmcg",
+       "reddit",
+       "packaging"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/kraft-heinz-tests-giant-capri-sun-pouches-based-years-fan-requests/1970121",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/kraft-heinz-tests-giant-capri-sun-pouches-based-years-fan-requests/1970121"
+       }
+      ]
+     },
+     {
+      "title": "Folgers adds protein and fiber to coffee; Ritual enters perimenopause",
+      "summary": "Folgers launched a functional coffee line highlighting protein and fiber for energy, focus and digestion, while Ritual entered perimenopause care with two new products, an omnichannel campaign and its first celebrity spokesperson — the brand's first new category in six years. Both are mainstream brands borrowing the functional-wellness playbook.",
+      "why_it_matters": "Functional claims are moving from supplement startups into the grocery aisle's oldest brands, and perimenopause is now a mass-market category rather than a niche.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "wellness",
+       "food",
+       "functional",
+       "supplements"
+      ],
+      "hero_url": "https://www.fooddive.com/news/folgers-functional-coffee-protein-fiber/830509/",
+      "sources": [
+       {
+        "label": "Food Dive",
+        "url": "https://www.fooddive.com/news/folgers-functional-coffee-protein-fiber/830509/"
+       },
+       {
+        "label": "Glossy Wellness Briefing",
+        "url": "https://www.glossy.co/beauty/wellness/wellness-briefing-ritual-launches-its-first-new-product-category-in-six-years-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "The Laundress lands in Target after years as a DTC brand",
+      "summary": "Unilever-owned The Laundress is entering Target stores in its largest retail expansion to date, its first brick-and-mortar push after years of being predominantly direct-to-consumer. It arrives with a repositioned take on laundry care for a mass shopper.",
+      "why_it_matters": "Premium DTC brands are trading margin for shelf space as digital acquisition gets harder — a pattern echoed by brands rebuilding around stores this week.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "home",
+       "retail",
+       "dtc",
+       "target"
+      ],
+      "hero_url": "https://www.modernretail.co/operations/the-laundress-enters-target-embarking-on-its-largest-retail-expansion-to-date/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/operations/the-laundress-enters-target-embarking-on-its-largest-retail-expansion-to-date/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Modern Retail / Glossy on physical retail",
+        "url": "https://www.glossy.co/fashion/brands-refocus-on-physical-retail-as-ai-disrupts-digital-customer-acquisition/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Carhartt WIP builds a 150-unit stainless steel cargo bike",
+      "summary": "Carhartt WIP and Danish brand OMNIUM made a custom stainless steel Mini-Max cargo bike, limited to 150 units worldwide, with clear-coated raw welds, acid yellow co-branding and bear trap pedals. It launches September 24 in three sizes via omniumcargo.com and select dealers.",
+      "why_it_matters": "Hard-goods collabs at extreme scarcity are how apparel brands signal craft without touching their core range.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "collab",
+       "cycling",
+       "limited-edition",
+       "streetwear"
+      ],
+      "hero_url": "https://hypebeast.com/2026/9/carhartt-wip-omnium-limited-edition-stainless-steel-mini-max-cargo-bike-release-info",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/carhartt-wip-omnium-limited-edition-stainless-steel-mini-max-cargo-bike-release-info"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "Humans are reading ChatGPT prompts, and users are scrambling for the off switch",
+      "summary": "404 Media reported that OpenAI has hired contractors who read real ChatGPT users' conversations to improve its models, based on leaked internal docs, the review system and actual user prompts. Joseph Cox's post hit nearly 2,000 likes on Bluesky and he followed up with the specific setting to switch off, noting the users whose prompts he saw 'clearly have no idea a human is reading.'",
+      "why_it_matters": "The most-shared consumer tech story of the week is a trust story, not a capability story — any brand building on chat assistants should assume users now expect a privacy answer.",
+      "what_people_say": [
+       "'Humans are reading ChatGPT conversations... sometimes they contain very personal and sensitive information.'",
+       "'This is so fucking crazy. Huge huge huge scoop.'",
+       "'Here is the setting you need to turn off if you don't want a human potentially reading through your ChatGPT conversations.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "privacy",
+       "openai",
+       "trust"
+      ],
+      "hero_url": "https://bsky.app/profile/404media.co/post/3mvicvsg2222k",
+      "sources": [
+       {
+        "label": "Bluesky @josephcox.bsky.social",
+        "url": "https://bsky.app/profile/josephcox.bsky.social/post/3mvicuipa6c27"
+       },
+       {
+        "label": "Bluesky @404media.co",
+        "url": "https://bsky.app/profile/404media.co/post/3mvicvsg2222k"
+       },
+       {
+        "label": "Bluesky @samleecole.bsky.social",
+        "url": "https://bsky.app/profile/samleecole.bsky.social/post/3mvid2pvvgk2w"
+       },
+       {
+        "label": "Bluesky @josephcox.bsky.social (settings)",
+        "url": "https://bsky.app/profile/josephcox.bsky.social/post/3mvijiy7dlc2a"
+       }
+      ]
+     },
+     {
+      "title": "Snap opens pre-orders on $2,200 Specs and puts its AI on iPhone",
+      "summary": "Snap started pre-orders for consumer Specs with a 5G carrying case and launched Specs Intelligence, an 'anticipatory' AI agent that connects your other accounts and — notably — runs on iPhone and Mac whether or not you own the glasses. The Verge's hands-on says the best part was playing virtual dominoes; TechCrunch framed the week as Snap 'trying to make the case again' for $2,200 hardware.",
+      "why_it_matters": "Snap is hedging: the glasses are a hard sell, so the AI assistant goes where the users already are. Expect more hardware brands shipping phone apps as the real funnel.",
+      "what_people_say": [
+       "The Verge reviewer's favourite moment with the $2,200 glasses was pinching and dropping virtual dominoes across a table."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "wearables",
+       "snap",
+       "ar"
+      ],
+      "hero_url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "sources": [
+       {
+        "label": "The Verge hands-on",
+        "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses"
+       },
+       {
+        "label": "The Verge on Specs Intelligence",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/09/16/snap-specs-intelligence-cellular-support/"
+       }
+      ]
+     },
+     {
+      "title": "Creators are deleting Fourthwall stores over its gen-AI pivot",
+      "summary": "Fourthwall's ChatGPT-related announcement prompted creators to publicly shut down their storefronts. 'Nah fuck this and fuck you fourthwall I'll be closing down my fourthwall,' one artist posted; another said they'd take their shop down the same day and start looking for alternatives.",
+      "why_it_matters": "For creator-economy platforms, an AI feature announcement is now a retention risk with the exact audience that generates the GMV.",
+      "what_people_say": [
+       "'Nah fuck this and fuck you fourthwall I'll be closing down my fourthwall... hopefully will have something else in the future.'",
+       "'This is how I learn that Fourthwall has gone all in on catering to Gen AI... I'll be taking down my Fourthwall shop later today and will be looking into alternatives.'"
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "creator-economy",
+       "backlash",
+       "ecommerce"
+      ],
+      "hero_url": "https://bsky.app/profile/samhainvt.bsky.social/post/3mv6mbrdmkk25",
+      "sources": [
+       {
+        "label": "Bluesky @magicmarionette",
+        "url": "https://bsky.app/profile/magicmarionette.bsky.social/post/3mv6mpbdzg22t"
+       },
+       {
+        "label": "Bluesky @samhainvt",
+        "url": "https://bsky.app/profile/samhainvt.bsky.social/post/3mv6mbrdmkk25"
+       }
+      ]
+     },
+     {
+      "title": "94% of TikTok Shop's US luxury resale revenue now comes from livestreams",
+      "summary": "TikTok told press during Fashion Week that year to date, 94% of US luxury resale revenue on TikTok Shop comes from live selling. In the same week, QVC host Kim Gravel said she's launching her own live-selling platform, pitching live shopping as the new appointment TV.",
+      "why_it_matters": "Live is no longer a test line item for resale and secondhand luxury — it's effectively the whole channel, and it needs hosts, not just listings.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "livestream",
+       "resale",
+       "tiktok",
+       "commerce"
+      ],
+      "hero_url": "https://www.modernretail.co/operations/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/operations/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/media/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Adweek on Kim Gravel",
+        "url": "https://www.adweek.com/commerce/kim-gravel-wants-to-make-live-selling-the-new-appointment-tv/"
+       }
+      ]
+     },
+     {
+      "title": "Resale apps and prediction markets are the non-AI story in the App Store top 25",
+      "summary": "Behind ChatGPT at #1 and Meta's Muse at #2, the US free chart is full of secondhand and betting: Vinted at #3, Depop at #5, Polymarket at #9 and Kalshi at #13, plus TikTok's PineDrama short-drama app at #7. Google Gemini sits at #4 and Claude at #8.",
+      "why_it_matters": "Two consumer habits are scaling at once — buying used and wagering on live sports — and both are now default-screen apps rather than niche ones.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "apps",
+       "resale",
+       "prediction-markets",
+       "charts"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+      "sources": [
+       {
+        "label": "App Store top free (US) — Vinted",
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+       },
+       {
+        "label": "App Store top free (US) — Depop",
+        "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914"
+       },
+       {
+        "label": "App Store top free (US) — Polymarket",
+        "url": "https://apps.apple.com/us/app/polymarket-trade-live-sports/id6648798962"
+       },
+       {
+        "label": "App Store top free (US) — PineDrama",
+        "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922"
+       },
+       {
+        "label": "App Store top free (US) — ChatGPT",
+        "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+       }
+      ]
+     },
+     {
+      "title": "OpenAI's six safety incidents land as the AI slowdown argument goes public",
+      "summary": "OpenAI published a framework for reporting unsafe model behaviour and disclosed six incidents from the past six months, which pushed 'artificial intelligence news' into US Google Trends. Separately, mathematicians publicly attacked OpenAI's methods, Dario Amodei argued 'we must pace the frontier,' and Mark Zuckerberg took a swipe at Anthropic over the slowdown debate — with Hacker News mocking the whole genre as 'everyone should slow down AI development except for me.'",
+      "why_it_matters": "The AI-safety argument has moved from labs to search queries and consumer discourse, which changes how brands can credibly talk about using AI.",
+      "what_people_say": [
+       "Hacker News summed the debate up as 'everyone should slow down AI development except for me,' with 811 points and 455 comments.",
+       "A separate HN thread asked outright: 'Can we please limit the AI news flood?'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "safety",
+       "openai",
+       "discourse"
+      ],
+      "hero_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "sources": [
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html"
+       },
+       {
+        "label": "Google Trends (US)",
+        "url": "https://trends.google.com/trends/explore?q=artificial+intelligence+news&geo=US&date=now%207-d"
+       },
+       {
+        "label": "NYT on Zuckerberg vs Anthropic",
+        "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html"
+       },
+       {
+        "label": "Hacker News — AI news flood",
+        "url": "https://news.ycombinator.com/item?id=49657850"
+       }
+      ]
+     },
+     {
+      "title": "Canva pumped the brakes on its AI rollout",
+      "summary": "Canva co-founder Cameron Adams explained why the company slowed down its large AI rollout, arguing brands should look past the hype of the biggest models. It's a rare public case of a mass-market creative tool choosing restraint while competitors ship weekly.",
+      "why_it_matters": "A usable counter-narrative for brands under pressure to ship AI features: slowing down is now a defensible positioning, not an admission of weakness.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "design",
+       "canva",
+       "product"
+      ],
+      "hero_url": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
+      "sources": [
+       {
+        "label": "Creative Bloq",
+        "url": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it"
+       }
+      ]
+     },
+     {
+      "title": "Google's ad tech remedies land softer than advertisers hoped",
+      "summary": "A federal judge ordered Google to share data and make its ad tech more compatible with competitors' products, stopping short of the breakup the government demanded — a ruling the NYT says leaves the business 'largely unscathed.' The same week, developers went viral complaining about Google's ad quality, including one who spent $220 on Google app ads and found 60% of installs were bots.",
+      "why_it_matters": "The plumbing of digital media isn't changing much, but buyer trust in it keeps eroding — expect more brands shifting budget to retail media and physical channels.",
+      "what_people_say": [
+       "A developer reported spending $220 on Google app install ads and finding 60% of the installs were robots (761 points on HN).",
+       "Another widely-read post simply asked: 'Why is Google still serving dodgy ads?'"
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "adtech",
+       "google",
+       "antitrust",
+       "fraud"
+      ],
+      "hero_url": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+      "sources": [
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html"
+       },
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Coach runs fall on music: a Spotify hub and a Tabby Tour bus",
+      "summary": "Coach's fall campaign puts music at the centre, with a custom Spotify hub for sharing music taste and a roving 'Tabby Tour' hosting live performances and experiences. It landed in the same week Coach's bags and shoes were being credited by editors as the practical survival kit of New York Fashion Week.",
+      "why_it_matters": "A platform integration plus a touring physical activation is the current default for accessory brands chasing Gen Z — media, playlist data and footfall in one build.",
+      "what_people_say": [
+       "Fashionista editors credited Coach's 'chic-yet-functional' bags and footwear with getting them through the September shows."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "music",
+       "spotify",
+       "experiential"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/coach-channels-music-into-fall-campaign-with-spotify-integration-bus-tour/830501/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/coach-channels-music-into-fall-campaign-with-spotify-integration-bus-tour/830501/"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/shopping/shop-best-bags-shoes-coach-new-york-fashion-week"
+       }
+      ]
+     },
+     {
+      "title": "Beauty brands turned NYFW into a party circuit, not a front row",
+      "summary": "The most-covered brand moments of New York Fashion Week SS27 were social: Miu Miu had guests playing backgammon and testing scents, Chanel threw a Coco Mademoiselle cocktail, Acne Studios marked 30 years, and Collina Strada bussed the fashion crowd to Beacon, New York for a show that felt like summer camp. NYLON even ran a Pilates-led 'surviving NYFW' wellness guide for members.",
+      "why_it_matters": "The shareable asset from fashion week is now the party and the shuttle bus, which is cheaper than a runway and gets distributed by guests for free.",
+      "what_people_say": [
+       "Street style subjects' advice of the week: 'Just go for it, bitch. If there's something in the back of your closet that you're terrified of, wear it.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "fashion-week",
+       "beauty",
+       "experiential",
+       "nyfw"
+      ],
+      "hero_url": "https://www.nylon.com/nylon-nights/new-york-fashion-week-ss27-party-photos-roundup",
+      "sources": [
+       {
+        "label": "NYLON",
+        "url": "https://www.nylon.com/nylon-nights/new-york-fashion-week-ss27-party-photos-roundup"
+       },
+       {
+        "label": "Highsnobiety on Collina Strada",
+        "url": "https://www.highsnobiety.com/p/collina-strada-ss27-electric-storm-king-acid-trip/"
+       },
+       {
+        "label": "Dazed street style",
+        "url": "https://www.dazeddigital.com/fashion/article/70965/1/best-street-style-photos-new-york-fashion-week-nyfw-ss27-speakerbox?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-best-street-style-from-new-york-fashion-week-ss27"
+       },
+       {
+        "label": "NYLON membership guide",
+        "url": "https://www.nylon.com/nylon-nights/nylon-membership-nyfw-wellness"
+       }
+      ]
+     },
+     {
+      "title": "Sonos trades specs for vibes to win back the people it annoyed",
+      "summary": "Sonos debuted its first non-product-driven creative under CMO Colleen DeCourcy, moving from 'sound check to vibe check' after a turbulent app redesign and executive overhaul. The repositioning leans on emotion and experiences rather than audiophile credentials.",
+      "why_it_matters": "A test case for brand-led apology: whether feelings-first advertising can repair a reputation damaged by a broken product experience.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "rebrand",
+       "audio",
+       "brand-marketing",
+       "sonos"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/sonos-brand-repositioning-trades-specs-for-vibes-in-hunt-for-comeback/830462/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/sonos-brand-repositioning-trades-specs-for-vibes-in-hunt-for-comeback/830462/"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/sound-check-vibe-check-sonos-new-global-campaign-aims-win-back-customers/1970055"
+       }
+      ]
+     },
+     {
+      "title": "Carter's does its first brand overhaul since 2000 for millennial and Gen Z parents",
+      "summary": "Carter's revealed a new logo, revamped social strategy and a campaign rooted in self-expression — its first major refresh in more than 25 years. CMO Sarah Crockett framed it as repositioning the messaging for younger parents rather than just refreshing the mark.",
+      "why_it_matters": "Baby and kids brands are being judged on the parent's identity, not the child's — expression and humour are replacing safety-and-softness codes.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "rebrand",
+       "kids",
+       "parenting",
+       "identity"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/carters-unveils-brand-refresh-as-it-courts-more-gen-z-and-millennial-parents/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/carters-unveils-brand-refresh-as-it-courts-more-gen-z-and-millennial-parents/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/carters-refreshing-brand-gen-z-millennial-parents/830443/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/"
+       }
+      ]
+     },
+     {
+      "title": "NFL and music awards become the season's sponsorship battlegrounds",
+      "summary": "Jersey Mike's launched 'Game Day Mike's Way,' billed as its most integrated campaign yet and its first big NFL push as a public company, while 'where to watch nfl games' trended in US search for Week 2. On the music side, NYX powered TelevisaUnivision's first PJ Fest event, an experiential spin-off of Premios Juventud, and Eater is hosting an El Pre Party during Billboard Latin Music Week with a Walmart collab dish.",
+      "why_it_matters": "Fandom events are the reliable reach buy this autumn, and brands are increasingly sponsoring the pre-party rather than the main stage.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "sponsorship",
+       "nfl",
+       "music",
+       "experiential"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/jersey-mikes-kicks-off-nfl-campaign-as-digital-marketing-spend-surges/830330/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/jersey-mikes-kicks-off-nfl-campaign-as-digital-marketing-spend-surges/830330/"
+       },
+       {
+        "label": "Google Trends (US)",
+        "url": "https://trends.google.com/trends/explore?q=where+to+watch+nfl+games&geo=US&date=now%207-d"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/televisaunivision-pj-fest-nyx?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Eater",
+        "url": "https://www.eater.com/press-room/984310/tickets-el-pre-party"
+       }
+      ]
+     },
+     {
+      "title": "Pop-ups get a job: Beyond Yoga's Glowzone and Laura Geller's bakery",
+      "summary": "Beyond Yoga opened a New York pop-up built around its new Glowzone fabrication as it expands on the East Coast, while Laura Geller is running a three-day 'Beauty of Baked' pop-up in Covent Garden to explain the Italian craftsmanship behind its Baked collection. Both use the space to demonstrate a product claim rather than just hand out samples.",
+      "why_it_matters": "With AI scrambling digital acquisition, brands are using physical space as the proof point for technical claims customers won't read online.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "pop-up",
+       "retail",
+       "beauty",
+       "activewear"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/beyond-yoga-stresses-performance-offerings-in-new-nyc-pop-up/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/beyond-yoga-stresses-performance-offerings-in-new-nyc-pop-up/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/laura-geller-beauty-to-host-bakery-themed-london-pop-up"
+       },
+       {
+        "label": "Modern Retail on physical retail",
+        "url": "https://www.modernretail.co/marketing/brands-refocus-on-physical-retail-as-ai-disrupts-digital-customer-acquisition/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Wikipedia campaigns for credit in the age of answer engines",
+      "summary": "At Brandweek, Wikipedia's director of brand argued that being everywhere without attribution is an existential threat as AI answer engines absorb its content, and outlined a new campaign to fix it. It's a brand-awareness problem caused entirely by other people's products.",
+      "why_it_matters": "Every content-led brand now faces the same question: if AI answers cite nothing, what is your brand actually buying with all that SEO work?",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "brand",
+       "media",
+       "attribution"
+      ],
+      "hero_url": "https://www.adweek.com/media/wikipedia-survive-answer-engine-apocalypse/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/media/wikipedia-survive-answer-engine-apocalypse/"
+       }
+      ]
+     },
+     {
+      "title": "Life360 drops the dark comedy for a crash-detection tearjerker",
+      "summary": "Life360's new spot 'The Tap' is a deliberate departure from the brand's usual dark comedy, using an emotional story to highlight its Crash Detection feature. It's a tonal pivot for an app whose marketing usually leans on surveillance jokes between family members.",
+      "why_it_matters": "Utility features get remembered when they're dramatised — but switching tone risks the in-joke relationship the brand built with its users.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "advertising",
+       "apps",
+       "safety",
+       "creative"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/the-tap-dramatic-departure-life360s-usual-dark-comedy/1970213",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/the-tap-dramatic-departure-life360s-usual-dark-comedy/1970213"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "'Lemme ask ChatGPT' is now a self-own",
+      "summary": "Bluesky spent the week ridiculing people who cite chatbots as authority. 'If your opponent pulls up ChatGPT during an argument against you, you win by default' cleared 700 likes; 'RT if you've never had a tab of ChatGPT open, period' became a loyalty test; and jokes ranged from 'I beat chatgpt at chess in one move' to '\"I asked ChatGPT\" well I asked my cat. he farted.'",
+      "why_it_matters": "Among culturally online audiences, visible AI use is becoming a status negative — the same week ChatGPT sits at #1 on the App Store. Brands should separate using AI from bragging about it.",
+      "what_people_say": [
+       "'If your opponent pulls up ChatGPT during an argument against you, you win by default.'",
+       "'The way they say \"Lemme ASK ChatGPT\" like it's a person just adds onto the discomfort for me.'",
+       "'Colleges could subsidize books for students rather than paying for premium versions of ChatGPT.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "discourse",
+       "bluesky",
+       "backlash"
+      ],
+      "hero_url": "https://bsky.app/profile/feefal.bsky.social/post/3mvo3lfzu6s2o",
+      "sources": [
+       {
+        "label": "Bluesky @feefal",
+        "url": "https://bsky.app/profile/feefal.bsky.social/post/3mvo3lfzu6s2o"
+       },
+       {
+        "label": "Bluesky @jongraywb",
+        "url": "https://bsky.app/profile/jongraywb.blacksky.app/post/3mv6gxfnuzk2b"
+       },
+       {
+        "label": "Bluesky @altonotone",
+        "url": "https://bsky.app/profile/altonotone.bsky.social/post/3mvnlhlugsk2n"
+       },
+       {
+        "label": "Bluesky @aste-le-manicou",
+        "url": "https://bsky.app/profile/aste-le-manicou.bsky.social/post/3mvhyo6nj3k2z"
+       },
+       {
+        "label": "Bluesky @asheeshks",
+        "url": "https://bsky.app/profile/asheeshks.org/post/3mvkqoujpss2t"
+       }
+      ]
+     },
+     {
+      "title": "#starbyface and AI portrait prompts keep the face-filter format alive",
+      "summary": "#starbyface pulled 14.7K posts and 53.1M views on TikTok in seven days as people compare themselves to celebrity lookalikes, while the parallel 'ask ChatGPT to show what you'd look like in the 80s' prompt trend drew pushback from artists — 'Or just do it yourself.'",
+      "why_it_matters": "AI-portrait formats are the cheapest participation mechanic available right now, but the audience most likely to amplify them is also the most likely to mock them.",
+      "what_people_say": [
+       "'\"Ask ChatGPT to show what you would look like in the 80s\" Or just do it yourself.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "tiktok",
+       "ai",
+       "format",
+       "selfies"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/starbyface",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/starbyface"
+       },
+       {
+        "label": "Bluesky @zeemachine",
+        "url": "https://bsky.app/profile/zeemachine.bsky.social/post/3mv7kfr3q622p"
+       }
+      ]
+     },
+     {
+      "title": "AI slop recipe videos are wearing out their welcome",
+      "summary": "A new TikTok format — AI-generated recipe videos that open with 'Did you know…' — is spreading fast enough to annoy people out loud: 'Sweet Jesus. Another trend on TikTok is ai recipe videos that start with \"Did you know…\" I'm sick of that shit.' It sits alongside broader grumbling that every bad social trend traces back to TikTok.",
+      "why_it_matters": "Synthetic food content is flooding the feed that food brands rely on, which raises the value of visibly human cooking content.",
+      "what_people_say": [
+       "'Another trend on TikTok is ai recipe videos that start with \"Did you know…\" I'm sick of that shit.'",
+       "'Any time some utterly terrible social trend happens it can almost always be traced back to tiktok.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "tiktok",
+       "ai-slop",
+       "food",
+       "format"
+      ],
+      "hero_url": "https://bsky.app/profile/amerrill2.bsky.social/post/3mvg5ybpg6s2u",
+      "sources": [
+       {
+        "label": "Bluesky @amerrill2",
+        "url": "https://bsky.app/profile/amerrill2.bsky.social/post/3mvg5ybpg6s2u"
+       },
+       {
+        "label": "Bluesky @jackalopezone",
+        "url": "https://bsky.app/profile/jackalopezone.neocities.org/post/3mv6nb4bx4c2w"
+       }
+      ]
+     },
+     {
+      "title": "Accidental barefoot becomes the NYFW image of the season",
+      "summary": "Bare feet showed up on runways at Tory Burch and 7 For All Mankind — not as a styling choice but because of shoe mishaps, according to Fashionista, which asked whether it's a trend or just accidents. Either way it's the detail that travelled from the SS27 shows.",
+      "why_it_matters": "The aesthetic that spreads out of fashion week is increasingly the glitch, not the look — useful for brands deciding what to plan versus what to react to.",
+      "what_people_say": [
+       "Fashionista's verdict on whether the barefoot moment was intentional: 'It's a bit of both.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "fashion",
+       "nyfw",
+       "aesthetic",
+       "footwear"
+      ],
+      "hero_url": "https://fashionista.com/2026/09/nyfw-spring-2027-trend-accidental-barefoot",
+      "sources": [
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/09/nyfw-spring-2027-trend-accidental-barefoot"
+       }
+      ]
+     },
+     {
+      "title": "Gen Z's trust floor keeps dropping",
+      "summary": "Only 13% of Gen Z say most people can be trusted and 74% think 'you can't be too careful,' per a Washington University report — which calls it the least trusting generation in modern American history. Marketers read it the same week Adweek argued the monoculture is dead and brands should build for niche communities instead of trying to be everywhere at once.",
+      "why_it_matters": "Low trust plus no monoculture means credibility gets borrowed from communities and named humans, not from scale media buys.",
+      "what_people_say": [
+       "'Gen Z will be the least trusting generation in modern American history,' wrote researcher Ryan Burge."
+      ],
+      "momentum": "steady",
+      "tags": [
+       "gen-z",
+       "trust",
+       "strategy",
+       "niche"
+      ],
+      "hero_url": "https://www.fastcompany.com/91605455/gen-z-doesnt-trust-anyone-especially-their-bosses-data-shows",
+      "sources": [
+       {
+        "label": "Fast Company",
+        "url": "https://www.fastcompany.com/91605455/gen-z-doesnt-trust-anyone-especially-their-bosses-data-shows"
+       },
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/brand-marketing/monoculture-dead-niche-communities-bing-chen-gold-house/"
+       }
+      ]
+     },
+     {
+      "title": "A bird-listening e-ink frame became the week's cozy-tech hit",
+      "summary": "'An e-ink frame that hears birds and draws them as 1800s illustrations' hit 2,143 points and 243 comments on Hacker News, the top-ranked HN item of the week. It's a hand-built object whose whole appeal is that it does one charming, non-productive thing.",
+      "why_it_matters": "The counter-programming to agentic AI is small, analogue-feeling, single-purpose objects — a useful brief for anyone designing physical product or gifting.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "hardware",
+       "cozy-tech",
+       "design",
+       "hackernews"
+      ],
+      "hero_url": "https://github.com/arnegiacomo/fugleramme",
+      "sources": [
+       {
+        "label": "Project repo",
+        "url": "https://github.com/arnegiacomo/fugleramme"
+       }
+      ]
+     },
+     {
+      "title": "The Ed Sheeran tour fallout tests what fans expect from artists",
+      "summary": "After Macklemore was removed from Ed Sheeran's tour over pro-Palestine comments, a wave of other artists withdrew in solidarity and Sheeran has lost more than 200,000 Instagram followers so far. Dazed has been tracking who dropped out and framing it as a shift in cultural politics around the issue.",
+      "why_it_matters": "Touring is a brand-sponsored environment; the week showed how fast audience punishment can transfer from an artist to everyone attached to the tour.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "music",
+       "fandom",
+       "sponsorship",
+       "backlash"
+      ],
+      "hero_url": "https://www.dazeddigital.com/music/article/70971/1/artists-that-dropped-out-of-ed-sheeran-tour-macklemore-palestine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=who-are-the-artists-that-dropped-out-of-ed-sheeran-s-tour",
+      "sources": [
+       {
+        "label": "Morning Brew",
+        "url": "https://www.morningbrew.com/stories/the-ed-sheeran-tour-fallout-continues?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/music/article/70971/1/artists-that-dropped-out-of-ed-sheeran-tour-macklemore-palestine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=who-are-the-artists-that-dropped-out-of-ed-sheeran-s-tour"
+       }
+      ]
+     },
+     {
+      "title": "Value-seeking is the mood: private label, dupes and coupon hunting",
+      "summary": "Kroger reported its own brands outperforming national brands, with CEO Greg Foran pointing to demand for 'anything that is answering a customer's question around value.' BuzzFeed's shopping traffic leaned the same way with '23 cheaper versions of shoes just as good as the name brands,' and the Fed raised rates for the first time in three years.",
+      "why_it_matters": "Dupe content and private label aren't a recession affectation any more — they're the default consideration set, and brand-name premiums need an explicit justification.",
+      "what_people_say": [
+       "Kroger's CEO says shoppers want 'anything that is answering a customer's question around value.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "value",
+       "private-label",
+       "dupes",
+       "retail"
+      ],
+      "hero_url": "https://www.fooddive.com/news/kroger-private-label-second-quarter-2026/830517/",
+      "sources": [
+       {
+        "label": "Food Dive",
+        "url": "https://www.fooddive.com/news/kroger-private-label-second-quarter-2026/830517/"
+       },
+       {
+        "label": "BuzzFeed",
+        "url": "https://www.buzzfeed.com/jenae_sitzes/cheaper-shoe-alternatives-to-name-brands-september-2026-an"
+       },
+       {
+        "label": "Morning Brew",
+        "url": "https://www.morningbrew.com/stories/the-fed-raises-rates-for-the-first-time-in-3-years?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Gap x A.P.C. collection drop",
+    "when": "Sep 18",
+    "angle": "37 pieces from $28 to $328 — watch whether the cheap logo hoodies sell out first and become the meme of the drop."
+   },
+   {
+    "name": "Milan and Paris Fashion Weeks SS27",
+    "when": "Sep 22 – early Oct",
+    "angle": "Expect the NYFW pattern to repeat: brand parties, scent and jewellery activations and shuttle-bus stunts generating more content than the runways."
+   },
+   {
+    "name": "Carhartt WIP x OMNIUM cargo bike launch",
+    "when": "Sep 24",
+    "angle": "150 units worldwide via omniumcargo.com; a test of whether apparel brands can make hard goods sell out like sneakers."
+   },
+   {
+    "name": "Oktoberfest season",
+    "when": "Sep 19 – Oct 4",
+    "angle": "Beer, pretzel and stein-led limited editions and bar takeovers, plus the maple-and-fall recipe content already ramping in food media."
+   },
+   {
+    "name": "October Prime Day-style sales events",
+    "when": "early Oct",
+    "angle": "With the Fed raising rates and Kroger reporting private-label gains, value messaging and dupe comparisons will dominate the sale window."
+   },
+   {
+    "name": "Halloween content and streaming horror slate",
+    "when": "Oct, ramping now",
+    "angle": "Peacock, Netflix, Amazon and AMC all previewed horror-adjacent series at TIFF, so expect competing spooky tie-ins, pop-ups and limited-edition flavours through October."
+   },
+   {
+    "name": "Billboard Latin Music Week and Eater's El Pre Party",
+    "when": "coming weeks",
+    "angle": "Walmart already has a collab dish in the mix; the pre-party is where brands are buying in rather than the main event."
+   }
+  ]
+ },
+ "signal_count": 489,
  "source_counts": {
   "bluesky": 321,
   "google_trends": 10,
@@ -13,7 +925,39 @@
   "rss": 339,
   "tiktok": 3
  },
- "media": {},
+ "media": {
+  "products:0": "7ecb64dd48.jpg",
+  "products:1": "81904970f2.jpg",
+  "products:2": "2117ab563c.jpg",
+  "products:3": "fd888f5996.jpg",
+  "products:5": "9cd677276a.webp",
+  "products:6": "19f588bac9.jpg",
+  "products:7": "0124c6d75c.jpg",
+  "digital:0": "dfe74b8eab.webp",
+  "digital:1": "137f2bb5fd.jpg",
+  "digital:2": "76f67be0ab.webp",
+  "digital:3": "b2bac31c41.jpg",
+  "digital:4": "749bfb4772.png",
+  "digital:5": "1a76ff787b.jpg",
+  "digital:6": "de598d8b53.jpg",
+  "digital:7": "83f5b778f1.jpg",
+  "campaigns:0": "f70cab9b52.webp",
+  "campaigns:1": "5ed468d96c.jpg",
+  "campaigns:2": "48377a0ceb.webp",
+  "campaigns:3": "c34f01bede.jpg",
+  "campaigns:4": "15542c3450.webp",
+  "campaigns:5": "20abbe9bf4.jpg",
+  "campaigns:6": "005834f759.jpg",
+  "culture:0": "24aa320505.webp",
+  "culture:1": "db7fc62737.webp",
+  "culture:2": "47d70a9a2e.webp",
+  "culture:3": "0703829b63.jpg",
+  "culture:4": "bfefe5ed0c.jpg",
+  "culture:6": "beb680e147.jpg",
+  "culture:7": "4ba39a42ab.webp",
+  "products:4": "add393d0f1.jpg",
+  "culture:5": "a4676fe951.jpg"
+ },
  "notes": [
   "reddit: returned no signals",
   "youtube: returned no signals"

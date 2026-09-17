@@ -9,7 +9,9 @@
     "reddit": true,
     "http": {
       "enable": true,
-      "domains": ["api.github.com"]
+      "domains": [
+        "api.github.com"
+      ]
     }
   },
   "settings": {
@@ -17,7 +19,6 @@
       "githubToken": {
         "type": "string",
         "label": "GitHub fine-grained token with Contents read/write on the digest repo",
-        "defaultValue": "",
         "isSecret": true
       },
       "githubRepo": {
@@ -41,7 +42,9 @@
         "label": "Trend Pulse: export Reddit top posts now",
         "description": "Collect this week's top posts from the configured subreddits and push them to GitHub.",
         "forUserType": "moderator",
-        "location": ["subreddit"],
+        "location": [
+          "subreddit"
+        ],
         "endpoint": "/internal/menu/run-now"
       }
     ]

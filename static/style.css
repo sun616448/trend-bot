@@ -105,9 +105,9 @@ p { margin: 0; }
 .radar { background: var(--bg-surface); border: 1px solid var(--border); border-radius: var(--radius-card); padding: 20px 24px; margin-block: 16px 40px; }
 .radar h2 { font-size: 1.125rem; }
 .radar-list { list-style: none; margin: 14px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px 24px; }
-.radar-list li { display: grid; grid-template-columns: 96px 1fr; gap: 12px; align-items: start; }
+.radar-list li { display: grid; grid-template-columns: 118px 1fr; gap: 12px; align-items: start; }
 .radar-list p { color: var(--text-secondary); font-size: 0.9375rem; text-wrap: pretty; }
-.radar-when { color: var(--accent-text); font-weight: 600; font-size: 0.875rem; font-variant-numeric: tabular-nums; white-space: nowrap; padding-block-start: 2px; }
+.radar-when { color: var(--accent-text); font-weight: 600; font-size: 0.875rem; font-variant-numeric: tabular-nums; padding-block-start: 2px; }
 
 /* sections */
 .section { margin-block: 40px 56px; scroll-margin-top: 72px; }
