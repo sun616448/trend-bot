@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
-  "name": "trendpulse-reddit",
+  "name": "trendpulsedev",
   "server": {
     "dir": "dist/server",
     "entry": "index.cjs"
@@ -52,5 +52,12 @@
   "scripts": {
     "build": "npm run build",
     "dev": "npm run watch"
+  },
+  "dev": {
+    "subreddit": "trendpulsedev_dev"
+  },
+  "triggers": {
+    "onAppInstall": "/internal/triggers/app-install",
+    "onAppUpgrade": "/internal/triggers/app-upgrade"
   }
 }

@@ -41,10 +41,12 @@ def collect() -> list[Signal]:
         log.warning(note)
     data = json.loads(path.read_text())
     out: list[Signal] = []
+    seen: set[str] = set()
     for p in data.get("posts", []):
         url = p.get("permalink") or ""
-        if not url:
+        if not url or url in seen:   # r/all and r/popular repeat posts from the other subs
             continue
+        seen.add(url)
         text = clean(p.get("body"))
         if not text and p.get("url") and "reddit.com" not in p["url"]:
             text = f"Links to: {p['url']}"

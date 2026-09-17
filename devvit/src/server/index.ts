@@ -105,8 +105,9 @@ async function readBody(req: IncomingMessage): Promise<string> {
 }
 
 function json(res: ServerResponse, status: number, body: unknown): void {
-  res.writeHead(status, { "Content-Type": "application/json" });
-  res.end(JSON.stringify(body));
+  const payload = JSON.stringify(body);
+  res.writeHead(status, { "Content-Type": "application/json", "Content-Length": Buffer.byteLength(payload) });
+  res.end(payload);
 }
 
 const server = createServer(async (req: IncomingMessage, res: ServerResponse) => {
@@ -116,6 +117,12 @@ const server = createServer(async (req: IncomingMessage, res: ServerResponse) =>
     if (req.method === "POST" && url.startsWith("/internal/scheduler/collect-weekly")) {
       await runExport();
       return json(res, 200, { status: "ok" });
+    }
+    if (req.method === "POST" && url.startsWith("/internal/triggers/app-")) {
+      // Run once on install and on every upgrade so each upload doubles as an end-to-end test.
+      console.log("trendpulse-reddit: install/upgrade trigger, running export");
+      await runExport();
+      return json(res, 200, {});
     }
     if (req.method === "POST" && url.startsWith("/internal/menu/run-now")) {
       const msg = await runExport();

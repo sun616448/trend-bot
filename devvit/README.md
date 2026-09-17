@@ -23,7 +23,7 @@ The following domains are requested for this app:
 cd devvit
 npm install
 npx devvit login            # opens a browser; use the Reddit account that owns the app
-npm run dev                 # playtests: creates r/trendpulse-reddit_dev and installs the app
+npm run dev                 # playtests: creates r/trendpulsedev_dev and installs the app
 npx devvit settings set githubToken   # paste a fine-grained PAT with Contents: read/write on the repo
 ```
 
