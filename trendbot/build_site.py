@@ -3,6 +3,8 @@ from __future__ import annotations
 
 import json
 import shutil
+
+import markdown
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
@@ -88,5 +90,9 @@ def build(data: Path, out: Path) -> None:
             (out / "index.html").write_text(week_tpl.render(root="./", **ctx))
     if not weeks:
         (out / "index.html").write_text(env.get_template("empty.html").render(root="./"))
+    legal = env.get_template("legal.html")
+    for name, title in (("terms", "Terms of use"), ("privacy", "Privacy policy")):
+        body = markdown.markdown((ROOT / "templates" / f"_{name}.md").read_text())
+        (out / f"{name}.html").write_text(legal.render(root="./", weeks=weeks, page_title=title, body=body))
     (out / ".nojekyll").write_text("")
     print(f"site: {len(weeks)} week(s) -> {out}")

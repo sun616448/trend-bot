@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% set weeks = weeks or [] %}
+{% block title %}{{ page_title }} · Trend Pulse{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>{{ page_title }}</h1>
+  <p class="lede">For the Trend Pulse dashboard and its companion Reddit app, trendpulse-reddit.</p>
+</section>
+<div class="legal">{{ body | safe }}</div>
+{% endblock %}

@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "trendpulse-reddit",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild --bundle --log-level=warning --target=es2023 --format=cjs --outfile=dist/server/index.cjs --platform=node src/server/index.ts",
+    "dev": "devvit playtest",
+    "watch": "npm run build -- --watch=forever",
+    "check": "tsc --noEmit",
+    "upload": "npm run build && devvit upload"
+  },
+  "devDependencies": {
+    "@devvit/web": "0.14.3",
+    "@types/node": "24.13.3",
+    "devvit": "0.14.3",
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3"
+  }
+}

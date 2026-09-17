@@ -173,3 +173,5 @@ table.signals td:first-child { color: var(--text-tertiary); font-variant-numeric
 
 .foot { margin-block-start: 40px; color: var(--text-tertiary); font-size: 0.875rem; display: grid; gap: 8px; max-width: 75ch; }
 code { background: var(--bg-muted); padding: 2px 6px; border-radius: 6px; font-size: 0.9em; }
+.legal { max-width: 70ch; display: grid; gap: 14px; text-wrap: pretty; }
+.legal p { margin: 0; }

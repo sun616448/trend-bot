@@ -1,0 +1,53 @@
+{
+  "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
+  "name": "trendpulse-reddit",
+  "server": {
+    "dir": "dist/server",
+    "entry": "index.cjs"
+  },
+  "permissions": {
+    "reddit": true,
+    "http": {
+      "enable": true,
+      "domains": ["api.github.com"]
+    }
+  },
+  "settings": {
+    "global": {
+      "githubToken": {
+        "type": "string",
+        "label": "GitHub fine-grained token with Contents read/write on the digest repo",
+        "defaultValue": "",
+        "isSecret": true
+      },
+      "githubRepo": {
+        "type": "string",
+        "label": "GitHub repo that receives the weekly Reddit export (owner/name)",
+        "defaultValue": "sun616448/trend-bot"
+      }
+    }
+  },
+  "scheduler": {
+    "tasks": {
+      "collect-weekly": {
+        "endpoint": "/internal/scheduler/collect-weekly",
+        "cron": "0 11 * * 1"
+      }
+    }
+  },
+  "menu": {
+    "items": [
+      {
+        "label": "Trend Pulse: export Reddit top posts now",
+        "description": "Collect this week's top posts from the configured subreddits and push them to GitHub.",
+        "forUserType": "moderator",
+        "location": ["subreddit"],
+        "endpoint": "/internal/menu/run-now"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "npm run build",
+    "dev": "npm run watch"
+  }
+}
