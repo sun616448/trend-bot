@@ -3,8 +3,19 @@
  "generated_at": "2026-09-16T06:14:49.634043Z",
  "model": null,
  "digest": null,
- "signal_count": 278,
- "source_counts": {},
+ "signal_count": 489,
+ "source_counts": {
+  "bluesky": 32,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 339,
+  "tiktok": 3
+ },
  "media": {},
- "notes": []
+ "notes": [
+  "reddit: returned no signals",
+  "youtube: returned no signals"
+ ]
 }
