@@ -3,9 +3,9 @@
  "generated_at": "2026-09-16T06:14:49.634043Z",
  "model": null,
  "digest": null,
- "signal_count": 489,
+ "signal_count": 778,
  "source_counts": {
-  "bluesky": 32,
+  "bluesky": 321,
   "google_trends": 10,
   "hackernews": 40,
   "producthunt": 40,
