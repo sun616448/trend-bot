@@ -10,3 +10,6 @@ __pycache__/
 
 # build output (deployed via GitHub Pages action, not committed)
 site/
+
+# TikTok Creative Center login session (written by `trendbot tiktok-login`)
+.tiktok_state.json

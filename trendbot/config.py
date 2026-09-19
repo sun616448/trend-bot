@@ -80,6 +80,13 @@ RSS_FEEDS: dict[str, str] = {
     "BuzzFeed": "https://www.buzzfeed.com/index.xml",
 }
 
+# TikTok Creative Center: industry filters to pull a separate top list for (logged-in only).
+# Options as of Sept 2026: Education, Vehicle & Transportation, Baby, Kids & Maternity, Beauty & Personal Care,
+# Tech & Electronics, Travel, Household Products, Pets, Home Improvement, Apparel & Accessories,
+# News & Entertainment, Games, Food & Beverage, Sports & Outdoor, Health.
+TIKTOK_INDUSTRIES = ["Beauty & Personal Care", "Apparel & Accessories", "Food & Beverage", "Tech & Electronics", "Household Products", "Health"]
+TIKTOK_ROWS_PER_INDUSTRY = 30
+
 # Keyword hints so the ranker can boost signals that smell like the four sections.
 SECTION_KEYWORDS = {
     "products": ["launch", "launches", "drop", "sold out", "restock", "new flavor", "limited edition", "collab", "collection", "skincare", "makeup", "snack", "drink", "sneaker"],

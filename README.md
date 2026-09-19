@@ -13,7 +13,7 @@ Sections: **Products**, **Digital**, **Campaigns**, **Culture**, plus an events 
 |---|---|---|
 | Reddit (43 subreddits, top of week) | Companion Devvit app in `devvit/` exports to `data/reddit/` weekly | Devvit login + a GitHub token in the app's settings |
 | Bluesky | Public search API | no |
-| TikTok Creative Center | Headless browser reads the US 7-day hashtag table and screenshots it | no |
+| TikTok Creative Center | Headless browser with a saved TikTok for Business login: the US 7-day top-100 hashtags, a top-30 per industry (see `TIKTOK_INDUSTRIES`), and the trending-videos tab with captions. Run `uv run trendbot tiktok-login` once (or `--cookies-file` with a browser cookie export), then `gh secret set TIKTOK_STORAGE_STATE < .tiktok_state.json`. Logged out it falls back to the top few | no (free TikTok for Business login) |
 | Google Trends | Daily trending searches RSS (US) | no |
 | Hacker News | Algolia API, front page of the week | no |
 | Product Hunt | Public feed | no |

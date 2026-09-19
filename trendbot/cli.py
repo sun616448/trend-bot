@@ -4,6 +4,8 @@
   uv run trendbot collect             # just collect and save raw signals
   uv run trendbot digest              # digest from the saved raw signals for this week
   uv run trendbot build               # rebuild the static site from data/
+  uv run trendbot tiktok-login        # one-time: sign in to TikTok Creative Center and save the session
+  uv run trendbot tiktok-login --cookies-file cookies.txt   # same, from a browser cookie export
 Flags: --week 2026-W38  --skip-llm  --skip-media  --only reddit,rss
 """
 from __future__ import annotations
@@ -75,19 +77,33 @@ def cmd_build() -> None:
     build(DATA, SITE)
 
 
+def cmd_tiktok_login(cookies_file: str | None) -> None:
+    from trendbot.collectors.tiktok import STATE_ENV, import_cookies, login
+
+    path = import_cookies(Path(cookies_file)) if cookies_file else login()
+    print(f"\nSaved login session to {path.name} ({path.stat().st_size:,} bytes; gitignored).")
+    print("To use it in GitHub Actions, store the file as a repository secret:")
+    print(f"  gh secret set {STATE_ENV} < {path.name}")
+    print("Sessions expire after a few weeks; rerun this command when the digest notes say the session was rejected.")
+
+
 def main(argv: list[str] | None = None) -> None:
     ap = argparse.ArgumentParser(prog="trendbot", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["run", "collect", "digest", "build"])
+    ap.add_argument("command", choices=["run", "collect", "digest", "build", "tiktok-login"])
     ap.add_argument("--week", default=iso_week())
     ap.add_argument("--skip-llm", action="store_true", help="do not call Claude (site shows raw signals only)")
     ap.add_argument("--skip-media", action="store_true", help="no screenshots or image downloads")
     ap.add_argument("--only", help="comma-separated collector names")
+    ap.add_argument("--cookies-file", help="tiktok-login: build the session from a cookies.txt or JSON export instead of opening a browser")
     ap.add_argument("-v", "--verbose", action="store_true")
     a = ap.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO, format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
     logging.getLogger("httpx").setLevel(logging.WARNING)
     only = set(a.only.split(",")) if a.only else None
 
+    if a.command == "tiktok-login":
+        cmd_tiktok_login(a.cookies_file)
+        return
     if a.command in ("run", "collect"):
         cmd_collect(a.week, only)
     if a.command in ("run", "digest"):

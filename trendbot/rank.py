@@ -40,13 +40,15 @@ def rank(signals: list[Signal]) -> list[Signal]:
 
     scored: list[tuple[float, Signal]] = []
     for src, items in by_source.items():
-        # rss and reddit are many feeds/subs: rank inside each label so one loud feed can't dominate
+        # rss, reddit and tiktok are many feeds/subs/lists: rank inside each so one loud group can't dominate
         groups: dict[str, list[Signal]] = defaultdict(list)
         for s in items:
             if src == "bluesky":
                 groups[str(s.metrics.get("query", "bluesky"))].append(s)
             elif src in ("rss", "reddit"):
                 groups[s.source_label].append(s)
+            elif src == "tiktok":   # overall top 100, one list per industry, trending videos
+                groups[str(s.metrics.get("group", "overall"))].append(s)
             else:
                 groups[src].append(s)
         for _, grp in groups.items():
@@ -86,7 +88,7 @@ def rank(signals: list[Signal]) -> list[Signal]:
     boosted.sort(key=lambda t: -t[0])
     out: list[Signal] = []
     for score, s in boosted:
-        if per_source[s.source] >= PER_SOURCE_CAP * (3 if s.source in ("rss", "reddit") else 1):
+        if per_source[s.source] >= PER_SOURCE_CAP * {"rss": 3, "reddit": 3, "tiktok": 2}.get(s.source, 1):
             continue
         per_source[s.source] += 1
         s.metrics["rank_score"] = round(score, 3)
