@@ -1,0 +1,1070 @@
+{
+ "week": "2026-W39",
+ "generated_at": "2026-09-21T17:29:22.342181Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Sneaker ads, sold-out controllers and a tour collapse show how fast brand goodwill moves right now",
+  "tldr": [
+   "Converse pulled an Instagram ad for the Chuck 70 X after critics said the imagery evoked KKK iconography, and trade press framed it as a repeating industry pattern.",
+   "Ed Sheeran's tour lost nearly all its support acts over the Macklemore removal, with stadium ownership dragged into the story and 300k+ Reddit upvotes across threads.",
+   "Mbappé's move from Nike to On and LISA's PlayStation DualSense were the week's two biggest 'I want that' brand moments.",
+   "Meta's Muse sits at #1 on the US App Store while consumers loudly reject AI in ads, in car apps and in beauty marketing.",
+   "Fall drops (Trader Joe's salted maple cold foam, Pokémon 30th, pumpkin everything) collided with visible price fatigue on snacks and beauty."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Products",
+    "items": [
+     {
+      "title": "Mbappé leaves Nike after 20 years and signs with On",
+      "summary": "Kylian Mbappé ended his two-decade Nike relationship and joined Swiss brand On, telling CNBC \"it was time to change.\" The reported 10-year deal includes equity and marks On's entry into soccer, a category Nike and Adidas have owned for decades. It was covered across CNBC, Retail Dive and Morning Brew within days.",
+      "why_it_matters": "A challenger running brand buying its way into football with equity, not just cash, is the clearest sign yet that athlete deals are becoming ownership deals.",
+      "what_people_say": [
+       "Mbappé: he was ready for \"change\" after ending his association with Nike."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "sportswear",
+       "sponsorship",
+       "footwear",
+       "sports"
+      ],
+      "hero_url": "https://www.cnbc.com/2026/09/21/kylian-mbappe-nike-exit-on-soccer-footwear.html",
+      "sources": [
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/09/21/kylian-mbappe-nike-exit-on-soccer-footwear.html"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/on-signs-mbappe-schertenleib-soccer-football-nike-adidas/830761/"
+       },
+       {
+        "label": "Morning Brew",
+        "url": "https://www.morningbrew.com/stories/international-soccer-star-mbappe-leaves-nike-on?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/09/peta-protesters-at-hms-london-fashion-show"
+       }
+      ]
+     },
+     {
+      "title": "LISA x PlayStation DualSense controller, pre-orders October 2",
+      "summary": "PlayStation announced a limited edition DualSense with LISA in a Chroma Pearl colorway with \"LL\" lettering and her signature stars, plus an apparel and accessories collection. Pre-orders open October 2. It follows the Wolverine Battle Yellow and Adamantium console covers that shipped last week.",
+      "why_it_matters": "Gaming hardware has become a fashion drop category, and K-pop collabs are the fastest route to a sell-out.",
+      "what_people_say": [
+       "\"im so mad that playstation started making actually well designed limited edition controllers right around the time everything else about the platform started to really suck bad\""
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "gaming",
+       "collab",
+       "limited edition",
+       "kpop"
+      ],
+      "hero_url": "https://hypebeast.com/2026/9/lisa-playstation-dualsense-wireless-controller-collaboration-2026-info",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/lisa-playstation-dualsense-wireless-controller-collaboration-2026-info"
+       },
+       {
+        "label": "@playstation.com on Bluesky",
+        "url": "https://bsky.app/profile/playstation.com/post/3mvzo3o6j7k2u"
+       },
+       {
+        "label": "@snapcube.gay on Bluesky",
+        "url": "https://bsky.app/profile/snapcube.gay/post/3mvslegm4js2e"
+       },
+       {
+        "label": "@popbase.tv on Bluesky",
+        "url": "https://bsky.app/profile/popbase.tv/post/3mvzpxhux3s23"
+       }
+      ]
+     },
+     {
+      "title": "Trader Joe's fall lineup lands, and so does sticker shock",
+      "summary": "r/traderjoes spent the week on the Salted Maple Cold Foam Creamer (\"10/10 no notes will buy every year\"), Chocolate Mousse Pumpkins and new tinned razor clams. At the same time shoppers are noting the chain's famous snack packs have crept to $1.29, a detail that got 272 likes on Bluesky.",
+      "why_it_matters": "Seasonal novelty still drives the haul, but price memory is now part of the conversation in the same feed.",
+      "what_people_say": [
+       "\"I almost fainted when I saw THE SALTED MAPLE COLD FOAM CREAMER.\"",
+       "\"even the little snack packs of chocolate pretzels, PB cups, and chocolate covered almonds had gone up to $1.29. I remember when they were $1.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "food",
+       "seasonal",
+       "grocery",
+       "pricing"
+      ],
+      "hero_url": "https://www.reddit.com/r/traderjoes/comments/1wjpa3k/i_almost_fainted_when_i_saw_the_salted_maple_cold/",
+      "sources": [
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1wjpa3k/i_almost_fainted_when_i_saw_the_salted_maple_cold/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1wh2zud/chocolate_mousse_pumpkins_are_delish/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1wgpuyx/review_of_the_tinned_razor_clams/"
+       },
+       {
+        "label": "@karenho.bsky.social",
+        "url": "https://bsky.app/profile/karenho.bsky.social/post/3mvsihtuyfs27"
+       }
+      ]
+     },
+     {
+      "title": "Clinique's Daily Calm Balm becomes r/MakeupAddiction's \"forever foundation\"",
+      "summary": "A post calling Clinique Daily Calm Balm \"my forever foundation\" pulled 6,100+ upvotes, praised for a satin finish that doesn't slip in smile lines. In the same subreddit, users are hunting talc-free loose powders as brands reformulate. Meanwhile Sephora and Ulta threads are dominated by price complaints and tampered deliveries.",
+      "why_it_matters": "Base makeup recommendations are still won in community threads, not in ads, and reformulation anxiety is an open shopping question brands could answer directly.",
+      "what_people_say": [
+       "\"It dries to a satin finish which is amazing cause my smile lines always got greasy and this one holds up so well.\"",
+       "\"What's everyone's favourite talc free loose powders now everyone is having to reformulate?\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "makeup",
+       "reformulation"
+      ],
+      "hero_url": "https://www.reddit.com/r/MakeupAddiction/comments/1wjn05c/think_i_found_my_forever_foundation/",
+      "sources": [
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1wjn05c/think_i_found_my_forever_foundation/"
+       },
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1wkkbab/recently_got_back_into_makeup_heres_a_look_i_did/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1wiu943/these_prices_are_insane/"
+       }
+      ]
+     },
+     {
+      "title": "Target stacks up K-beauty as shoppers argue about what \"Korean sunscreen\" means",
+      "summary": "Target's new Beauty Studio is pulling Korean brands into mass retail, giving them an alternative to Sephora and Ulta. Beauty communities are simultaneously calling out creators for marketing Sephora-sold Korean brands as true K-beauty when the sunscreens are reformulated with older FDA-approved filters for the US market.",
+      "why_it_matters": "Distribution is expanding faster than the product story, and informed shoppers are policing the gap.",
+      "what_people_say": [
+       "\"They're from Korean-based brands, true, but they lack what makes Korean and Japanese Sunscreens so superior: their blend of next-gen chemical filters.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "kbeauty",
+       "retail",
+       "skincare"
+      ],
+      "hero_url": "https://www.modernretail.co/operations/target-gets-k-beauty-brands-to-think-beyond-sephora-ulta-with-new-beauty-studio/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/operations/target-gets-k-beauty-brands-to-think-beyond-sephora-ulta-with-new-beauty-studio/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1wl1io4/gothamista_is_deliberately_participating_in/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1wggjs6/product_question_my_friend_is_in_japan_right_now/"
+       }
+      ]
+     },
+     {
+      "title": "Donatella Versace launches a new label with Revolve Group",
+      "summary": "Donatella Versace is starting an unnamed fashion and beauty brand with Revolve Group, launching in 2027, with her as chief creative officer. It follows her exit from Versace's CCO role in 2025 and Prada's $1B+ acquisition of the house.",
+      "why_it_matters": "A heritage designer pairing with a data-and-logistics e-commerce operator rather than a luxury group is the clearest template yet for the post-luxury designer second act.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "fashion",
+       "luxury",
+       "ecommerce",
+       "launch"
+      ],
+      "hero_url": "https://wwd.com/fashion-news/designer-luxury/donatella-versace-launch-new-brand-revolve-group-1239250201/",
+      "sources": [
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/fashion-news/designer-luxury/donatella-versace-launch-new-brand-revolve-group-1239250201/"
+       },
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/donatella-versace-brand-launch-revolve-group-info"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/09/presley-gerber-cindy-crawford-son-dies-at-27"
+       }
+      ]
+     },
+     {
+      "title": "Oura's IPO puts the ring back in search results",
+      "summary": "Oura filed to launch its IPO at a reported $2.2B valuation, and \"oura\" spiked to 2,000+ US searches this week. TechCrunch notes the offering is largely a payday for existing shareholders, with Forerunner Ventures planning to sell its entire stake.",
+      "why_it_matters": "A wearable going public keeps sleep and recovery tracking in mainstream conversation right as the wellness category looks for its next hardware story.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "wellness",
+       "wearables",
+       "tech",
+       "ipo"
+      ],
+      "hero_url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "sources": [
+       {
+        "label": "Google Trends (US)",
+        "url": "https://trends.google.com/trends/explore?q=oura&geo=US&date=now%207-d"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/"
+       }
+      ]
+     },
+     {
+      "title": "Pokémon's 30th anniversary set sells out before it hits shelves",
+      "summary": "A Target employee's photoshopped \"out of stock\" signs for the Pokémon 30th set hit 1,100+ upvotes on r/Target, a shorthand for how instantly the drop cleared. Collectible scarcity is now a staple of the mass-retail floor, and store teams are the ones managing the fallout.",
+      "why_it_matters": "Scarcity marketing is being absorbed by big-box retail, where the cost lands on frontline staff and disappointed shoppers rather than on a brand's own site.",
+      "what_people_say": [
+       "\"Team Lead recommended we make some OOS signs for the Pokémon 30th set. I said 'bet'.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "collectibles",
+       "retail",
+       "drops"
+      ],
+      "hero_url": "https://www.reddit.com/r/Target/comments/1wiye3l/team_lead_recommended_we_make_some_oos_signs_for/",
+      "sources": [
+       {
+        "label": "r/Target",
+        "url": "https://www.reddit.com/r/Target/comments/1wiye3l/team_lead_recommended_we_make_some_oos_signs_for/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "Meta's Muse is the #1 free iPhone app and OpenAI is scrambling to answer it",
+      "summary": "Muse from Meta sits at #1 on the US App Store top free chart, ahead of ChatGPT at #2. The Information reports OpenAI is building features to counter SpaceX's Grok bot and weighing a response to Muse, after pioneering the agent category itself.",
+      "why_it_matters": "The consumer AI assistant race has flipped from a one-horse ChatGPT market to a distribution fight Meta can win with default placement.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "apps",
+       "meta",
+       "openai"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "sources": [
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+       },
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"
+       }
+      ]
+     },
+     {
+      "title": "Google's $899 Googlebook bets your laptop should belong to your phone",
+      "summary": "Google launched Googlebook laptops with Gemini wired into the cursor, dictation and widgets, and deep Android phone integration. Wired frames it as Google finally copying the iPhone-to-Mac handoff experience; The Verge got a hands-on and called the phone-PC integration the most impressive part.",
+      "why_it_matters": "If Android users get Apple-style continuity, the switching cost that has protected Apple's ecosystem for a decade starts to erode.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "hardware",
+       "google",
+       "platforms"
+      ],
+      "hero_url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+      "sources": [
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+       },
+       {
+        "label": "Wired",
+        "url": "https://www.wired.com/story/google-launches-googlebook-laptops/"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+       }
+      ]
+     },
+     {
+      "title": "Pinterest pitches visual search as a performance channel",
+      "summary": "At its annual marketing summit Pinterest unveiled Visual Search Ads and a broader performance suite, with CEO Bill Ready saying \"I'm proud to say that Pinterest is now a performance platform.\" The news ran in Campaign, Digiday, Marketing Brew and Modern Retail inside a week.",
+      "why_it_matters": "Pinterest is arguing that image-first search is the ad format AI assistants can't easily disintermediate, and its young user base is the proof point it's selling.",
+      "what_people_say": [
+       "Bill Ready: \"I'm proud to say that Pinterest is now a performance platform.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "adtech",
+       "platforms",
+       "search",
+       "pinterest"
+      ],
+      "hero_url": "https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/pinterest-visual-search-performance-marketing-tools?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/pinterest-positions-visual-search-its-next-performance-opportunity/1970494"
+       },
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Apple's mixed week: muted iPhone 18 Pro pre-orders, a fold everyone wants to touch, and a $250M Siri payout",
+      "summary": "Analyst Jeff Pu called iPhone 18 Pro pre-orders soft, blaming thin spec upgrades and $1,199+ pricing, with buyers waiting for the $1,999 iPhone Duo (pre-orders Oct 16). Apple's new hardware VP went viral on r/apple for saying screen protectors make his \"skin crawl,\" iFixit gave the 18 Pro a surprisingly good repairability score, and US owners of 2024-25 iPhones can now claim up to $95 from the $250M Siri AI settlement.",
+      "why_it_matters": "Apple is being paid out for over-promising on AI while its most-discussed product is a folding phone people mostly want to hold, not spec-compare.",
+      "what_people_say": [
+       "\"When I see someone put a screen protector on their iPhone, it makes my skin crawl.\"",
+       "r/iphone on the teardown: \"The internals look so good.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "apple",
+       "hardware",
+       "ai",
+       "legal"
+      ],
+      "hero_url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "sources": [
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1wgwt1r/iphone_18_pro_preorders_off_to_a_muted_start/"
+       },
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1wkhlua/i_spoke_to_apples_new_vp_of_hardware_engineering/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+       },
+       {
+        "label": "Wired",
+        "url": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/"
+       }
+      ]
+     },
+     {
+      "title": "ChatGPT's ad collector and the limits of AI trust",
+      "summary": "A post claiming ChatGPT now tracks what users do on other sites via an ad collector hit 740 points on Hacker News. It landed the same week Morning Brew argued Big Tech simultaneously warns about rogue AI while asking you to hand agents your credit card, and Google disclosed that Gemini accessed three companies during a botched third-party security test.",
+      "why_it_matters": "Consumer AI is being asked to earn payment and browsing permissions at exactly the moment its data and safety story is getting messier.",
+      "what_people_say": [
+       "\"It's never the 'AI' doing something though, it's people using janky software in ill-advised ways.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "privacy",
+       "trust",
+       "adtech"
+      ],
+      "hero_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"
+       },
+       {
+        "label": "Morning Brew",
+        "url": "https://www.morningbrew.com/stories/ai-cant-be-controlled-so-give-it-your-credit-card?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+       },
+       {
+        "label": "@emilymbender.bsky.social",
+        "url": "https://bsky.app/profile/emilymbender.bsky.social/post/3mvsvtjwlyk26"
+       }
+      ]
+     },
+     {
+      "title": "\"The Ford app just added AI\" and other unwanted upgrades",
+      "summary": "A Bluesky post mocking Ford's new in-app AI drew 2,300 likes and 424 reposts, the week's single biggest consumer reaction to an AI feature. It sits alongside r/androidapps threads about apps that have \"no business being a subscription\" and Opera shipping ads to a user who'd been ad-free for 13 years. GM, meanwhile, is reversing course and bringing back CarPlay because buyers demanded it.",
+      "why_it_matters": "Feature-stuffing and monetisation creep now generate more engagement than the features themselves; GM's CarPlay reversal is the proof that customer pushback can actually move roadmaps.",
+      "what_people_say": [
+       "\"The Ford app just added AI. This is the greatest thing ever.\"",
+       "\"I'd happily pay $20-30 once for a useful app, but seeing a monthly subscription for something really basic usually makes me look for an alternative.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "apps",
+       "ux",
+       "backlash"
+      ],
+      "hero_url": "https://bsky.app/profile/invalidname.me/post/3mvtlnbdfts2z",
+      "sources": [
+       {
+        "label": "@invalidname.me on Bluesky",
+        "url": "https://bsky.app/profile/invalidname.me/post/3mvtlnbdfts2z"
+       },
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1wj4ri4/what_app_has_absolutely_no_business_being_a/"
+       },
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1wgweln/i_have_been_using_opera_on_android_adfree_for_13/"
+       },
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1wkrrhv/gm_brings_back_apple_carplay_as_buyers_demand_it/"
+       }
+      ]
+     },
+     {
+      "title": "Meta is paying TikTok and YouTube creators to post on Facebook, and it's going badly",
+      "summary": "Meta's program pays creators with existing followings up to a few thousand dollars a month to also post video on Facebook. Creators in an r/socialmedia thread reported dismal results: one said they made ten cents off 275,000 views, another with 300,000+ followers said posts got 20 to 30 views.",
+      "why_it_matters": "Paying for supply doesn't create an audience; brands evaluating Facebook video reach should discount the creator-migration narrative.",
+      "what_people_say": [
+       "\"one person said they made ten cents off 275 thousand views\"",
+       "\"looks like facebook is trying hard to pull creators away from tiktok and youtube\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "creators",
+       "meta",
+       "platforms",
+       "monetisation"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1wktqyc/facebook_is_offering_creators_from_tiktok_and/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1wktqyc/facebook_is_offering_creators_from_tiktok_and/"
+       }
+      ]
+     },
+     {
+      "title": "Resale and prediction markets own the App Store's top ten",
+      "summary": "Vinted is #3 and Depop #9 on the US top free chart, while Polymarket sits at #4 and Kalshi at #5. Kalshi's ad blitz is already generating fatigue: an r/CommercialsIHate thread about it pulled 331 upvotes, with the top complaint being that every single spot is incoherent.",
+      "why_it_matters": "Secondhand shopping and event betting are both mass-market app behaviours now, and the ad load is outpacing consumer understanding of what these products actually are.",
+      "what_people_say": [
+       "\"It's not just ONE of their commercials, it's EVERY. SINGLE. ONE. I gave up trying to make any sense of them.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "apps",
+       "resale",
+       "betting",
+       "advertising"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+      "sources": [
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/polymarket-trade-live-sports/id6648798962"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1wjli5f/kalshi_is_realllllllllly_getting_on_my_nerves/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Converse pulls Chuck 70 X ad after KKK comparisons",
+      "summary": "Converse removed an Instagram ad featuring K-pop singer Karina holding Chuck 70 X sneakers after critics said lighting on her skirt read as a white triangular hood and that the pose evoked lynching imagery. The brand called the imagery \"deeply upsetting\" and vowed to \"do better.\" Observers noted the version that went viral on Threads was a heavily compressed screenshot, which made the image less clear than the original.",
+      "why_it_matters": "Adweek's point is the real story: the apology-takedown-remediation cycle has become a repeatable template, which means the review process, not the statement, is what needs fixing.",
+      "what_people_say": [
+       "\"Part of the problem with that Converse ad screenshot that's going around is the quality got compressed, which made the image less clear.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "backlash",
+       "sneakers",
+       "creative",
+       "crisis"
+      ],
+      "hero_url": "https://www.fastcompany.com/91610281/converse-responds-outrage-over-instagram-ad-chuck-70-x-sneakers",
+      "sources": [
+       {
+        "label": "Fast Company",
+        "url": "https://www.fastcompany.com/91610281/converse-responds-outrage-over-instagram-ad-chuck-70-x-sneakers"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/converse-responds-critics-accusations-kkk-like-ad/1970436"
+       },
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/brand-marketing/brands-keep-greenlighting-ads-that-many-find-racially-insensitive/"
+       },
+       {
+        "label": "@lethalityjane.bsky.social",
+        "url": "https://bsky.app/profile/lethalityjane.bsky.social/post/3mvvfyxkh7s2e"
+       }
+      ]
+     },
+     {
+      "title": "Brands raid the sitcom archive: Denny's, JCPenney, Campari and Subway",
+      "summary": "Marketing Brew found Denny's and JCPenney building campaigns as odes to sitcoms and reality TV to get ad-avoidant consumers to watch. Campari updated its own 1970s creative with Alan Cumming, riffing on the line that \"9 out of every 10,000 Americans prefer a Campari.\" Subway's first work from Martin casts Will Arnett as the subconscious of diners sick of fast-food burgers and protein bars.",
+      "why_it_matters": "Format nostalgia is this season's default answer to ad avoidance, and the ones that work reuse a brand's own archive rather than borrowing someone else's.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "nostalgia",
+       "tv",
+       "creative",
+       "food"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/ad-campaigns-classic-tv-show-formats-dennys-jc-penney?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/ad-campaigns-classic-tv-show-formats-dennys-jc-penney?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/subway-skewers-modern-dining-landscape-with-will-arnett-led-creative/830888/"
+       }
+      ]
+     },
+     {
+      "title": "Fashion week's real activation was the after-party",
+      "summary": "LUAR took its SS27 reveal straight to 99 Scott Street in Brooklyn for an official after-party with Lunazul Tequila. Swan Beauty, the nine-month-old smart mirror company that went viral sponsoring an influencer bachelorette trip, ran five partnerships across NYFW. In London, Hypebeast teamed with USM and Symbol Audio on a \"USM Record Shop\" installation, and eBay tested how fast runway attention converts to resale purchases.",
+      "why_it_matters": "Runway budgets are shifting to the hospitality and content moments around the show, where a non-fashion brand can buy its way into the same footage.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "nyfw",
+       "events",
+       "partnerships",
+       "fashion"
+      ],
+      "hero_url": "https://hypebeast.com/2026/9/luar-lunazul-nyfw-afterparty",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/luar-lunazul-nyfw-afterparty"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/fresh-off-its-viral-influencer-bachelorette-trip-swan-beauty-attempts-a-nyfw-blitz/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/9/hypebeast-hypeform-usm-modular-furniture-symbol-audio-london-design-festival-party"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/luxury/net-a-porter-turnaround-ebay-shoppable-runway/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Agency turmoil: Omnicom layoffs, Pepsi fallout and Publicis offshoring",
+      "summary": "Omnicom's CFO addressed plans to reach roughly 105,000 headcount by year end after losing PepsiCo, with r/advertising reading it as 15,000 jobs going. At Publicis, staff say all roles below supervisor level on the Pepsi business are moving offshore. A separate 25-year veteran's thread asking \"when did the fun stop?\" pulled 161 upvotes and 99 comments.",
+      "why_it_matters": "The people making your campaigns are being restructured mid-pitch season, and Coca-Cola's North American media review is the next domino.",
+      "what_people_say": [
+       "\"The Pepsi situation is an unfortunate one... you cannot sugarcoat it.\"",
+       "\"once again, publicis being cheap by hiring international employees who take pay half of what they deserve.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "agencies",
+       "industry",
+       "layoffs"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1wh9vow/omnicom_to_lay_off_15000_after_pepsico_laid_off/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1wh9vow/omnicom_to_lay_off_15000_after_pepsico_laid_off/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1wj0q8u/publicis_pepsi_mess/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1wkwgu9/when_did_the_fun_stop/"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/media-buying/media-buying-briefing-handicapping-the-fight-to-win-over-coca-colas-north-american-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Christmas content is already shipping in September",
+      "summary": "Modern Retail reports creators and brands moved holiday campaigns up by months, with Christmas content appearing as early as August to build awareness and test sales strategies. Deloitte expects US holiday retail sales up 4.8% with e-commerce up 8.4%, as shoppers compare prices and chase promotions.",
+      "why_it_matters": "If your holiday creative goes live in November you are entering a conversation that started in August, and value messaging is the price of entry.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "creators",
+       "retail",
+       "planning"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/creators-are-moving-up-their-holiday-content-calendars/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/creators-are-moving-up-their-holiday-content-calendars/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "The Food Institute",
+        "url": "https://foodinstitute.com/consumerinsights/holiday-spending-expected-rise-4-8-percent-despite-value-seeking/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-spending-expected-rise-4-8-percent-despite-value-seeking"
+       }
+      ]
+     },
+     {
+      "title": "Athletes keep moving into food and beauty, not just sportswear",
+      "summary": "Knicks guard Jalen Brunson partnered with Just Salad, telling Marketing Brew he \"wanted to do something that was different from what I've done and expand my portfolio.\" At Glossy's Pop NYC event, panelists argued the sports-and-beauty crossover still has \"lots of room to grow\" despite brands already using athletes heavily.",
+      "why_it_matters": "Athlete endorsement inventory in apparel is saturated and expensive; category-adjacent deals in food and beauty are still cheap attention.",
+      "what_people_say": [
+       "Brunson: \"I wanted to do something that was different from what I've done and expand my portfolio.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "sports",
+       "partnerships",
+       "beauty",
+       "food"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/just-salad-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/just-salad-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/pop/the-sports-and-beauty-crossover-still-has-lots-of-room-to-grow/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Fel Beauty resurrects Napoleon Dynamite for a lip mask",
+      "summary": "Vegan brand Fel Beauty cast Jon Heder as Napoleon Dynamite in a campaign for its Kissylips Comfy Hydrating Therapy Lip Mask, leaning on the cult character's 2004 recognition value.",
+      "why_it_matters": "A small beauty brand buying a dormant IP character is a cheaper route to millennial recall than a creator roster, but only if the product tie is specific rather than decorative.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "beauty",
+       "nostalgia",
+       "celebrity",
+       "campaign"
+      ],
+      "hero_url": "https://www.cosmeticsbusiness.com/fel-beauty-revives-napoleon-dynamite-in-new-campaign",
+      "sources": [
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/fel-beauty-revives-napoleon-dynamite-in-new-campaign"
+       }
+      ]
+     },
+     {
+      "title": "Gaming ad spend still lags two-thirds of America",
+      "summary": "At IAB PlayFronts, platforms and marketers picked over why ad dollars haven't followed the fact that two-thirds of Americans are gamers. The week's adjacent signals show why gaming attention is real: Bungie reversed its Destiny Content Vault decision and \"destiny 2\" trended on Google, while PlayStation ran two limited-edition hardware drops.",
+      "why_it_matters": "Gaming remains the largest attention pool with the smallest ad budget attached, and hardware collabs are currently doing the brand work that media buys are not.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "gaming",
+       "media",
+       "adspend"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
+       },
+       {
+        "label": "Google Trends (US)",
+        "url": "https://trends.google.com/trends/explore?q=destiny+2&geo=US&date=now%207-d"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "Ed Sheeran's tour empties out and audiences make it a loyalty test",
+      "summary": "After Macklemore was dropped following a Free Palestine speech, every support act and Sheeran's band Beoga withdrew, including FINNEAS, Aaron Rowe and Lukas Graham. Macklemore said Gillette Stadium owner Robert Kraft rallied other venue owners and gave Sheeran an ultimatum, then pledged his Loop Tour earnings to Palestinian organisations. Sheeran lost roughly 100,000 Instagram followers in 11 hours; individual Reddit threads cleared 70,000 to 110,000 upvotes.",
+      "why_it_matters": "This is the year's clearest case study in venue and sponsor decisions becoming consumer-facing brand decisions, with follower loss as the scoreboard.",
+      "what_people_say": [
+       "\"Macklemore isn't just talking about Ed Sheeran and Pink, he is also talking about everyone with this level of privilege and fame who doesn't speak out.\"",
+       "Reddit surfaced Macklemore's past Kesha co-headline tour as contrast to the current story."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "discourse",
+       "music",
+       "brand safety",
+       "boycott"
+      ],
+      "hero_url": "https://www.reddit.com/r/popculturechat/comments/1wg7v19/macklemore_speaks_out_about_the_tour_situation/",
+      "sources": [
+       {
+        "label": "r/popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1wg7v19/macklemore_speaks_out_about_the_tour_situation/"
+       },
+       {
+        "label": "r/Music",
+        "url": "https://www.reddit.com/r/Music/comments/1whal9d/finneas_withdraws_from_ed_sheeran_tour_dates/"
+       },
+       {
+        "label": "r/Fauxmoi",
+        "url": "https://www.reddit.com/r/Fauxmoi/comments/1wg73id/macklemore_speaks_out_after_being_dropped_from_ed/"
+       },
+       {
+        "label": "r/popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1wgzon5/ed_sheeran_has_lost_nearly_100000_instagram/"
+       },
+       {
+        "label": "@multicitrusmarg.bsky.social",
+        "url": "https://bsky.app/profile/multicitrusmarg.bsky.social/post/3mvinhc3xxs2j"
+       }
+      ]
+     },
+     {
+      "title": "\"I don't buy from any brand that blatantly uses it\": the AI ad boycott gets explicit",
+      "summary": "A r/BeautyGuruChatter post about AI ads hit 1,376 upvotes, with the author describing an AI woman with under-eye bags in a skincare ad and saying she will not take any brand seriously that runs this work. On Hacker News, a post arguing AI-generated posters \"don't have to be horrible\" drew 936 comments, and Bluesky users are mocking the AI industry's self-image.",
+      "why_it_matters": "Generative ad creative is now a stated purchase-blocker for an engaged beauty audience, and the cost saving is being paid in brand trust.",
+      "what_people_say": [
+       "\"any brand that does this and I can't take them seriously anymore\"",
+       "\"I just absolutely despise ai, I know it's probably something I'll be forced to get used to\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "backlash",
+       "beauty",
+       "creative"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1wjujnw/im_so_done_with_all_the_ai_ads_ive_been_seeing/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1wjujnw/im_so_done_with_all_the_ai_ads_ive_been_seeing/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+       },
+       {
+        "label": "@docvivileandra.bsky.social",
+        "url": "https://bsky.app/profile/docvivileandra.bsky.social/post/3mvtqor6jxy2s"
+       }
+      ]
+     },
+     {
+      "title": "Cutting open the detergent bottle: squeeze-the-last-drop frugality",
+      "summary": "An r/Frugal post about slicing open an \"empty\" Tide bottle to recover 60ml of detergent pulled 10,934 upvotes, with the OP asking why bottles aren't designed to drain. The same week, a neighbour's curbside \"Free, take it\" experiment cleared a sofa and a lawnmower in five hours, r/BuyItForLife celebrated a 30-year-old alarm clock and a nine-year-old Philips OneBlade, and a $75 estate-sale Chloé Paraty drew 3,386 upvotes.",
+      "why_it_matters": "Packaging design is now a value signal: a bottle that doesn't fully empty reads as deliberate waste to a large, price-sensitive audience.",
+      "what_people_say": [
+       "\"I really wish detergent bottles were designed to be easier to drain so you could get all of the product out without having to cut the bottle open.\"",
+       "\"Does it reek of booze and cigarettes? Yes. Did I only pay $75 for a Chloé Paraty? Also yes\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "frugality",
+       "packaging",
+       "secondhand",
+       "sustainability"
+      ],
+      "hero_url": "https://www.reddit.com/r/Frugal/comments/1wi7f8d/the_amount_of_detergent_left_in_an_empty_bottle/",
+      "sources": [
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1wi7f8d/the_amount_of_detergent_left_in_an_empty_bottle/"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1wj10e4/frugal_the_other_side_of_the_fence_dont_pass_up/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1wibs8x/does_it_reek_of_booze_and_cigarettes_yes_did_i/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1wl1h0b/whats_something_you_didnt_realize_was_bifl_until/"
+       }
+      ]
+     },
+     {
+      "title": "\"We're All Just Blocking the Street\" becomes a TikTok and Reels sound",
+      "summary": "A Family Guy cutaway from season 15 in which a New Orleans second line band sings about blocking the street resurfaced as a meme format across TikTok and Instagram Reels in September, per Know Your Meme.",
+      "why_it_matters": "A decade-old animated cutaway turning into a sound is the cheapest kind of trend for brands to join, and the joke is about being inconveniently in the way, which fits retail, transit and events.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "meme",
+       "sound",
+       "tiktok",
+       "format"
+      ],
+      "hero_url": "https://knowyourmeme.com/memes/were-all-just-blocking-the-street",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/were-all-just-blocking-the-street"
+       }
+      ]
+     },
+     {
+      "title": "Anti-blush and the retreat from statement colour",
+      "summary": "Glossy reports beige, brown and mauve blushes are taking over social media as users swap bright statement blush for muted tones, and says the reaction to the trend is far from neutral. It lands alongside r/MakeupAddiction threads about \"natural\" looks going unnoticed by men and a 2,100-upvote post dissecting a base that dried down too matte.",
+      "why_it_matters": "Colour cosmetics demand is rotating toward neutral, skin-like finishes, which changes both shade strategy and the way products should be demoed on camera.",
+      "what_people_say": [
+       "A commenter on the \"natural\" compliment thread noted heavy, fully-done makeup read as a \"beautiful, natural, rosy complexion\" to the man complimenting it."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "makeup",
+       "trend",
+       "aesthetics"
+      ],
+      "hero_url": "https://www.glossy.co/pop/why-anti-blush-is-taking-over-social-media/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/pop/why-anti-blush-is-taking-over-social-media/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1wgbvg0/men_dont_notice_if_you_wear_makeup/"
+       }
+      ]
+     },
+     {
+      "title": "Shoppers say beauty stores make them feel watched",
+      "summary": "An r/Sephora post about feeling surveilled while using in-store testers drew 841 upvotes and 200 comments, with the author saying they now just buy online. A former five-year Sephora employee's Bluesky reply that \"it's the Wild West in there sometimes\" got 542 likes. Ulta customers separately reported tampered online orders and missing product.",
+      "why_it_matters": "Loss prevention behaviour is actively pushing high-intent beauty shoppers out of stores and into e-commerce, where fulfilment problems then finish the job.",
+      "what_people_say": [
+       "\"I end up feeling so uncomfortable and guilty for nothing that I leave and just purchase from their online store instead.\"",
+       "\"I worked at Sephora for like 5 years and it's the Wild West in there sometimes\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "retail",
+       "beauty",
+       "cx",
+       "discourse"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1wjuspu/anyone_else_feel_uncomfortable_shopping_at/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1wjuspu/anyone_else_feel_uncomfortable_shopping_at/"
+       },
+       {
+        "label": "@cait.bsky.social",
+        "url": "https://bsky.app/profile/cait.bsky.social/post/3mvl7kkruok2j"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1wjvd1f/ugh_guess_it_was_my_turn/"
+       }
+      ]
+     },
+     {
+      "title": "Creators notice every top account in their niche looks identical",
+      "summary": "An r/socialmedia post found that across 50+ top-performing videos in one niche, every single one was a talking head with the same three or four hook styles and not one used b-roll storytelling. A separate creator sharing a 4.5-million-view week advised outright: \"steal your formats from other accounts that are doing well right now\" and repeat until you hit a million.",
+      "why_it_matters": "Format monoculture is a gap: the first brand in a category to use footage-led storytelling gets pattern interrupt for free.",
+      "what_people_say": [
+       "\"either talking head is just the objectively strongest format for that topic, or everyone copied whoever won first and nobody has actually tested anything\"",
+       "\"once you find a video format that works keep using it over and over\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "creators",
+       "format",
+       "socialmedia"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1wjumtv/every_account_doing_well_in_my_niche_is_using_the/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1wjumtv/every_account_doing_well_in_my_niche_is_using_the/"
+       },
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1wk98zc/i_got_45million_views_last_week_high_level/"
+       }
+      ]
+     },
+     {
+      "title": "Starbucks cup culture: JohnPork orders, hidden Peanuts cups and cracked bears",
+      "summary": "A barista's post about finally getting a mobile order called out under the name \"JohnPork\" hit 1,307 upvotes. Elsewhere on r/starbucks, a temp manager was accused of hiding the Peanuts collab cups for friends and threatening hours over it, and a shattered bear cup got a 650-upvote grief thread.",
+      "why_it_matters": "Limited drinkware is generating more organic Starbucks content than the drinks, and scarcity is now producing internal conflict stories that end up public.",
+      "what_people_say": [
+       "\"I've been mobile ordering under JohnPork for a while now and finally a barista understood the mission\"",
+       "\"My coworker/temp manager is hiding the Peanuts cups for her and her friends.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "starbucks",
+       "collectibles",
+       "memes",
+       "retail"
+      ],
+      "hero_url": "https://www.reddit.com/r/starbucks/comments/1wl1iez/it_finally_happened/",
+      "sources": [
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1wl1iez/it_finally_happened/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1whfo1d/coworker_hiding_the_peanuts_cups/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1wkpdql/i_hadnt_even_used_it_for_a_full_day/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Milan and Paris Fashion Week SS27",
+    "when": "Sep 22 – Oct 6",
+    "angle": "Diesel shows in Milan just as Glenn Martens exits, and after NYFW and LFW the activation money is clearly moving to after-parties, beverage sponsors and shoppable-runway tests."
+   },
+   {
+    "name": "LISA x PlayStation pre-orders",
+    "when": "Oct 2",
+    "angle": "Expect an instant sell-out and resale chatter; the accompanying apparel, hats, totes and keychain collection is the part most brands should study."
+   },
+   {
+    "name": "iPhone Duo pre-orders",
+    "when": "Oct 16, availability Oct 23",
+    "angle": "The $1,999 fold is absorbing demand from the iPhone 18 Pro, so device-led creative, cases and accessory launches should be timed to the Duo, not the Pro."
+   },
+   {
+    "name": "Halloween run-up",
+    "when": "late September through Oct 31",
+    "angle": "Pumpkin-spice SKUs, limited-run pins and spooky drops are already live in mid-September; the window for a distinctive seasonal drop closes in early October."
+   },
+   {
+    "name": "Billboard Latin Music Week and Eater's El Pre Party",
+    "when": "early October, Miami",
+    "angle": "Eater's first Billboard partnership includes a collaboration dish with Walmart, a template for retailers buying into music-week food programming."
+   },
+   {
+    "name": "Holiday campaign kickoff",
+    "when": "October",
+    "angle": "Deloitte forecasts 4.8% holiday sales growth with e-commerce up 8.4%, and creators have already shifted Christmas content months earlier, so value-led holiday messaging needs to be in market now."
+   }
+  ]
+ },
+ "signal_count": 1254,
+ "source_counts": {
+  "reddit": 489,
+  "bluesky": 315,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 332,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "a08a61c014.jpg",
+  "products:1": "89bbe01b28.jpg",
+  "products:2": "cbd7e200ca.jpg",
+  "products:3": "6011659041.jpg",
+  "products:4": "5c4af3ddd4.png",
+  "products:6": "ef2582f38b.png",
+  "products:7": "5186b2202f.jpg",
+  "digital:0": "a8387b3b22.png",
+  "digital:1": "c76762e0fe.jpg",
+  "digital:2": "99c8ed076f.gif",
+  "digital:3": "94ccbf2723.jpg",
+  "digital:5": "4c22a84e00.webp",
+  "digital:7": "9b3344995d.png",
+  "campaigns:0": "8ae72080e9.jpg",
+  "campaigns:1": "49ee1ac9eb.png",
+  "campaigns:2": "a950c819a3.jpg",
+  "campaigns:4": "07e66b1167.png",
+  "campaigns:5": "748e8365fa.jpg",
+  "campaigns:6": "162a27758c.jpg",
+  "campaigns:7": "55960b5423.webp",
+  "culture:0": "9b46c0819d.png",
+  "culture:1": "1f1e60ba2b.jpg",
+  "culture:2": "f2628e9571.jpg",
+  "culture:3": "5df90d5603.jpg",
+  "culture:4": "416b818c39.jpg",
+  "culture:5": "07f3594008.jpg",
+  "culture:7": "76e1f760e4.jpg",
+  "products:5": "d79764a5e7.jpg",
+  "digital:4": "9285969aa5.jpg",
+  "campaigns:3": "32df04038d.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
