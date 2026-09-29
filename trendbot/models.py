@@ -62,7 +62,7 @@ SectionKey = Literal["products", "digital", "campaigns", "culture"]
 
 class DigestSection(BaseModel):
     key: SectionKey
-    title: str
+    title: str = Field(description="Section title. Use 'Consumer products', 'Digital', 'Campaigns', 'Culture'.")
     items: list[DigestItem]
 
 
@@ -75,7 +75,7 @@ class UpcomingEvent(BaseModel):
 class Digest(BaseModel):
     headline: str = Field(description="One line that captures the week. No colon-style titles.")
     tldr: list[str] = Field(description="Three to five one-sentence bullets summarising the week")
-    sections: list[DigestSection] = Field(description="Exactly four sections in order: products, digital, campaigns, culture")
+    sections: list[DigestSection] = Field(description="Exactly four sections in order: products (consumer products, physical or digital), digital (platforms and AI), campaigns, culture")
     radar: list[UpcomingEvent] = Field(description="Three to six events, launches or cultural moments coming in the next three weeks that brands will activate around")
 
 

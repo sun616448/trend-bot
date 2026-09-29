@@ -5,7 +5,7 @@ consumer product. Every Monday a GitHub Actions job collects signals from places
 people actually talk, asks Claude to write a four-section digest, grabs pictures, and
 publishes a static dashboard to GitHub Pages with an archive of past weeks.
 
-Sections: **Products**, **Digital**, **Campaigns**, **Culture**, plus an events radar.
+Sections: **Consumer products** (anything people buy, wear, eat, download or subscribe to, physical or digital, recent but not necessarily launched this week), **Digital** (platforms, AI and online behaviour), **Campaigns**, **Culture**, plus an events radar.
 
 ## Sources (all free)
 

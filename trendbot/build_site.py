@@ -15,8 +15,8 @@ from trendbot.models import Signal, WeekRecord
 
 ROOT = Path(__file__).resolve().parent.parent
 SECTION_META = {
-    "products": ("Products", "What people are buying, coveting or complaining about"),
-    "digital": ("Digital", "Apps, AI tools and platform features gaining ground"),
+    "products": ("Consumer products", "What people are buying, wearing, eating, downloading or complaining about, physical or digital"),
+    "digital": ("Digital", "Platform changes, AI developments and shifts in how people use the internet"),
     "campaigns": ("Campaigns", "Activations, stunts and tie-ins that landed or flopped"),
     "culture": ("Culture", "Memes, formats, sounds and discourse brands will ride"),
 }

@@ -89,8 +89,8 @@ TIKTOK_ROWS_PER_INDUSTRY = 30
 
 # Keyword hints so the ranker can boost signals that smell like the four sections.
 SECTION_KEYWORDS = {
-    "products": ["launch", "launches", "drop", "sold out", "restock", "new flavor", "limited edition", "collab", "collection", "skincare", "makeup", "snack", "drink", "sneaker"],
-    "digital": ["app", "ai", "chatgpt", "feature", "update", "beta", "startup", "platform", "tiktok", "instagram", "threads", "openai", "apple", "google"],
+    "products": ["launch", "launches", "drop", "sold out", "restock", "new flavor", "limited edition", "collab", "collection", "skincare", "makeup", "snack", "drink", "sneaker", "gadget", "earbuds", "headphones", "console", "subscription", "new app", "device", "review"],
+    "digital": ["ai", "chatgpt", "feature", "update", "beta", "startup", "platform", "tiktok", "instagram", "threads", "openai", "apple", "google", "algorithm", "creator"],
     "campaigns": ["campaign", "ad", "ads", "commercial", "activation", "pop-up", "popup", "billboard", "sponsor", "partnership", "nyfw", "fashion week", "super bowl", "stunt", "brand"],
     "culture": ["meme", "trend", "viral", "aesthetic", "core", "sound", "challenge", "discourse", "everyone is", "obsessed", "slang"],
 }
