@@ -9403,11 +9403,11 @@
   "url": "https://bsky.app/profile/contemprainn.bsky.social/post/3mx6cflyykk27",
   "text": "Raven 🐦‍⬛ named Gosha famously went viral for playing and winning a game of tic-tac-toe against a human opponent on a wooden grid board",
   "published": "2026-10-06T01:40:58.474000Z",
-  "score": 1635.0,
+  "score": 1653.0,
   "rank": null,
   "metrics": {
-   "likes": 1151,
-   "reposts": 242,
+   "likes": 1165,
+   "reposts": 244,
    "replies": 38,
    "query": "went viral"
   },
@@ -9548,25 +9548,6 @@
   "tags": []
  },
  {
-  "id": "b306f7df7c40",
-  "source": "bluesky",
-  "source_label": "@momus.bsky.social",
-  "title": "by the time he's in college, he'll be bringing it out at parties: \"hey look! i went viral in 3rd grade!\"",
-  "url": "https://bsky.app/profile/momus.bsky.social/post/3mwvolanlic2s",
-  "text": "by the time he's in college, he'll be bringing it out at parties: \"hey look! i went viral in 3rd grade!\"",
-  "published": "2026-10-02T15:24:55.147000Z",
-  "score": 20.0,
-  "rank": null,
-  "metrics": {
-   "likes": 20,
-   "reposts": 0,
-   "replies": 1,
-   "query": "went viral"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "94b3904a3ab8",
   "source": "bluesky",
   "source_label": "@2ndaryprotocol.bsky.social",
@@ -9583,6 +9564,25 @@
    "query": "went viral"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cow4rmn6zswxrqognhixciax/bafkreihmopqltiag7jnh6k3mxdo7whziqkkv3nxkl447wnnclokddfewr4",
+  "tags": []
+ },
+ {
+  "id": "b306f7df7c40",
+  "source": "bluesky",
+  "source_label": "@momus.bsky.social",
+  "title": "by the time he's in college, he'll be bringing it out at parties: \"hey look! i went viral in 3rd grade!\"",
+  "url": "https://bsky.app/profile/momus.bsky.social/post/3mwvolanlic2s",
+  "text": "by the time he's in college, he'll be bringing it out at parties: \"hey look! i went viral in 3rd grade!\"",
+  "published": "2026-10-02T15:24:55.147000Z",
+  "score": 20.0,
+  "rank": null,
+  "metrics": {
+   "likes": 20,
+   "reposts": 0,
+   "replies": 1,
+   "query": "went viral"
+  },
+  "image_url": null,
   "tags": []
  },
  {
@@ -9719,25 +9719,6 @@
   "tags": []
  },
  {
-  "id": "20c8207ecd9d",
-  "source": "bluesky",
-  "source_label": "@starberrycereal.bsky.social",
-  "title": "Just a little obsessed with this monster",
-  "url": "https://bsky.app/profile/starberrycereal.bsky.social/post/3mwp3huqn7k2z",
-  "text": "Just a little obsessed with this monster",
-  "published": "2026-09-30T00:27:02.442000Z",
-  "score": 346.0,
-  "rank": null,
-  "metrics": {
-   "likes": 230,
-   "reposts": 58,
-   "replies": 2,
-   "query": "obsessed with this"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5cul623wvplrcf2oemckd6gp/bafkreibvm4lcc4mnpmgf5zbyc3iuky7ivhacegze7amfle2uyc3erzttv4",
-  "tags": []
- },
- {
   "id": "eaf24d4f063b",
   "source": "bluesky",
   "source_label": "@berensreverie.bsky.social",
@@ -9754,6 +9735,25 @@
    "query": "obsessed with this"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hdaokurp3wblyigzgurn5mj/bafkreiadizpiirc5vfxdhcqaggrwy7edfa23dqz64lz5w7fndvr7nvue6a",
+  "tags": []
+ },
+ {
+  "id": "20c8207ecd9d",
+  "source": "bluesky",
+  "source_label": "@starberrycereal.bsky.social",
+  "title": "Just a little obsessed with this monster",
+  "url": "https://bsky.app/profile/starberrycereal.bsky.social/post/3mwp3huqn7k2z",
+  "text": "Just a little obsessed with this monster",
+  "published": "2026-09-30T00:27:02.442000Z",
+  "score": 346.0,
+  "rank": null,
+  "metrics": {
+   "likes": 230,
+   "reposts": 58,
+   "replies": 2,
+   "query": "obsessed with this"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5cul623wvplrcf2oemckd6gp/bafkreibvm4lcc4mnpmgf5zbyc3iuky7ivhacegze7amfle2uyc3erzttv4",
   "tags": []
  },
  {
@@ -9814,25 +9814,6 @@
   "tags": []
  },
  {
-  "id": "b509342a58bc",
-  "source": "bluesky",
-  "source_label": "@fivel.bsky.social",
-  "title": "I'm obsessed with this youtu.be/CvU1-LuxLIY?...",
-  "url": "https://bsky.app/profile/fivel.bsky.social/post/3mwyzgmevak2y",
-  "text": "I'm obsessed with this youtu.be/CvU1-LuxLIY?...",
-  "published": "2026-10-03T23:17:10.047000Z",
-  "score": 143.0,
-  "rank": null,
-  "metrics": {
-   "likes": 105,
-   "reposts": 19,
-   "replies": 10,
-   "query": "obsessed with this"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:64nwqhbnjiblm5ultoviv2d2/bafkreicae5txaww27zjnpj4ou2ak6cftfnlctdabn5uos76fl6hemq5vam",
-  "tags": []
- },
- {
   "id": "668443678104",
   "source": "bluesky",
   "source_label": "@gizmouse.bsky.social",
@@ -9849,6 +9830,25 @@
    "query": "obsessed with this"
   },
   "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "b509342a58bc",
+  "source": "bluesky",
+  "source_label": "@fivel.bsky.social",
+  "title": "I'm obsessed with this youtu.be/CvU1-LuxLIY?...",
+  "url": "https://bsky.app/profile/fivel.bsky.social/post/3mwyzgmevak2y",
+  "text": "I'm obsessed with this youtu.be/CvU1-LuxLIY?...",
+  "published": "2026-10-03T23:17:10.047000Z",
+  "score": 143.0,
+  "rank": null,
+  "metrics": {
+   "likes": 105,
+   "reposts": 19,
+   "replies": 10,
+   "query": "obsessed with this"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:64nwqhbnjiblm5ultoviv2d2/bafkreicae5txaww27zjnpj4ou2ak6cftfnlctdabn5uos76fl6hemq5vam",
   "tags": []
  },
  {
@@ -9890,25 +9890,6 @@
   "tags": []
  },
  {
-  "id": "91b4b343ebb4",
-  "source": "bluesky",
-  "source_label": "@elfeincaine.bsky.social",
-  "title": "It's October 1st! Me and my boyfriend obsessed with WileyRunner right now so this is our couple costume this year",
-  "url": "https://bsky.app/profile/elfeincaine.bsky.social/post/3mwtoy5yhxs2q",
-  "text": "It's October 1st! Me and my boyfriend obsessed with WileyRunner right now so this is our couple costume this year",
-  "published": "2026-10-01T20:26:49.085000Z",
-  "score": 190.0,
-  "rank": null,
-  "metrics": {
-   "likes": 120,
-   "reposts": 35,
-   "replies": 1,
-   "query": "obsessed with this"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tiz4rmk5pddra56da2ggd672/bafkreifyuhmzrlyzpt2d5nnoldg2lg46x3zrm7shhnacd6acxjspe3rfje",
-  "tags": []
- },
- {
   "id": "5d6927d86aeb",
   "source": "bluesky",
   "source_label": "@clarz.bsky.social",
@@ -9925,6 +9906,25 @@
    "query": "obsessed with this"
   },
   "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "91b4b343ebb4",
+  "source": "bluesky",
+  "source_label": "@elfeincaine.bsky.social",
+  "title": "It's October 1st! Me and my boyfriend obsessed with WileyRunner right now so this is our couple costume this year",
+  "url": "https://bsky.app/profile/elfeincaine.bsky.social/post/3mwtoy5yhxs2q",
+  "text": "It's October 1st! Me and my boyfriend obsessed with WileyRunner right now so this is our couple costume this year",
+  "published": "2026-10-01T20:26:49.085000Z",
+  "score": 190.0,
+  "rank": null,
+  "metrics": {
+   "likes": 120,
+   "reposts": 35,
+   "replies": 1,
+   "query": "obsessed with this"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tiz4rmk5pddra56da2ggd672/bafkreifyuhmzrlyzpt2d5nnoldg2lg46x3zrm7shhnacd6acxjspe3rfje",
   "tags": []
  },
  {
@@ -9966,25 +9966,6 @@
   "tags": []
  },
  {
-  "id": "f2ac5438fd31",
-  "source": "bluesky",
-  "source_label": "@slinger87.bsky.social",
-  "title": "Obsessed with this McKenna look.",
-  "url": "https://bsky.app/profile/slinger87.bsky.social/post/3mwrdb5xmek2w",
-  "text": "Obsessed with this McKenna look.",
-  "published": "2026-09-30T21:51:46.656000Z",
-  "score": 33.0,
-  "rank": null,
-  "metrics": {
-   "likes": 23,
-   "reposts": 5,
-   "replies": 0,
-   "query": "obsessed with this"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iiihutv5owyq2ndlkf4mudkm/bafkreidujz73dycfw335l3pikjcvj56e6a6srsqzuyamwgwzedlwqftjuu",
-  "tags": []
- },
- {
   "id": "5e444a20e0f4",
   "source": "bluesky",
   "source_label": "@michelleroy78.bsky.social",
@@ -10001,6 +9982,25 @@
    "query": "obsessed with this"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:36kbybzhwfi6gmpoapwiclix/bafkreicmf36m7mnnc4i2dgirtuhqkskwxciorlogzduoffpdyngshqsj3i",
+  "tags": []
+ },
+ {
+  "id": "f2ac5438fd31",
+  "source": "bluesky",
+  "source_label": "@slinger87.bsky.social",
+  "title": "Obsessed with this McKenna look.",
+  "url": "https://bsky.app/profile/slinger87.bsky.social/post/3mwrdb5xmek2w",
+  "text": "Obsessed with this McKenna look.",
+  "published": "2026-09-30T21:51:46.656000Z",
+  "score": 33.0,
+  "rank": null,
+  "metrics": {
+   "likes": 23,
+   "reposts": 5,
+   "replies": 0,
+   "query": "obsessed with this"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iiihutv5owyq2ndlkf4mudkm/bafkreidujz73dycfw335l3pikjcvj56e6a6srsqzuyamwgwzedlwqftjuu",
   "tags": []
  },
  {
@@ -10106,11 +10106,11 @@
   "url": "https://bsky.app/profile/itemlabel.com/post/3mx5pdp2j6k2f",
   "text": "The new itemLabel Drop is Live! Head over to itemlabel.com to see all the new items. Repost this post for a chance to win a golden peepy!",
   "published": "2026-10-05T19:59:53.464000Z",
-  "score": 380.0,
+  "score": 382.0,
   "rank": null,
   "metrics": {
    "likes": 140,
-   "reposts": 120,
+   "reposts": 121,
    "replies": 3,
    "query": "new drop"
   },
@@ -10239,11 +10239,11 @@
   "url": "https://bsky.app/profile/mayor.nyc.gov/post/3mx672ulqrc2v",
   "text": "New York, it’s official. We’re extending our Open Play program to keep select fields lit at night for free pickup soccer this fall & next summer. Restarting tonight, you can play soccer from 10pm-2am at select parks in all 5 boroughs. Drop in or sign up online. Locations/details at nycopenplay.com",
   "published": "2026-10-06T00:41:17.145000Z",
-  "score": 4297.0,
+  "score": 4334.0,
   "rank": null,
   "metrics": {
-   "likes": 3253,
-   "reposts": 522,
+   "likes": 3282,
+   "reposts": 526,
    "replies": 35,
    "query": "new drop"
   },
@@ -10381,25 +10381,6 @@
    "query": "new drop"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6dugraog4r6eqmwjomalaqd/bafkreifkar6oahjdqezsidh72qhgxkbtp54xs56pefs6u6oeqj7dkl5mqe",
-  "tags": []
- },
- {
-  "id": "0b947215cb09",
-  "source": "bluesky",
-  "source_label": "@hypnocatabdl.bsky.social",
-  "title": "🌟New Session Drop! Can your inner baby come out to play? 🫣 🎧⬇️ hypnocatasmr.sellfy.store/p/my-inner-b...",
-  "url": "https://bsky.app/profile/hypnocatabdl.bsky.social/post/3mwtoizu53k26",
-  "text": "🌟New Session Drop! Can your inner baby come out to play? 🫣 🎧⬇️ hypnocatasmr.sellfy.store/p/my-inner-b...",
-  "published": "2026-10-01T20:18:21.433000Z",
-  "score": 47.0,
-  "rank": null,
-  "metrics": {
-   "likes": 47,
-   "reposts": 0,
-   "replies": 0,
-   "query": "new drop"
-  },
-  "image_url": null,
   "tags": []
  },
  {
@@ -10885,10 +10866,10 @@
   "url": "https://bsky.app/profile/ethanlavery.bsky.social/post/3mx65qf7vnk2v",
   "text": "Just beautiful hang time here",
   "published": "2026-10-06T00:17:31.749000Z",
-  "score": 74.0,
+  "score": 75.0,
   "rank": null,
   "metrics": {
-   "likes": 74,
+   "likes": 75,
    "reposts": 0,
    "replies": 1,
    "query": "just launched"
@@ -10923,10 +10904,10 @@
   "url": "https://bsky.app/profile/treblaw.bsky.social/post/3mx6gr24sjc2e",
   "text": "hey hon how was golfing",
   "published": "2026-10-06T02:58:57.336000Z",
-  "score": 59.0,
+  "score": 60.0,
   "rank": null,
   "metrics": {
-   "likes": 53,
+   "likes": 54,
    "reposts": 3,
    "replies": 6,
    "query": "just launched"
@@ -11125,25 +11106,6 @@
   "tags": []
  },
  {
-  "id": "b8f771370d52",
-  "source": "bluesky",
-  "source_label": "@shugowah.bsky.social",
-  "title": "so. I need everyone to see the Engineering perk I just found out about that I've been ignoring since Midnight launched #",
-  "url": "https://bsky.app/profile/shugowah.bsky.social/post/3mwr65sw2d22h",
-  "text": "so. I need everyone to see the Engineering perk I just found out about that I've been ignoring since Midnight launched #worldofwarcract #warcraft",
-  "published": "2026-09-30T20:20:25.717000Z",
-  "score": 46.0,
-  "rank": null,
-  "metrics": {
-   "likes": 38,
-   "reposts": 4,
-   "replies": 9,
-   "query": "just launched"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "0a33bec90a81",
   "source": "bluesky",
   "source_label": "@maxbrockbank.com",
@@ -11157,6 +11119,25 @@
    "likes": 17,
    "reposts": 11,
    "replies": 2,
+   "query": "just launched"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "b8f771370d52",
+  "source": "bluesky",
+  "source_label": "@shugowah.bsky.social",
+  "title": "so. I need everyone to see the Engineering perk I just found out about that I've been ignoring since Midnight launched #",
+  "url": "https://bsky.app/profile/shugowah.bsky.social/post/3mwr65sw2d22h",
+  "text": "so. I need everyone to see the Engineering perk I just found out about that I've been ignoring since Midnight launched #worldofwarcract #warcraft",
+  "published": "2026-09-30T20:20:25.717000Z",
+  "score": 46.0,
+  "rank": null,
+  "metrics": {
+   "likes": 38,
+   "reposts": 4,
+   "replies": 9,
    "query": "just launched"
   },
   "image_url": null,
@@ -11467,25 +11448,6 @@
   "tags": []
  },
  {
-  "id": "927edc880678",
-  "source": "bluesky",
-  "source_label": "@melodyschreiber.com",
-  "title": "Move over, Wild to Mild, I've got a new flu shot campaign for you",
-  "url": "https://bsky.app/profile/melodyschreiber.com/post/3mww3jjqvvk2r",
-  "text": "Move over, Wild to Mild, I've got a new flu shot campaign for you",
-  "published": "2026-10-02T19:16:36.230000Z",
-  "score": 48.0,
-  "rank": null,
-  "metrics": {
-   "likes": 32,
-   "reposts": 8,
-   "replies": 0,
-   "query": "new campaign"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "6a9a38dd573f",
   "source": "bluesky",
   "source_label": "@janemayer.bsky.social",
@@ -11502,6 +11464,25 @@
    "query": "new app"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tapnxolh52t57kjgvrhcrjmf/bafkreiadpdfru75pu7sunghb2gdub74oijpo7pojoxrcx6ox5ibz6z2yxe",
+  "tags": []
+ },
+ {
+  "id": "927edc880678",
+  "source": "bluesky",
+  "source_label": "@melodyschreiber.com",
+  "title": "Move over, Wild to Mild, I've got a new flu shot campaign for you",
+  "url": "https://bsky.app/profile/melodyschreiber.com/post/3mww3jjqvvk2r",
+  "text": "Move over, Wild to Mild, I've got a new flu shot campaign for you",
+  "published": "2026-10-02T19:16:36.230000Z",
+  "score": 48.0,
+  "rank": null,
+  "metrics": {
+   "likes": 32,
+   "reposts": 8,
+   "replies": 0,
+   "query": "new campaign"
+  },
+  "image_url": null,
   "tags": []
  },
  {
@@ -11543,25 +11524,6 @@
   "tags": []
  },
  {
-  "id": "cf9e94abacce",
-  "source": "bluesky",
-  "source_label": "@thestudyofwar.bsky.social",
-  "title": "NEW: The Houthis captured the key supply route between Taiz and Aden cities on October 4, which is part of the Houthi ca",
-  "url": "https://bsky.app/profile/thestudyofwar.bsky.social/post/3mx3c4ekc6b2p",
-  "text": "NEW: The Houthis captured the key supply route between Taiz and Aden cities on October 4, which is part of the Houthi campaign to seize Taiz City. (1/3) Read more: isw.pub/IranUpdate10...",
-  "published": "2026-10-04T20:57:49Z",
-  "score": 176.0,
-  "rank": null,
-  "metrics": {
-   "likes": 114,
-   "reposts": 31,
-   "replies": 3,
-   "query": "new campaign"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wtm3vnk3ohjx6fhrmundh4kz/bafkreibv74dd4mn7vhx2nf7jgxwedwjgnfvwg66mouy3yl7tfooojs35n4",
-  "tags": []
- },
- {
   "id": "a9c1014f3531",
   "source": "bluesky",
   "source_label": "@senseidai.bsky.social",
@@ -11578,6 +11540,25 @@
    "query": "new app"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4dtlato5slfnh3jv7muraztp/bafkreihirpsjw3c74enkjw5nusofj3lz5smktkqt2nxwdvaiox4ernhhmy",
+  "tags": []
+ },
+ {
+  "id": "cf9e94abacce",
+  "source": "bluesky",
+  "source_label": "@thestudyofwar.bsky.social",
+  "title": "NEW: The Houthis captured the key supply route between Taiz and Aden cities on October 4, which is part of the Houthi ca",
+  "url": "https://bsky.app/profile/thestudyofwar.bsky.social/post/3mx3c4ekc6b2p",
+  "text": "NEW: The Houthis captured the key supply route between Taiz and Aden cities on October 4, which is part of the Houthi campaign to seize Taiz City. (1/3) Read more: isw.pub/IranUpdate10...",
+  "published": "2026-10-04T20:57:49Z",
+  "score": 176.0,
+  "rank": null,
+  "metrics": {
+   "likes": 114,
+   "reposts": 31,
+   "replies": 3,
+   "query": "new campaign"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wtm3vnk3ohjx6fhrmundh4kz/bafkreibv74dd4mn7vhx2nf7jgxwedwjgnfvwg66mouy3yl7tfooojs35n4",
   "tags": []
  },
  {
@@ -11619,25 +11600,6 @@
   "tags": []
  },
  {
-  "id": "40bb21365160",
-  "source": "bluesky",
-  "source_label": "@macfarlanenews.bsky.social",
-  "title": "NEW: Memo circulated by campaign of Adam Hamilton, who is running against Sen Roger Marshall (R-KS) \"Five independent ra",
-  "url": "https://bsky.app/profile/macfarlanenews.bsky.social/post/3mwvmstdkuc2z",
-  "text": "NEW: Memo circulated by campaign of Adam Hamilton, who is running against Sen Roger Marshall (R-KS) \"Five independent race raters have shifted this race multiple times towards Hamilton. In the last two weeks, two major pollsters show Hamilton leading... Marshall by 2 points\"",
-  "published": "2026-10-02T14:53:22.141000Z",
-  "score": 645.0,
-  "rank": null,
-  "metrics": {
-   "likes": 435,
-   "reposts": 105,
-   "replies": 11,
-   "query": "new campaign"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "d1c4dd4c54db",
   "source": "bluesky",
   "source_label": "@anthropocenempg.bsky.social",
@@ -11651,6 +11613,25 @@
    "likes": 18,
    "reposts": 2,
    "replies": 0,
+   "query": "new campaign"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "40bb21365160",
+  "source": "bluesky",
+  "source_label": "@macfarlanenews.bsky.social",
+  "title": "NEW: Memo circulated by campaign of Adam Hamilton, who is running against Sen Roger Marshall (R-KS) \"Five independent ra",
+  "url": "https://bsky.app/profile/macfarlanenews.bsky.social/post/3mwvmstdkuc2z",
+  "text": "NEW: Memo circulated by campaign of Adam Hamilton, who is running against Sen Roger Marshall (R-KS) \"Five independent race raters have shifted this race multiple times towards Hamilton. In the last two weeks, two major pollsters show Hamilton leading... Marshall by 2 points\"",
+  "published": "2026-10-02T14:53:22.141000Z",
+  "score": 645.0,
+  "rank": null,
+  "metrics": {
+   "likes": 435,
+   "reposts": 105,
+   "replies": 11,
    "query": "new campaign"
   },
   "image_url": null,
@@ -11778,10 +11759,10 @@
   "url": "https://bsky.app/profile/jaylionel.bsky.social/post/3mx57zgwqek2y",
   "text": "One of them was LITERALLY a Trump campaign ad. Not even reshot. The same ad.",
   "published": "2026-10-05T15:25:43.283000Z",
-  "score": 133.0,
+  "score": 134.0,
   "rank": null,
   "metrics": {
-   "likes": 111,
+   "likes": 112,
    "reposts": 11,
    "replies": 2,
    "query": "ad campaign"
@@ -11835,11 +11816,11 @@
   "url": "https://bsky.app/profile/donmoyn.bsky.social/post/3mx5kdwryak2h",
   "text": "One of these was literally a Trump 2024 campaign ad. The only difference is that it now says \"paid for by the US government\"",
   "published": "2026-10-05T18:30:32.866000Z",
-  "score": 1230.0,
+  "score": 1235.0,
   "rank": null,
   "metrics": {
-   "likes": 866,
-   "reposts": 182,
+   "likes": 869,
+   "reposts": 183,
    "replies": 49,
    "query": "ad campaign"
   },
@@ -11980,25 +11961,6 @@
   "tags": []
  },
  {
-  "id": "04ddc29dbfd6",
-  "source": "bluesky",
-  "source_label": "@bubbaprog.xyz",
-  "title": "PLEASE OPEN THE BOX LABELED CAMPAIGN AD DEFAMATION TORT I BEG YOU, OPEN IT",
-  "url": "https://bsky.app/profile/bubbaprog.xyz/post/3mwnyphhi4kfu",
-  "text": "PLEASE OPEN THE BOX LABELED CAMPAIGN AD DEFAMATION TORT I BEG YOU, OPEN IT",
-  "published": "2026-09-29T14:04:56.018000Z",
-  "score": 99.0,
-  "rank": null,
-  "metrics": {
-   "likes": 87,
-   "reposts": 6,
-   "replies": 3,
-   "query": "ad campaign"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "7dfeff2e4f75",
   "source": "bluesky",
   "source_label": "@susanmcgraw88.bsky.social",
@@ -12015,6 +11977,25 @@
    "query": "ad campaign"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7futw7mxqlzedq6f5p7ffog/bafkreidnru5n2fqpgfehjj4rprsuyooncjztebc66dpxkejee66phsvevu",
+  "tags": []
+ },
+ {
+  "id": "04ddc29dbfd6",
+  "source": "bluesky",
+  "source_label": "@bubbaprog.xyz",
+  "title": "PLEASE OPEN THE BOX LABELED CAMPAIGN AD DEFAMATION TORT I BEG YOU, OPEN IT",
+  "url": "https://bsky.app/profile/bubbaprog.xyz/post/3mwnyphhi4kfu",
+  "text": "PLEASE OPEN THE BOX LABELED CAMPAIGN AD DEFAMATION TORT I BEG YOU, OPEN IT",
+  "published": "2026-09-29T14:04:56.018000Z",
+  "score": 99.0,
+  "rank": null,
+  "metrics": {
+   "likes": 87,
+   "reposts": 6,
+   "replies": 3,
+   "query": "ad campaign"
+  },
+  "image_url": null,
   "tags": []
  },
  {
@@ -12075,6 +12056,25 @@
   "tags": []
  },
  {
+  "id": "521093fcf994",
+  "source": "bluesky",
+  "source_label": "@threetwoeephus.bsky.social",
+  "title": "Now we wait",
+  "url": "https://bsky.app/profile/threetwoeephus.bsky.social/post/3mx3tkqq6f22x",
+  "text": "Now we wait",
+  "published": "2026-10-05T02:10:05.591000Z",
+  "score": 78.0,
+  "rank": null,
+  "metrics": {
+   "likes": 68,
+   "reposts": 5,
+   "replies": 1,
+   "query": "ad campaign"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
   "id": "0a53386c6832",
   "source": "bluesky",
   "source_label": "@akaoni.bsky.social",
@@ -12113,25 +12113,6 @@
   "tags": []
  },
  {
-  "id": "521093fcf994",
-  "source": "bluesky",
-  "source_label": "@threetwoeephus.bsky.social",
-  "title": "Now we wait",
-  "url": "https://bsky.app/profile/threetwoeephus.bsky.social/post/3mx3tkqq6f22x",
-  "text": "Now we wait",
-  "published": "2026-10-05T02:10:05.591000Z",
-  "score": 78.0,
-  "rank": null,
-  "metrics": {
-   "likes": 68,
-   "reposts": 5,
-   "replies": 1,
-   "query": "ad campaign"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "be568e96672a",
   "source": "bluesky",
   "source_label": "@walkingmermaid.bsky.social",
@@ -12158,10 +12139,10 @@
   "url": "https://bsky.app/profile/emopamps.bsky.social/post/3mx6npno3fk2h",
   "text": "Huh? My skincare routine? Firstly i like to clean the area with an aloe infused moisturizing towelette, then i apply a little topical cream. its called \"desitin maximum strength.\" Lastly, i finish with a fine powder. Its by Johnson's. Pretty lowkey. Its got aloe and vitamin e.",
   "published": "2026-10-06T05:03:26.914000Z",
-  "score": 34.0,
+  "score": 36.0,
   "rank": null,
   "metrics": {
-   "likes": 34,
+   "likes": 36,
    "reposts": 0,
    "replies": 3,
    "query": "skincare routine"
@@ -12474,25 +12455,6 @@
   "tags": []
  },
  {
-  "id": "36b51b16ea36",
-  "source": "bluesky",
-  "source_label": "@emptywheel.bsky.social",
-  "title": "I had the non-original insight last night that the reason AI naturally hacked to achieve their tasks is bc the oligarchs",
-  "url": "https://bsky.app/profile/emptywheel.bsky.social/post/3mx3aef2wc22f",
-  "text": "I had the non-original insight last night that the reason AI naturally hacked to achieve their tasks is bc the oligarchs who created it (based on stolen content) are willing to do anything to make this work, to find a new killer app to replace Facebook.",
-  "published": "2026-10-04T20:26:30.944000Z",
-  "score": 325.0,
-  "rank": null,
-  "metrics": {
-   "likes": 235,
-   "reposts": 45,
-   "replies": 15,
-   "query": "AI app"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "230dae307077",
   "source": "bluesky",
   "source_label": "@nicodelort.bsky.social",
@@ -12500,11 +12462,11 @@
   "url": "https://bsky.app/profile/nicodelort.bsky.social/post/3mx4n22yuuc2l",
   "text": "i dont want to download an app i don't want a qr code menu i dont want to talk to an ai assistant i dont want ai summaries for my searches i dont want to optimize my workflow i dont want to jump on a call i dont want to rate anything i don't want to create an account LEAVEME ADLONEe",
   "published": "2026-10-05T09:46:03.229000Z",
-  "score": 5103.0,
+  "score": 5110.0,
   "rank": null,
   "metrics": {
-   "likes": 3097,
-   "reposts": 1003,
+   "likes": 3102,
+   "reposts": 1004,
    "replies": 10,
    "query": "AI app"
   },
@@ -12661,6 +12623,25 @@
    "query": "AI app"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zn5ywbnjmtklgnf5ehrxbmuv/bafkreiaehaixfxrgsagtphmbb2ghmajuceby4bcgcfph35epsnhjjijo34",
+  "tags": []
+ },
+ {
+  "id": "36b51b16ea36",
+  "source": "bluesky",
+  "source_label": "@emptywheel.bsky.social",
+  "title": "I had the non-original insight last night that the reason AI naturally hacked to achieve their tasks is bc the oligarchs",
+  "url": "https://bsky.app/profile/emptywheel.bsky.social/post/3mx3aef2wc22f",
+  "text": "I had the non-original insight last night that the reason AI naturally hacked to achieve their tasks is bc the oligarchs who created it (based on stolen content) are willing to do anything to make this work, to find a new killer app to replace Facebook.",
+  "published": "2026-10-04T20:26:30.944000Z",
+  "score": 325.0,
+  "rank": null,
+  "metrics": {
+   "likes": 235,
+   "reposts": 45,
+   "replies": 15,
+   "query": "AI app"
+  },
+  "image_url": null,
   "tags": []
  },
  {
@@ -12842,11 +12823,11 @@
   "url": "https://bsky.app/profile/blushyspicy.bsky.social/post/3mx5yplpvhk2s",
   "text": "✨LAST RESTOCK of the Shadowheart Sale! ✨ Stickers, Magnets, & Prints! Only 30 Slots Available! YEAH! You should absolutely grab yours now! Spicysweets.org",
   "published": "2026-10-05T22:47:36.281000Z",
-  "score": 848.0,
+  "score": 855.0,
   "rank": null,
   "metrics": {
-   "likes": 700,
-   "reposts": 74,
+   "likes": 705,
+   "reposts": 75,
    "replies": 0,
    "query": "restock"
   },
@@ -13557,25 +13538,6 @@
   "tags": []
  },
  {
-  "id": "1475fa272845",
-  "source": "bluesky",
-  "source_label": "@lethalityjane.bsky.social",
-  "title": "Does Trader Joe's pay really well or something? Their cashiers are always genuinely the friendliest retail employees I e",
-  "url": "https://bsky.app/profile/lethalityjane.bsky.social/post/3mwu6to4uec24",
-  "text": "Does Trader Joe's pay really well or something? Their cashiers are always genuinely the friendliest retail employees I ever see.",
-  "published": "2026-10-02T01:10:38.105000Z",
-  "score": 55.0,
-  "rank": null,
-  "metrics": {
-   "likes": 51,
-   "reposts": 2,
-   "replies": 8,
-   "query": "trader joe's"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "fb337daa33f7",
   "source": "bluesky",
   "source_label": "@physiciandemocracy.medsky.social",
@@ -13595,6 +13557,25 @@
   "tags": []
  },
  {
+  "id": "1475fa272845",
+  "source": "bluesky",
+  "source_label": "@lethalityjane.bsky.social",
+  "title": "Does Trader Joe's pay really well or something? Their cashiers are always genuinely the friendliest retail employees I e",
+  "url": "https://bsky.app/profile/lethalityjane.bsky.social/post/3mwu6to4uec24",
+  "text": "Does Trader Joe's pay really well or something? Their cashiers are always genuinely the friendliest retail employees I ever see.",
+  "published": "2026-10-02T01:10:38.105000Z",
+  "score": 55.0,
+  "rank": null,
+  "metrics": {
+   "likes": 51,
+   "reposts": 2,
+   "replies": 8,
+   "query": "trader joe's"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
   "id": "7dfc7a01b681",
   "source": "bluesky",
   "source_label": "@opinionhaver.bsky.social",
@@ -13602,10 +13583,10 @@
   "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mx6ecartzk25",
   "text": "Man sushi sounds great, but I gotta pass, sorry man. As a Trader Joe’s/REI type white I’m culturally obligated to have every meal involve pumpkin some way this month.",
   "published": "2026-10-06T02:14:53.527000Z",
-  "score": 72.0,
+  "score": 73.0,
   "rank": null,
   "metrics": {
-   "likes": 72,
+   "likes": 73,
    "reposts": 0,
    "replies": 12,
    "query": "trader joe's"
@@ -13652,25 +13633,6 @@
   "tags": []
  },
  {
-  "id": "cb8e51a3acd4",
-  "source": "bluesky",
-  "source_label": "@jaybird54.bsky.social",
-  "title": "Join the #GoodTroubleSquadron as we begin our OFFICIAL Target 🎯 Boycott.💥 Your Wallet is Your Vote! Shop Costco, Nordstr",
-  "url": "https://bsky.app/profile/jaybird54.bsky.social/post/3mx5bdowvik2x",
-  "text": "Join the #GoodTroubleSquadron as we begin our OFFICIAL Target 🎯 Boycott.💥 Your Wallet is Your Vote! Shop Costco, Nordstrom, Michael’s, Ulta Beauty, Trader Joe’s & independent local businesses that reflect your values and your community! goodtroublesquadron.com",
-  "published": "2026-10-05T15:49:20.958000Z",
-  "score": 128.0,
-  "rank": null,
-  "metrics": {
-   "likes": 64,
-   "reposts": 32,
-   "replies": 8,
-   "query": "trader joe's"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dt57ssk3lo7d7s4ybe57iczr/bafkreiedi7yl5k3e4ythl4syzyswpwagosoeptiwhp5xdllbmul6xogj5e",
-  "tags": []
- },
- {
   "id": "d72b48cefd22",
   "source": "bluesky",
   "source_label": "@aklingus.bsky.social",
@@ -13687,6 +13649,25 @@
    "query": "trader joe's"
   },
   "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "cb8e51a3acd4",
+  "source": "bluesky",
+  "source_label": "@jaybird54.bsky.social",
+  "title": "Join the #GoodTroubleSquadron as we begin our OFFICIAL Target 🎯 Boycott.💥 Your Wallet is Your Vote! Shop Costco, Nordstr",
+  "url": "https://bsky.app/profile/jaybird54.bsky.social/post/3mx5bdowvik2x",
+  "text": "Join the #GoodTroubleSquadron as we begin our OFFICIAL Target 🎯 Boycott.💥 Your Wallet is Your Vote! Shop Costco, Nordstrom, Michael’s, Ulta Beauty, Trader Joe’s & independent local businesses that reflect your values and your community! goodtroublesquadron.com",
+  "published": "2026-10-05T15:49:20.958000Z",
+  "score": 128.0,
+  "rank": null,
+  "metrics": {
+   "likes": 64,
+   "reposts": 32,
+   "replies": 8,
+   "query": "trader joe's"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dt57ssk3lo7d7s4ybe57iczr/bafkreiedi7yl5k3e4ythl4syzyswpwagosoeptiwhp5xdllbmul6xogj5e",
   "tags": []
  },
  {
@@ -13880,25 +13861,6 @@
   "tags": []
  },
  {
-  "id": "736d17d80815",
-  "source": "bluesky",
-  "source_label": "@skunkgender.bsky.social",
-  "title": "getting kicked out of costco for being a proshipper",
-  "url": "https://bsky.app/profile/skunkgender.bsky.social/post/3mx2tz6s45s2y",
-  "text": "getting kicked out of costco for being a proshipper",
-  "published": "2026-10-04T16:45:30.352000Z",
-  "score": 112.0,
-  "rank": null,
-  "metrics": {
-   "likes": 78,
-   "reposts": 17,
-   "replies": 2,
-   "query": "costco"
-  },
-  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g42ktjntypzwmuv554bm6wtv/bafkreida3l24wcq3hgg5gzq35lk43barxbq2kpuq2alo5uwj5ja26xyjyi",
-  "tags": []
- },
- {
   "id": "e2c0a30ec4ad",
   "source": "bluesky",
   "source_label": "@anchet7.bsky.social",
@@ -13934,6 +13896,25 @@
    "query": "costco"
   },
   "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "736d17d80815",
+  "source": "bluesky",
+  "source_label": "@skunkgender.bsky.social",
+  "title": "getting kicked out of costco for being a proshipper",
+  "url": "https://bsky.app/profile/skunkgender.bsky.social/post/3mx2tz6s45s2y",
+  "text": "getting kicked out of costco for being a proshipper",
+  "published": "2026-10-04T16:45:30.352000Z",
+  "score": 112.0,
+  "rank": null,
+  "metrics": {
+   "likes": 78,
+   "reposts": 17,
+   "replies": 2,
+   "query": "costco"
+  },
+  "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g42ktjntypzwmuv554bm6wtv/bafkreida3l24wcq3hgg5gzq35lk43barxbq2kpuq2alo5uwj5ja26xyjyi",
   "tags": []
  },
  {
@@ -14032,25 +14013,6 @@
   "tags": []
  },
  {
-  "id": "7de84a3d8d97",
-  "source": "bluesky",
-  "source_label": "@drjaydrno.bsky.social",
-  "title": "Three Costco hotdogs: dinner for under $5. 😂",
-  "url": "https://bsky.app/profile/drjaydrno.bsky.social/post/3mwwnw4tyl22q",
-  "text": "Three Costco hotdogs: dinner for under $5. 😂",
-  "published": "2026-10-03T00:45:46.261000Z",
-  "score": 61.0,
-  "rank": null,
-  "metrics": {
-   "likes": 61,
-   "reposts": 0,
-   "replies": 8,
-   "query": "costco"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "fc17e8b7a293",
   "source": "bluesky",
   "source_label": "@halifaxretales.bsky.social",
@@ -14067,6 +14029,25 @@
    "query": "costco"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvp363fkbqsy6rzmdo4t7bva/bafkreiaggan5r7whjbv24y5mdbukstqgv7ukmejxrczgmtrgo2jsmwdiie",
+  "tags": []
+ },
+ {
+  "id": "7de84a3d8d97",
+  "source": "bluesky",
+  "source_label": "@drjaydrno.bsky.social",
+  "title": "Three Costco hotdogs: dinner for under $5. 😂",
+  "url": "https://bsky.app/profile/drjaydrno.bsky.social/post/3mwwnw4tyl22q",
+  "text": "Three Costco hotdogs: dinner for under $5. 😂",
+  "published": "2026-10-03T00:45:46.261000Z",
+  "score": 61.0,
+  "rank": null,
+  "metrics": {
+   "likes": 61,
+   "reposts": 0,
+   "replies": 8,
+   "query": "costco"
+  },
+  "image_url": null,
   "tags": []
  },
  {
@@ -14165,25 +14146,6 @@
   "tags": []
  },
  {
-  "id": "c38d40f28676",
-  "source": "bluesky",
-  "source_label": "@danmentos.com",
-  "title": "finally some career mobility for my job as a costco receipt checker",
-  "url": "https://bsky.app/profile/danmentos.com/post/3mx3dpjwkk226",
-  "text": "finally some career mobility for my job as a costco receipt checker",
-  "published": "2026-10-04T21:26:26.364000Z",
-  "score": 58.0,
-  "rank": null,
-  "metrics": {
-   "likes": 58,
-   "reposts": 0,
-   "replies": 1,
-   "query": "costco"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "7624a1b0abde",
   "source": "bluesky",
   "source_label": "@katieaki.bsky.social",
@@ -14197,6 +14159,25 @@
    "likes": 47,
    "reposts": 0,
    "replies": 3,
+   "query": "costco"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "c38d40f28676",
+  "source": "bluesky",
+  "source_label": "@danmentos.com",
+  "title": "finally some career mobility for my job as a costco receipt checker",
+  "url": "https://bsky.app/profile/danmentos.com/post/3mx3dpjwkk226",
+  "text": "finally some career mobility for my job as a costco receipt checker",
+  "published": "2026-10-04T21:26:26.364000Z",
+  "score": 58.0,
+  "rank": null,
+  "metrics": {
+   "likes": 58,
+   "reposts": 0,
+   "replies": 1,
    "query": "costco"
   },
   "image_url": null,
@@ -14267,10 +14248,10 @@
   "url": "https://bsky.app/profile/miranii.bsky.social/post/3mx63v5qb6k2m",
   "text": "okay ballroom is getting a reprise on the new flavor foley, ill explode 8 billion times now",
   "published": "2026-10-05T23:44:24.181000Z",
-  "score": 39.0,
+  "score": 40.0,
   "rank": null,
   "metrics": {
-   "likes": 39,
+   "likes": 40,
    "reposts": 0,
    "replies": 2,
    "query": "new flavor"
@@ -14362,10 +14343,10 @@
   "url": "https://bsky.app/profile/sbworkersunited.org/post/3mwvsbvcpr22s",
   "text": "St Louis and Philadelphia's city councils just became the first to officially endorse the Starbucks Boycott. Starbucks is the biggest violator of US labor law in history, and it's time we ALL push back against corporate greed. ✊",
   "published": "2026-10-02T16:31:16.190000Z",
-  "score": 1626.0,
+  "score": 1627.0,
   "rank": null,
   "metrics": {
-   "likes": 968,
+   "likes": 969,
    "reposts": 329,
    "replies": 27,
    "query": "starbucks"
@@ -14704,10 +14685,10 @@
   "url": "https://bsky.app/profile/furry-hater.bsky.social/post/3mx6co5yut22l",
   "text": "",
   "published": "2026-10-06T01:45:45.780000Z",
-  "score": 192.0,
+  "score": 194.0,
   "rank": null,
   "metrics": {
-   "likes": 144,
+   "likes": 146,
    "reposts": 24,
    "replies": 2,
    "query": "starbucks"
@@ -14894,10 +14875,10 @@
   "url": "https://bsky.app/profile/ta-blackstone.bsky.social/post/3mx5sfjb57k2h",
   "text": "I am 1,000% serious when I say that ChatGPT needs to be permanently taken offline for everyone's safety.",
   "published": "2026-10-05T20:54:35.727000Z",
-  "score": 432.0,
+  "score": 433.0,
   "rank": null,
   "metrics": {
-   "likes": 240,
+   "likes": 241,
    "reposts": 96,
    "replies": 3,
    "query": "chatgpt"
@@ -14932,10 +14913,10 @@
   "url": "https://bsky.app/profile/kthorjensen.bsky.social/post/3mx5gwpp2mc2t",
   "text": "chat is this good",
   "published": "2026-10-05T17:29:27.990000Z",
-  "score": 6492.0,
+  "score": 6502.0,
   "rank": null,
   "metrics": {
-   "likes": 4456,
+   "likes": 4466,
    "reposts": 1018,
    "replies": 56,
    "query": "chatgpt"
@@ -14963,25 +14944,6 @@
   "tags": []
  },
  {
-  "id": "b3567d4c7412",
-  "source": "bluesky",
-  "source_label": "@pfrazee.com",
-  "title": "❌ ChatGPT decisions api! ✅ Jev!",
-  "url": "https://bsky.app/profile/pfrazee.com/post/3mwtrzf2elc2g",
-  "text": "❌ ChatGPT decisions api! ✅ Jev!",
-  "published": "2026-10-01T21:21:11.273000Z",
-  "score": 50.0,
-  "rank": null,
-  "metrics": {
-   "likes": 50,
-   "reposts": 0,
-   "replies": 2,
-   "query": "chatgpt"
-  },
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "663368876b92",
   "source": "bluesky",
   "source_label": "@jakevig.bsky.social",
@@ -14995,6 +14957,25 @@
    "likes": 83,
    "reposts": 11,
    "replies": 4,
+   "query": "chatgpt"
+  },
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "b3567d4c7412",
+  "source": "bluesky",
+  "source_label": "@pfrazee.com",
+  "title": "❌ ChatGPT decisions api! ✅ Jev!",
+  "url": "https://bsky.app/profile/pfrazee.com/post/3mwtrzf2elc2g",
+  "text": "❌ ChatGPT decisions api! ✅ Jev!",
+  "published": "2026-10-01T21:21:11.273000Z",
+  "score": 50.0,
+  "rank": null,
+  "metrics": {
+   "likes": 50,
+   "reposts": 0,
+   "replies": 2,
    "query": "chatgpt"
   },
   "image_url": null,
@@ -15084,12 +15065,12 @@
   "url": "https://bsky.app/profile/andrewdeck.bsky.social/post/3mx5rzmihzs2b",
   "text": "ChatGPT is adding the signatures of real New Yorker cartoonists to its AI-generated images. So far, I've found the signatures of more than 15 contributors. \"It’s slop, and unlike the other slop that I’ve encountered, this is slop that’s pretending to be me.\" www.niemanlab.org/2026/10/chat...",
   "published": "2026-10-05T20:47:56.457000Z",
-  "score": 4860.0,
+  "score": 4891.0,
   "rank": null,
   "metrics": {
-   "likes": 2698,
-   "reposts": 1081,
-   "replies": 57,
+   "likes": 2719,
+   "reposts": 1086,
+   "replies": 58,
    "query": "chatgpt"
   },
   "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ryyyuw2uf7mba2stfqwo335n/bafkreihghn5cd2ft25wbrdfxm3zs762sayx22g4is7pbj65mc7llbrfnk4",
@@ -15361,10 +15342,10 @@
   "url": "https://trends.google.com/trends/explore?q=kristen+wiig&geo=US&date=now%207-d",
   "text": "Kristen Wiig Wears Chanel Minidress at Paris Fashion Week — (SuaraGarut.ID) https://suaragarut.id/en/kristen-wiig-chanel-paris-fashion-week",
   "published": null,
-  "score": 200.0,
+  "score": 500.0,
   "rank": 5,
   "metrics": {
-   "approx_searches": "200+",
+   "approx_searches": "500+",
    "news_url": "https://suaragarut.id/en/kristen-wiig-chanel-paris-fashion-week"
   },
   "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJxtOPcLowJK4T6v2QA-PxQJZdX7wADezxvhahQjv-pX7ukC_oHcexoa_x6iI",
@@ -15378,13 +15359,30 @@
   "url": "https://trends.google.com/trends/explore?q=chris+mañon&geo=US&date=now%207-d",
   "text": "Lakers' biggest question mark this season surprisingly revolves around new Luka Doncic era — (Yahoo Sports) https://sports.yahoo.com/articles/lakers-biggest-mark-season-surprisingly-145028632.html",
   "published": null,
-  "score": 200.0,
+  "score": 500.0,
   "rank": 6,
   "metrics": {
-   "approx_searches": "200+",
+   "approx_searches": "500+",
    "news_url": "https://sports.yahoo.com/articles/lakers-biggest-mark-season-surprisingly-145028632.html"
   },
   "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw-oJZAyAbxBypVd5JTijO6nsuQz4JMeXcw8OwfrZI3SpagUnKKS8y-fd_DQ",
+  "tags": []
+ },
+ {
+  "id": "3b68cc4a0ed7",
+  "source": "google_trends",
+  "source_label": "Google Trends (US)",
+  "title": "ghost seed round",
+  "url": "https://trends.google.com/trends/explore?q=ghost+seed+round&geo=US&date=now%207-d",
+  "text": "Ghost emerges from stealth with $11M seed round for a personal AI computer — (Crypto Briefing) https://cryptobriefing.com/ghost-emerges-stealth-11m-ai-computer/",
+  "published": null,
+  "score": 1000.0,
+  "rank": 7,
+  "metrics": {
+   "approx_searches": "1000+",
+   "news_url": "https://cryptobriefing.com/ghost-emerges-stealth-11m-ai-computer/"
+  },
+  "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzpgT9Hu22fqls6Y5Spvh6enUTQKgnB8WzYTiz1ous3IilUekD2HP1MFhtBtw",
   "tags": []
  },
  {
@@ -15396,7 +15394,7 @@
   "text": "A Peacebuilding Response to the Anojan Case and Thileepan Memorial — (Daily Mirror - Sri Lanka) https://www.dailymirror.lk/print/opinion/A-Peacebuilding-Response-to-the-Anojan-Case-and-Thileepan-Memorial/172-351741",
   "published": null,
   "score": 500.0,
-  "rank": 7,
+  "rank": 8,
   "metrics": {
    "approx_searches": "500+",
    "news_url": "https://www.dailymirror.lk/print/opinion/A-Peacebuilding-Response-to-the-Anojan-Case-and-Thileepan-Memorial/172-351741"
@@ -15413,29 +15411,12 @@
   "text": "US seeks to revoke citizenship of 2 China-born men convicted in Beijing-linked cases — (South China Morning Post) https://www.scmp.com/news/china/diplomacy/article/3369845/us-seeks-revoke-citizenship-two-china-born-men-convicted-beijing-linked-cases",
   "published": null,
   "score": 20000.0,
-  "rank": 8,
+  "rank": 9,
   "metrics": {
    "approx_searches": "20000+",
    "news_url": "https://www.scmp.com/news/china/diplomacy/article/3369845/us-seeks-revoke-citizenship-two-china-born-men-convicted-beijing-linked-cases"
   },
   "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75VlwHH2RC-XyUp9uvA0M4xgV6WviVhdCKbBVr_Fgri0ohvXW5XAgCEF5svg",
-  "tags": []
- },
- {
-  "id": "85687bd6dc7f",
-  "source": "google_trends",
-  "source_label": "Google Trends (US)",
-  "title": "salt lake city",
-  "url": "https://trends.google.com/trends/explore?q=salt+lake+city&geo=US&date=now%207-d",
-  "text": "Fatal crash forces closure of downtown Salt Lake City intersection — (FOX 13 News Utah) https://www.fox13now.com/news/local-news/salt-lake-city/fatal-crash-forces-closure-of-downtown-salt-lake-city-intersection",
-  "published": null,
-  "score": 1000.0,
-  "rank": 9,
-  "metrics": {
-   "approx_searches": "1000+",
-   "news_url": "https://www.fox13now.com/news/local-news/salt-lake-city/fatal-crash-forces-closure-of-downtown-salt-lake-city-intersection"
-  },
-  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvaMRka0IIj1486352RQzQprf21RRENTeZCrPsXwWW007YHi_68birYz3IkYs",
   "tags": []
  },
  {
@@ -15697,11 +15678,11 @@
   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
   "text": "",
   "published": "2026-10-05T05:37:40Z",
-  "score": 675.0,
+  "score": 677.0,
   "rank": null,
   "metrics": {
-   "points": 675,
-   "comments": 520,
+   "points": 677,
+   "comments": 522,
    "hn_url": "https://news.ycombinator.com/item?id=49961057"
   },
   "image_url": null,
@@ -15895,10 +15876,10 @@
   "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
   "text": "",
   "published": "2026-10-05T10:47:06Z",
-  "score": 524.0,
+  "score": 525.0,
   "rank": null,
   "metrics": {
-   "points": 524,
+   "points": 525,
    "comments": 240,
    "hn_url": "https://news.ycombinator.com/item?id=49963171"
   },
@@ -16061,7 +16042,7 @@
   "rank": null,
   "metrics": {
    "points": 487,
-   "comments": 814,
+   "comments": 815,
    "hn_url": "https://news.ycombinator.com/item?id=49944227"
   },
   "image_url": null,
@@ -16190,12 +16171,12 @@
   "tags": []
  },
  {
-  "id": "6abe3baa6ba8",
+  "id": "6fd0fc3edf75",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "FastRouter.ai",
-  "url": "https://www.producthunt.com/products/fastrouter-ai",
-  "text": "Route requests to the right LLM for cost, latency & quality Discussion | Link",
+  "title": "Opengeni",
+  "url": "https://www.producthunt.com/products/opengeni",
+  "text": "Ship AI agents within minutes. Infrastructure for Agents Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 2,
@@ -16204,29 +16185,15 @@
   "tags": []
  },
  {
-  "id": "a17c3de32567",
+  "id": "d678c4482a57",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "Invofox Self Serve",
-  "url": "https://www.producthunt.com/products/invofox",
-  "text": "99% accurate document extraction, SLA guaranteed Discussion | Link",
+  "title": "HyperFrames Studio (Desktop)",
+  "url": "https://www.producthunt.com/products/heygen",
+  "text": "The First Video Editor built for Agents Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 3,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
-  "id": "e769378b5dc0",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "DailyHelm",
-  "url": "https://www.producthunt.com/products/dailyhelm",
-  "text": "Turn analytics into daily revenue-boosting fixes Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 4,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16240,7 +16207,7 @@
   "text": "Trade, bridge and move stablecoins across Arc Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 5,
+  "rank": 4,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16254,7 +16221,7 @@
   "text": "A watchful notch with tools to keep you focused Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 6,
+  "rank": 5,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16268,7 +16235,7 @@
   "text": "Save X Articles and threads as PDF, Markdown or EPUB Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 7,
+  "rank": 6,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16282,7 +16249,7 @@
   "text": "Live interview & meeting copilot for Mac, from your resume Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 8,
+  "rank": 7,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16296,21 +16263,7 @@
   "text": "The review app for code your agent writes Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 9,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
-  "id": "b90567a5adf5",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "Unscary AI",
-  "url": "https://www.producthunt.com/products/unscary-ai",
-  "text": "Short lessons help you stop feeling behind on AI. Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 10,
+  "rank": 8,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16324,7 +16277,7 @@
   "text": "Five AI models challenge every legal answer Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 11,
+  "rank": 9,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16338,21 +16291,21 @@
   "text": "Turn your Mac's notch into an everyday workspace Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 12,
+  "rank": 10,
   "metrics": {},
   "image_url": null,
   "tags": []
  },
  {
-  "id": "b63b9a8b781b",
+  "id": "b90567a5adf5",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "Oogwai Beacon",
-  "url": "https://www.producthunt.com/products/oogwai-beacon",
-  "text": "Answer Engine Optimization Audit Discussion | Link",
+  "title": "Unscary AI",
+  "url": "https://www.producthunt.com/products/unscary-ai",
+  "text": "Short lessons help you stop feeling behind on AI. Discussion | Link",
   "published": null,
   "score": 0.0,
-  "rank": 13,
+  "rank": 11,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16364,6 +16317,34 @@
   "title": "crosswalk",
   "url": "https://www.producthunt.com/products/crosswalk",
   "text": "A third place for people & their agents, starting with inbox Discussion | Link",
+  "published": null,
+  "score": 0.0,
+  "rank": 12,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "ddbd3a002261",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "Marv",
+  "url": "https://www.producthunt.com/products/marv-3",
+  "text": "An AI cursor companion that shows you what to click Discussion | Link",
+  "published": null,
+  "score": 0.0,
+  "rank": 13,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "b63b9a8b781b",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "Oogwai Beacon",
+  "url": "https://www.producthunt.com/products/oogwai-beacon",
+  "text": "Answer Engine Optimization Audit Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 14,
@@ -16386,20 +16367,6 @@
   "tags": []
  },
  {
-  "id": "ec25b708679f",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "Dots UI",
-  "url": "https://www.producthunt.com/products/dots-ui",
-  "text": "A React library for morphable particle interfaces Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 16,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "857c7c3b3634",
   "source": "producthunt",
   "source_label": "Product Hunt",
@@ -16408,18 +16375,32 @@
   "text": "Translate, shorten, fix or rewrite any text near your cursor Discussion | Link",
   "published": null,
   "score": 0.0,
+  "rank": 16,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "ec25b708679f",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "Dots UI",
+  "url": "https://www.producthunt.com/products/dots-ui",
+  "text": "A React library for morphable particle interfaces Discussion | Link",
+  "published": null,
+  "score": 0.0,
   "rank": 17,
   "metrics": {},
   "image_url": null,
   "tags": []
  },
  {
-  "id": "d678c4482a57",
+  "id": "e769378b5dc0",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "HyperFrames Studio (Desktop)",
-  "url": "https://www.producthunt.com/products/heygen",
-  "text": "The First Video Editor built for Agents Discussion | Link",
+  "title": "DailyHelm",
+  "url": "https://www.producthunt.com/products/dailyhelm",
+  "text": "Turn analytics into daily revenue-boosting fixes Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 18,
@@ -16428,12 +16409,12 @@
   "tags": []
  },
  {
-  "id": "ddbd3a002261",
+  "id": "6abe3baa6ba8",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "Marv",
-  "url": "https://www.producthunt.com/products/marv-3",
-  "text": "An AI cursor companion that shows you what to click Discussion | Link",
+  "title": "FastRouter.ai",
+  "url": "https://www.producthunt.com/products/fastrouter-ai",
+  "text": "Route requests to the right LLM for cost, latency & quality Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 19,
@@ -16442,12 +16423,12 @@
   "tags": []
  },
  {
-  "id": "6fd0fc3edf75",
+  "id": "a17c3de32567",
   "source": "producthunt",
   "source_label": "Product Hunt",
-  "title": "Opengeni",
-  "url": "https://www.producthunt.com/products/opengeni",
-  "text": "Ship AI agents within minutes. Infrastructure for Agents Discussion | Link",
+  "title": "Invofox Self Serve",
+  "url": "https://www.producthunt.com/products/invofox",
+  "text": "99% accurate document extraction, SLA guaranteed Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 20,
@@ -16652,34 +16633,6 @@
   "tags": []
  },
  {
-  "id": "17c19203ab7c",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "Gemini 4 Argon",
-  "url": "https://www.producthunt.com/products/gemini-4-argon",
-  "text": "Google's frontier model for careful reasoning & complex work Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 35,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
-  "id": "2c732e5a4bb7",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "Poddle",
-  "url": "https://www.producthunt.com/products/poddle-3",
-  "text": "Swing your phone, play pickleball on any computer! Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 36,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "c7257c51278b",
   "source": "producthunt",
   "source_label": "Product Hunt",
@@ -16688,7 +16641,63 @@
   "text": "One MCP for everything your agents need: apps, memory, tools Discussion | Link",
   "published": null,
   "score": 0.0,
+  "rank": 35,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "ca4bbffee9df",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "ChatGPT Space",
+  "url": "https://www.producthunt.com/products/chatgpt-space",
+  "text": "Create, collaborate, and build together with AI in Space Discussion | Link",
+  "published": null,
+  "score": 0.0,
+  "rank": 36,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "d577b37a8f2e",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "Sorcrr",
+  "url": "https://www.producthunt.com/products/sorcrr",
+  "text": "Ai enabled bounty driven referral platform for hiring & gtm Discussion | Link",
+  "published": null,
+  "score": 0.0,
   "rank": 37,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "47117694a3a7",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "Sente",
+  "url": "https://www.producthunt.com/products/sente-2",
+  "text": "Talk to your coding agent Discussion | Link",
+  "published": null,
+  "score": 0.0,
+  "rank": 38,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "df032ce9407f",
+  "source": "producthunt",
+  "source_label": "Product Hunt",
+  "title": "DocsAlot MCP Connector",
+  "url": "https://www.producthunt.com/products/docsalot-2",
+  "text": "Maintain your help-center by asking Claude, Cursor or Codex Discussion | Link",
+  "published": null,
+  "score": 0.0,
+  "rank": 39,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -16700,34 +16709,6 @@
   "title": "Octri.dev",
   "url": "https://www.producthunt.com/products/octri",
   "text": "Generate customizable Docs, SDKs, MCP server, and monitoring Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 38,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
-  "id": "3dcaa89cbac8",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "FlexChords",
-  "url": "https://www.producthunt.com/products/flexchords",
-  "text": "Turn any YouTube video into accurate, playable guitar chords Discussion | Link",
-  "published": null,
-  "score": 0.0,
-  "rank": 39,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
-  "id": "2ad7b1715292",
-  "source": "producthunt",
-  "source_label": "Product Hunt",
-  "title": "Pixel Soup",
-  "url": "https://www.producthunt.com/products/pixel-soup",
-  "text": "Dithered live wallpapers your Mac cooks up itself Discussion | Link",
   "published": null,
   "score": 0.0,
   "rank": 40,
@@ -17422,20 +17403,6 @@
   "tags": []
  },
  {
-  "id": "fdb7ffb6114c",
-  "source": "rss",
-  "source_label": "Marketing Dive",
-  "title": "The 2026 webinar audience behavior report",
-  "url": "https://www.marketingdive.com/spons/the-2026-webinar-audience-behavior-report/831727/",
-  "text": "What attendees say they want, what Zoom data shows and the new rules for better webinar performance.",
-  "published": "2026-10-05T09:00:00Z",
-  "score": 0.0,
-  "rank": 5,
-  "metrics": {},
-  "image_url": null,
-  "tags": []
- },
- {
   "id": "e665915102b1",
   "source": "rss",
   "source_label": "Marketing Dive",
@@ -17444,7 +17411,7 @@
   "text": "A new, fundamental chasm is opening up in the business world: the divide between the Renters and the Architects.",
   "published": "2026-10-05T09:00:00Z",
   "score": 0.0,
-  "rank": 6,
+  "rank": 5,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -17458,7 +17425,7 @@
   "text": "Nonalcoholic beer is on an upswing, while midsize and craft breweries are feeling the effects of a changing consumer landscape.",
   "published": "2026-10-02T12:59:00Z",
   "score": 0.0,
-  "rank": 7,
+  "rank": 6,
   "metrics": {},
   "image_url": "https://imgproxy.divecdn.com/G6SR9UbWHn6ZiO4n3Fd-pLn8WghcPbEG-eENdkMbJ2M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00OTMxNzAxNDguanBn.webp",
   "tags": []
@@ -17472,7 +17439,7 @@
   "text": "Over a quarter of marketers hired this year have AI-ready skill sets versus 9% of CMOs who have been in the role for over four years.",
   "published": "2026-10-02T12:00:00Z",
   "score": 0.0,
-  "rank": 8,
+  "rank": 7,
   "metrics": {},
   "image_url": "https://imgproxy.divecdn.com/jAqlyI84Jokhw8LWVlO-AbJvt2Ss80_yQ3RpYJVgpYI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MTMwMTgyNjQuanBn.webp",
   "tags": []
@@ -17486,7 +17453,7 @@
   "text": "A new format and the chat platform’s first Ads Manager for running campaigns arrive as gaming becomes an increasingly important channel for marketers.",
   "published": "2026-10-01T16:00:00Z",
   "score": 0.0,
-  "rank": 9,
+  "rank": 8,
   "metrics": {},
   "image_url": "https://imgproxy.divecdn.com/zyzLOmB5FY0OANY28s8_0wyMWrZx9cszcBdypOuuKko/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WaWRlby1RdWVzdF9XZWJzaXRlLUVtYmVkXzEyMDB4Njc1LnBuZw==.webp",
   "tags": []
@@ -17500,9 +17467,23 @@
   "text": "The platform will offer Agency Partner or Premier Agency Partner badges to assure marketers that partnership requirements have been met.",
   "published": "2026-10-01T15:03:00Z",
   "score": 0.0,
-  "rank": 10,
+  "rank": 9,
   "metrics": {},
   "image_url": null,
+  "tags": []
+ },
+ {
+  "id": "5405010bbc2d",
+  "source": "rss",
+  "source_label": "Marketing Dive",
+  "title": "Reese’s searches for ‘trick-or-treatiest street’ in multichannel effort",
+  "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+  "text": "The Hershey brand is teaming with creators and celebrities for a social content series analyzing 150 of the best streets for Halloween festivities.",
+  "published": "2026-10-01T14:00:00Z",
+  "score": 0.0,
+  "rank": 10,
+  "metrics": {},
+  "image_url": "https://imgproxy.divecdn.com/ehdu2-yLdTcYz2qNz-8O1fnVFyJtkU3l21IWWdbFhec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84ZDA5YmQzMS05YTYzLTRhMWYtOGQ0Mi1hMTA1MzU5Mzc5N2YucG5n.webp",
   "tags": []
  },
  {
@@ -17945,7 +17926,7 @@
   "source_label": "Retail Dive",
   "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
   "url": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
-  "text": "The retailer’s kids catalog is focused on interactive experiences including demonstrations and video reviews.",
+  "text": "The retailer’s kids catalog is focused on interactive experiences, including demonstrations and video reviews.",
   "published": "2026-10-05T15:35:00Z",
   "score": 0.0,
   "rank": 2,
@@ -17996,6 +17977,20 @@
   "tags": []
  },
  {
+  "id": "06e865039ddd",
+  "source": "rss",
+  "source_label": "Retail Dive",
+  "title": "How retailers can make the most of the joy of holiday checkout",
+  "url": "https://www.retaildive.com/spons/how-retailers-can-make-the-most-of-the-joy-of-holiday-checkout/832081/",
+  "text": "Smart retailers turn checkout satisfaction into lasting value. Here's how.",
+  "published": "2026-10-05T09:00:00Z",
+  "score": 0.0,
+  "rank": 6,
+  "metrics": {},
+  "image_url": null,
+  "tags": []
+ },
+ {
   "id": "d771868e3831",
   "source": "rss",
   "source_label": "Retail Dive",
@@ -18004,7 +17999,7 @@
   "text": "Consumers are tired of nonstop spam calls, suspicious of unknown numbers and frustrated by poor connections and dropped calls during important service discussions.",
   "published": "2026-10-05T09:00:00Z",
   "score": 0.0,
-  "rank": 6,
+  "rank": 7,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -18018,7 +18013,7 @@
   "text": "Most warehouse costs don't show up on any report. The visibility gap is why.",
   "published": "2026-10-05T09:00:00Z",
   "score": 0.0,
-  "rank": 7,
+  "rank": 8,
   "metrics": {},
   "image_url": null,
   "tags": []
@@ -18032,7 +18027,7 @@
   "text": "The retailer is closing locations in Washington, D.C., Virginia and Maryland, including one that opened less than a year ago, as it reevaluates its footprint.",
   "published": "2026-10-02T16:04:00Z",
   "score": 0.0,
-  "rank": 8,
+  "rank": 9,
   "metrics": {},
   "image_url": "https://imgproxy.divecdn.com/zu-wfbooY_U8JT1wCyFnsgJ8RtMQW0N5e4B3DP2PcR4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYjhhNTk3NjU5MzlhZmYwNTgxM2UxYzNmYmQ3ODRjYS53ZWJw.webp",
   "tags": []
@@ -18046,23 +18041,9 @@
   "text": "The activewear giant released yet another operational reset, which will lead to job cuts in the new year, and flagged “significant work ahead.”",
   "published": "2026-10-02T15:59:00Z",
   "score": 0.0,
-  "rank": 9,
-  "metrics": {},
-  "image_url": "https://imgproxy.divecdn.com/5HquFtzax0LZa1dp72GsNGMya1wNJKqAeyZoubEZhvU/g:nowe:0:88/c:1920:1084/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qb3JkYW4tYnJhbmQtd29ybGQtb2YtZmxpZ2h0LXBoaWxhZGVscGhpYS10aHVtYm5haWwuanBn.webp",
-  "tags": []
- },
- {
-  "id": "dc876ebccbc4",
-  "source": "rss",
-  "source_label": "Retail Dive",
-  "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
-  "url": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
-  "text": "The fashion retailer wants to connect more deeply with shoppers through a print publication. Meanwhile, the specialty apparel brand is accelerating closures.",
-  "published": "2026-10-02T13:00:00Z",
-  "score": 0.0,
   "rank": 10,
   "metrics": {},
-  "image_url": "https://imgproxy.divecdn.com/6uGYydJzbG0pB8xfJaUSoXaE_q2F4KSTELDwX7wCF4Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMxOTk3MDA4XzAwMDAwMV9DTURfMjYwNjE2X1JFVk9MVkUtTUFHXzAyXzA2NF8wM19RQy1JRC1jYmYwMjAzYTU2OTQuanBn.webp",
+  "image_url": "https://imgproxy.divecdn.com/5HquFtzax0LZa1dp72GsNGMya1wNJKqAeyZoubEZhvU/g:nowe:0:88/c:1920:1084/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qb3JkYW4tYnJhbmQtd29ybGQtb2YtZmxpZ2h0LXBoaWxhZGVscGhpYS10aHVtYm5haWwuanBn.webp",
   "tags": []
  },
  {
@@ -20488,17 +20469,17 @@
   "tags": []
  },
  {
-  "id": "698ff5b132aa",
+  "id": "114af30d4a6d",
   "source": "rss",
   "source_label": "Bon Appetit",
-  "title": "5 All-New Recipes for Pumpkin Week",
-  "url": "https://www.bonappetit.com/story/pumpkin-week-2026",
-  "text": "The fluffiest focaccia, cream-cheese-stuffed muffins, Sunday Bolognese, and more ways we’re cooking with canned pumpkin in 2026.",
+  "title": "Pumpkin Enchiladas With Black Beans",
+  "url": "https://www.bonappetit.com/recipe/pumpkin-enchiladas",
+  "text": "Enchiladas meet pumpkin in this cozy weeknight dinner.",
   "published": "2026-10-05T10:00:00Z",
   "score": 0.0,
   "rank": 10,
   "metrics": {},
-  "image_url": "https://assets.bonappetit.com/photos/6a9b4a1de9856fea2d2b89a5/master/pass/pumpkin-week_LEDE_V2_090126_5846_VOG_final.jpg",
+  "image_url": "https://assets.bonappetit.com/photos/6a9b3f6c128694de48b4e603/master/pass/black-bean-pumpkin-enchiladas_RECIPE_V2_090126_5996_VOG_final.jpg",
   "tags": []
  },
  {
@@ -21758,7 +21739,7 @@
   "score": 0.0,
   "rank": 5,
   "metrics": {},
-  "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/25/19/thumb/fbzamHTCJ.jpg?crop=2988%3A1992%3B6%2C0",
+  "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/25/19/thumb/8RxKEG6jj.jpg?crop=2988%3A1992%3B6%2C0",
   "tags": []
  },
  {
@@ -21821,7 +21802,7 @@
   "id": "91ebf3ab2280",
   "source": "rss",
   "source_label": "BuzzFeed",
-  "title": "Sorry, But Your Trip To Epcot Isn't Going To Save You On This One",
+  "title": "I Hate To Break It To You, But Visiting Epcot Won't Help You With This At All",
   "url": "https://www.buzzfeed.com/avalonlustick/map-ranker-october-6-2026",
   "text": "This ain't Disney World. View Entire Post ›",
   "published": "2026-10-06T04:01:03Z",
