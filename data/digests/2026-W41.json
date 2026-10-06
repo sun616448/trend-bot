@@ -1,0 +1,971 @@
+{
+ "week": "2026-W41",
+ "generated_at": "2026-10-06T06:47:48.335580Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Energy drinks are getting weird, Apple's October is stacked, and the internet is tired of talking to assistants",
+  "tldr": [
+   "A beer-flavoured C4 and figurines found inside Celsius cans gave r/energydrinks its loudest week of the year.",
+   "Apple heads into an October 13 event plus a second launch wave while owners trade iOS 27 battery fixes and bricked iPhone 18 Pro Max stories.",
+   "TikTok and OpenAI both turned Advertising Week into an AI commerce pitch, just as consumers post 3,000-like rants about never wanting to talk to another AI assistant.",
+   "Mikayla Nogueira's POV Beauty launch at Sephora turned hate comments into a campaign, and beauty Reddit turned it straight back into a pile-on.",
+   "Paris Fashion Week SS27, brand-made albums and a Panda Express Roblox world show brands buying culture rather than borrowing it."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "C4's beer-flavoured energy drink has r/energydrinks convinced it's a prank",
+      "summary": "A new C4 flavour that tastes like citrus beer is being passed around energy drink communities, with people initially assuming the can was AI-generated. The top review says it tastes so much like a real beer that the drinker's brain started relaxing as if they'd had one. It's a non-alcoholic flavour trick aimed squarely at people who want the ritual without the alcohol.",
+      "why_it_matters": "The 'tastes like a beer, isn't a beer' cue is a cheap way into the sober-curious occasion, and it generated organic reach that no media buy would have bought.",
+      "what_people_say": [
+       "\"Everyone thought it was AI (including me) and then when we learned it was real we were all very confused why C4 would do this.\"",
+       "\"This tastes exactly like a citrus beer... my brain was even getting tricked into loosening up.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "energy drinks",
+       "beverage",
+       "flavour innovation",
+       "sober curious"
+      ],
+      "hero_url": "https://www.reddit.com/r/energydrinks/comments/1wvz8ud/feels_like_i_just_had_a_morning_beer_in_the_break/",
+      "sources": [
+       {
+        "label": "r/energydrinks",
+        "url": "https://www.reddit.com/r/energydrinks/comments/1wvz8ud/feels_like_i_just_had_a_morning_beer_in_the_break/"
+       }
+      ]
+     },
+     {
+      "title": "Two Celsius cans, two mini figurines inside",
+      "summary": "A shopper posted that they found small plastic figurines and debris inside two separate Celsius cans over a week and a half. The post hit nearly 2,900 upvotes and 600 comments, and the company's response — sending a free case as an apology while asking for the can back — became the main talking point.",
+      "why_it_matters": "A quality-control story with photo evidence travels further than any brand statement; the recovery offer being a free case of the same product read as tone-deaf to the thread.",
+      "what_people_say": [
+       "\"Absolutely horrifying.\"",
+       "\"They are sending me a case of Celsius as an apology... I have all the emails and photos saved.\""
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "beverage",
+       "energy drinks",
+       "recall",
+       "crisis"
+      ],
+      "hero_url": "https://www.reddit.com/r/energydrinks/comments/1wvtgev/beware_of_celsius/",
+      "sources": [
+       {
+        "label": "r/energydrinks",
+        "url": "https://www.reddit.com/r/energydrinks/comments/1wvtgev/beware_of_celsius/"
+       }
+      ]
+     },
+     {
+      "title": "Apple has two launch waves coming this month, and stores already have sealed boxes",
+      "summary": "Apple stores received 'do not open' boxes ahead of a smart home product launch, Apple is accepting iPhone Duo-optimised app submissions, and MacRumors reports a second batch of announcements in the last week of October on top of the expected October 13 event. Early Prime Day discounts on Macs, iPads and AirPods are already undercutting this year's price rises.",
+      "why_it_matters": "Two Apple reveals plus Amazon's October sale inside three weeks will soak up most consumer tech attention and retail media inventory in the run-up to holiday.",
+      "what_people_say": [
+       "r/apple watched the 'do not open' box story for a smart home reveal with 2,500 upvotes."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "apple",
+       "gadgets",
+       "launch",
+       "retail"
+      ],
+      "hero_url": "https://www.reddit.com/r/apple/comments/1wuyfq5/apple_stores_receive_do_not_open_boxes_ahead_of/",
+      "sources": [
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1wuyfq5/apple_stores_receive_do_not_open_boxes_ahead_of/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/"
+       },
+       {
+        "label": "Creative Bloq",
+        "url": "https://www.creativebloq.com/tech/laptops/early-prime-day-apple-deals-just-rewound-this-years-big-price-hikes-with-up-to-usd200-off-macs"
+       }
+      ]
+     },
+     {
+      "title": "iOS 27 battery drain and bricked iPhone 18 Pro Max units",
+      "summary": "An r/iphone PSA telling people to turn off 'connectivity assist' in iOS 27 — which the poster says doubled their screen-on time — passed 2,400 upvotes. Separately, a user reported Apple confirming the latest iOS update bricked their iPhone 18 Pro Max, and Apple is telling iPhone 18 Pro Max owners with an AT&T cellular fault to get the device replaced.",
+      "why_it_matters": "Owner-to-owner troubleshooting is outrunning official support channels, which is where brand trust actually gets decided in a launch quarter.",
+      "what_people_say": [
+       "\"I was getting only 3-4 hours SOT after the iOS 27 update. Turned off connectivity assist and I get 7 now.\"",
+       "\"Apple store confirmed the new iOS update bricked my 18 Pro Max.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "apple",
+       "iphone",
+       "software",
+       "support"
+      ],
+      "hero_url": "https://www.reddit.com/r/iphone/comments/1wv9a2k/psa_turn_off_connectivity_assist_in_ios_27_unless/",
+      "sources": [
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1wv9a2k/psa_turn_off_connectivity_assist_in_ios_27_unless/"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1wxl3gg/apple_store_confirmed_the_new_ios_update_bricked/"
+       },
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1wwcygp/apple_says_iphone_18_pro_max_users_with_att/"
+       }
+      ]
+     },
+     {
+      "title": "Sweatshirts got thinner and shoppers are keeping receipts",
+      "summary": "A 1,600-upvote r/femalefashionadvice post argues hoodies and sweatshirts have been quietly hollowed out over two years — fleece-lined but far thinner than the heavyweight versions people remember. It landed the same week r/BuyItForLife users complained that 'buy it for life' recommendations are useless because the version you can buy today is worse than the one being recommended.",
+      "why_it_matters": "Perceived downgrading is now a shared consumer vocabulary, and it attaches to specific categories; basics brands that can prove weight and durability have an easy claim to make.",
+      "what_people_say": [
+       "\"They're thin skeletons of what once was... I'm not sure they'll provide any meaningful warmth.\"",
+       "\"These suggestions aren't helpful when the only version you can purchase today is much worse.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "fashion",
+       "quality",
+       "basics",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/femalefashionadvice/comments/1wsrx79/sweatshirts_a_tragic_victim_of_enshtification/",
+      "sources": [
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1wsrx79/sweatshirts_a_tragic_victim_of_enshtification/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1wshyme/i_feel_like_these_suggestions_arent_helpful_when/"
+       }
+      ]
+     },
+     {
+      "title": "E.l.f. moves into fragrance and body care with e.l.f. POP",
+      "summary": "E.l.f. is launching POP, an own-brand fragrance and body care line themed around holiday destinations, after the success of its perfume collaboration with H&M. It extends a portfolio that already spans cosmetics, skin and hair, and lands as Similarweb data shows founder-led and affordable beauty brands are growing fastest by DTC traffic.",
+      "why_it_matters": "Mass-price fragrance is the current growth lane in beauty, and e.l.f. is using distribution and price rather than a celebrity name to take it.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "beauty",
+       "fragrance",
+       "launch",
+       "mass market"
+      ],
+      "hero_url": "https://www.cosmeticsbusiness.com/e-l-f-breaks-into-fragrance-and-body-care-with-elf-pop",
+      "sources": [
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/e-l-f-breaks-into-fragrance-and-body-care-with-elf-pop"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-loreal-paris-kylie-growth-1239302537/"
+       }
+      ]
+     },
+     {
+      "title": "Frozen berry recall widens at Trader Joe's and Walmart",
+      "summary": "A recall of frozen berries sold at Walmart and Trader Joe's expanded this week, with shoppers told to throw the bags out or return them for a refund. The news spread through Bluesky and food press rather than store signage, which is how most people found out.",
+      "why_it_matters": "Recalls now reach shoppers through social feeds first; brands that aren't the ones at fault still need to answer 'is my bag affected' fast.",
+      "what_people_say": [
+       "Bluesky users circulated the recall notice with 'here's what to know' explainers."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "grocery",
+       "recall",
+       "food safety",
+       "trader joes"
+      ],
+      "hero_url": "https://www.delish.com/food-news/a74034149/frozen-berry-recall-trader-joes/",
+      "sources": [
+       {
+        "label": "Delish",
+        "url": "https://www.delish.com/food-news/a74034149/frozen-berry-recall-trader-joes/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/sailormichael.bsky.social/post/3mx3c3tu26c2e"
+       }
+      ]
+     },
+     {
+      "title": "Limited-run gaming drops: LISA DualSense and a Lies of P cartridge that vanished",
+      "summary": "PlayStation opened pre-orders for a LISA Limited Edition DualSense controller, while retailers told Nintendeal that the Switch 2 physical release of Lies of P: Complete Edition is sold out nearly everywhere with no confirmed restock. Caves of Qud also announced a limited physical edition alongside a free Switch 2 upgrade.",
+      "why_it_matters": "Scarcity-led physical editions remain the most reliable way to make a digital-first games business feel collectible, and the stock-tracker accounts are doing the marketing for free.",
+      "what_people_say": [
+       "\"Stock is extremely limited and they're not sure if/when a restock will come.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "gaming",
+       "limited edition",
+       "collectibles",
+       "collab"
+      ],
+      "hero_url": "https://bsky.app/profile/playstation.com/post/3mwvjvp6k7225",
+      "sources": [
+       {
+        "label": "PlayStation on Bluesky",
+        "url": "https://bsky.app/profile/playstation.com/post/3mwvjvp6k7225"
+       },
+       {
+        "label": "Nintendeal on Bluesky",
+        "url": "https://bsky.app/profile/nintendeal.com/post/3mwypdktbus2o"
+       },
+       {
+        "label": "Kitfox Games on Bluesky",
+        "url": "https://bsky.app/profile/kitfoxgames.com/post/3mwqni5kscs2a"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "TikTok turns Advertising Week into an AI commerce pitch",
+      "summary": "TikTok announced an AI shopping assistant, a checkout that lets people buy directly from brands outside TikTok Shop, agentic ad tools, and the US launch of its rebranded Pangle off-platform network spanning roughly 400,000 apps. It also said advertisers can run campaigns from AI tools like Claude and Perplexity.",
+      "why_it_matters": "TikTok is trying to own both ends of the funnel before holiday: discovery inside the app and inventory outside it, with AI doing the media buying.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "tiktok",
+       "ai",
+       "commerce",
+       "adtech"
+      ],
+      "hero_url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/"
+       },
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/tiktok-touts-new-ai-tools-simplify-ad-campaigns-drive-in-app-shopping/1971623"
+       }
+      ]
+     },
+     {
+      "title": "OpenAI starts selling image-led ads inside ChatGPT",
+      "summary": "OpenAI said it will test a visual ad format that appears while users generate images in ChatGPT, labelled and separate from the image itself, with testing starting later this month. It is also piloting brand suitability controls with DoubleVerify and IAS and expanding measurement partners.",
+      "why_it_matters": "ChatGPT is the No. 3 free app in the US App Store; ad formats inside it will be the first real test of whether people tolerate advertising in an assistant.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "openai",
+       "ai",
+       "advertising",
+       "brand safety"
+      ],
+      "hero_url": "https://www.theinformation.com/briefings/openai-expands-visual-ads-chatgpt-moves-help-advertisers-measure-impact",
+      "sources": [
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/briefings/openai-expands-visual-ads-chatgpt-moves-help-advertisers-measure-impact"
+       },
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/"
+       },
+       {
+        "label": "App Store chart",
+        "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+       }
+      ]
+     },
+     {
+      "title": "ChatGPT is signing AI images with real cartoonists' names while OpenAI adds invisible watermarks",
+      "summary": "A reporter found ChatGPT reproducing the signatures of more than 15 real New Yorker cartoonists on AI-generated images, and the post drew 2,700 likes on Bluesky. In the same week OpenAI said it will add invisible, machine-readable watermarks to ChatGPT and Codex text output for EU users to comply with the AI Act, while admitting editing can make the marks harder to detect.",
+      "why_it_matters": "Provenance is being bolted on in one place while being actively undermined in another, and creators are the ones documenting it.",
+      "what_people_say": [
+       "\"It's slop, and unlike the other slop that I've encountered, this is slop that's pretending to be me.\"",
+       "An artist on Bluesky described realising how specifically one illustrator's work had been absorbed into image models."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "copyright",
+       "openai",
+       "creators"
+      ],
+      "hero_url": "https://bsky.app/profile/andrewdeck.bsky.social/post/3mx5rzmihzs2b",
+      "sources": [
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/andrewdeck.bsky.social/post/3mx5rzmihzs2b"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/theotherhappyplace.bsky.social/post/3mwvnbh3aok2j"
+       }
+      ]
+     },
+     {
+      "title": "\"I don't want to talk to an AI assistant\" is now the most-liked consumer posture",
+      "summary": "A Bluesky post listing everything people don't want — download an app, scan a QR menu, talk to an AI assistant, read AI summaries, create an account — cleared 3,000 likes. It landed the same week Gap rolled out AI-assisted shopping across Gap, Banana Republic and Old Navy, Google was spotted extending Gemini's 'Call for Me' to personal calls, and a startup began issuing AI-written acne prescriptions in Utah.",
+      "why_it_matters": "The gap between AI feature roadmaps and what customers say they want is now the loudest consumer sentiment online; brands adding an assistant should be able to explain what it removes, not what it adds.",
+      "what_people_say": [
+       "\"i dont want to download an app i don't want a qr code menu i dont want to talk to an ai assistant... LEAVE ME ALONE\"",
+       "\"Every SaaS app seems to be converging on the same UX monstrosity, complete with AI features of dubious value.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "ux",
+       "retail",
+       "consumer sentiment"
+      ],
+      "hero_url": "https://bsky.app/profile/nicodelort.bsky.social/post/3mx4n22yuuc2l",
+      "sources": [
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/nicodelort.bsky.social/post/3mx4n22yuuc2l"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/carnage4life.bsky.social/post/3mwyhpb5k622g"
+       }
+      ]
+     },
+     {
+      "title": "YouTube doubles its monetisation bar and creators do the maths out loud",
+      "summary": "From February 1, 2027 new channels will need 8,000 watch hours in 365 days (up from 4,000) or 20 million Shorts views in 90 days (up from 10 million), with existing partners grandfathered if they accept new terms by January 31. A creator breakdown flagged the less-reported line: maintaining 10 million qualified Shorts views each month to keep earning from the Shorts pool. Meanwhile a full-time creator earning $4-6k a month posted that the job 'ruined my life', and Glossy found beauty creators turning down brand deals over rigid scripts.",
+      "why_it_matters": "The supply of new monetised creators is about to shrink while existing ones burn out, which pushes brand budgets toward fewer, more expensive partners who want more editorial control.",
+      "what_people_say": [
+       "\"It's been 2 years and I'm slowly starting to hate it... my brain chemistry will never be the same.\"",
+       "Beauty creators say they can hear when a brand's script doesn't sound like them — some pass, some need the paycheck."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "youtube",
+       "creator economy",
+       "monetisation",
+       "influencer"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1wu9r1f/youtube_is_doubling_what_it_takes_to_get/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1wu9r1f/youtube_is_doubling_what_it_takes_to_get/"
+       },
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1wtfclc/social_media_is_definitely_over_glamorized_as/"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/beauty-creators-scripted-brand-deals/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "YouTube's missionary ad blitz becomes an ad-avoidance case study",
+      "summary": "An r/OutOfTheLoop thread asking why every YouTube video is preceded by Latter-day Saints and church recruitment ads drew 872 upvotes and hundreds of comments from people with no interest in religious content. It lands alongside new Omnicom Media research into why consumers actively skip ads and what would make them stop.",
+      "why_it_matters": "Heavy frequency against an untargeted audience doesn't just waste impressions, it makes the platform itself feel broken to viewers — and they talk about it publicly.",
+      "what_people_say": [
+       "\"Every single video I watch, I get bombarded with multiple Christian ads... I watch nothing to do with religion.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "youtube",
+       "advertising",
+       "frequency",
+       "ad avoidance"
+      ],
+      "hero_url": "https://www.reddit.com/r/OutOfTheLoop/comments/1wxbj4y/whats_the_deal_with_these_christian_ads_on/",
+      "sources": [
+       {
+        "label": "r/OutOfTheLoop",
+        "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1wxbj4y/whats_the_deal_with_these_christian_ads_on/"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "People are uninstalling Apple Intelligence to get 12GB back",
+      "summary": "An open-source tool that strips Apple Intelligence from macOS 27 and reclaims 12GB or more of storage hit the top of Hacker News with 758 points, and coverage warns users to think twice before running it. The appeal isn't privacy so much as the simple fact that the AI stack is taking up space people want for other things.",
+      "why_it_matters": "When the first viral utility for your flagship AI feature is a removal tool, the feature has an adoption problem, not a distribution problem.",
+      "what_people_say": [
+       "Hacker News commenters treated reclaiming the disk space as the main benefit, not the AI itself."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "apple",
+       "ai",
+       "software",
+       "backlash"
+      ],
+      "hero_url": "https://github.com/omlahore/RemoveMacAI",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://github.com/omlahore/RemoveMacAI"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/"
+       }
+      ]
+     },
+     {
+      "title": "Anthropic reported a user's diary entry to police, and chatbot evidence keeps showing up in court",
+      "summary": "A Florida woman is facing a felony charge after Anthropic reported a diary-style entry she typed into Claude to police, a story that drew 675 points and 520 comments on Hacker News. In a separate case, a New Mexico lawyer was publicly dressed down by judges for using ChatGPT to invent witnesses and testimony.",
+      "why_it_matters": "The idea that an assistant is a private notebook is collapsing in public, which will shape how much people are willing to tell AI products — including branded ones.",
+      "what_people_say": [
+       "Hacker News readers debated whether anything typed into a chatbot should ever be treated as confidential."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "privacy",
+       "trust",
+       "anthropic"
+      ],
+      "hero_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
+       },
+       {
+        "label": "404 Media on Bluesky",
+        "url": "https://bsky.app/profile/404media.co/post/3mwqxmiiqlk2w"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "POV Beauty's Sephora launch made the hate comments the campaign",
+      "summary": "Mikayla Nogueira's POV Beauty launch at Sephora features giant printouts of hate comments about her appearance and the line 'cancel my angles', framed as turning criticism into an international Sephora campaign. Beauty Reddit rejected the framing in two large threads, arguing the campaign is about the influencer rather than the products, and a follow-up post accused the holiday set of using full-size amounts of product in 'mini' packaging at a higher price.",
+      "why_it_matters": "Reclaiming your own drama only works if the audience agrees you were wronged; here the campaign handed critics a louder stage than the product ever had.",
+      "what_people_say": [
+       "\"The whole thing feels more like a campaign for the influencer than a campaign for the beauty brand.\"",
+       "\"The irony is hard to miss. She went viral as the 'catfish' makeup girl.\"",
+       "\"The minis in the holiday set have the same amount of product as the full-size.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "influencer",
+       "sephora",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1ww9xb7/pov_when_did_sephora_launches_become_about/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1ww9xb7/pov_when_did_sephora_launches_become_about/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1wwa776/mikayla_nogueira_turns_hate_comments_about_her/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1wxthsa/is_pov_scamming_people/"
+       }
+      ]
+     },
+     {
+      "title": "E.l.f., Wendy's and Gap are releasing actual albums",
+      "summary": "E.l.f. Beauty put out an album called 'Mirror Mix' as it increases marketing spend for the rest of the year, part of a wider move by brands including Wendy's and Gap into original music rather than licensed tracks. Gap's dance-led spots have already shown how far a brand can travel on sound alone.",
+      "why_it_matters": "Owning music gives a brand a catalogue that keeps working on short-form platforms long after the media flight ends — and avoids sync fees.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "music",
+       "beauty",
+       "branding",
+       "content"
+      ],
+      "hero_url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+      "sources": [
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html"
+       }
+      ]
+     },
+     {
+      "title": "Paris Fashion Week SS27 delivers the season's trend cues",
+      "summary": "Miu Miu's bra tops, Mugler's buttock-revealing finale under Miguel Castro Freitas, Michael Rider's Celine and a Chanel front row running from Dua Lipa to Kristen Wiig gave the week its images. Accessories did the viral work: Gigi Hadid left Miu Miu in a Y2K zig-zag headband and Dua Lipa wore Chanel mushroom slingbacks.",
+      "why_it_matters": "The SS27 shows have just set the accessory and silhouette references that fast fashion and beauty brands will be answering for the next two quarters.",
+      "what_people_say": [
+       "Allure framed Gigi Hadid's zig-zag headband as the accessory 'you've probably been holding on to for more than a few years'."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "fashion week",
+       "paris",
+       "trends",
+       "celebrity"
+      ],
+      "hero_url": "https://www.allure.com/story/gigi-hadid-zig-zag-headband-paris-fashion-week",
+      "sources": [
+       {
+        "label": "Allure",
+        "url": "https://www.allure.com/story/gigi-hadid-zig-zag-headband-paris-fashion-week"
+       },
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/10/05/style/miu-miu-bra-tops-pfw.html"
+       },
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/fashion/article/71120/1/mugler-is-feeling-cheeky-for-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=summer-bummer-mugler-is-feeling-cheeky-for-ss27"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/footwear-news/shoe-trends/dua-lipa-chanel-mushroom-shoes-paris-fashion-week-1239313358/"
+       }
+      ]
+     },
+     {
+      "title": "Panda Express makes its Roblox world permanent",
+      "summary": "Panda Express is shifting from campaign-length gaming activations to an 'always-on' strategy, keeping its Roblox game running as a persistent virtual destination rather than a limited stunt.",
+      "why_it_matters": "Treating a game world as owned media instead of a one-off activation changes the maths: build cost amortises across the year and the audience can be retargeted with menu news.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "gaming",
+       "roblox",
+       "qsr",
+       "activation"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/why-panda-express-is-embracing-an-always-on-gaming-strategy/832051/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-panda-express-is-embracing-an-always-on-gaming-strategy/832051/"
+       }
+      ]
+     },
+     {
+      "title": "Zalando launches its own festival in Berlin with RAYE headlining",
+      "summary": "Zalando is staging Access All Areas, a two-day festival in Berlin blending music, fashion and beauty, pitched as a love letter to the city that shaped the company. It is the retailer's move from sponsoring culture to owning a date in the calendar.",
+      "why_it_matters": "Retailers with no product story to tell in a given season are increasingly buying a cultural one instead — and a festival gives them a year-round content supply.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "events",
+       "music",
+       "fashion",
+       "retail"
+      ],
+      "hero_url": "https://www.dazeddigital.com/fashion/article/71082/1/zalando-s-new-access-all-areas-festival-heads-to-berlin-headlined-by-raye?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=zalando-s-new-access-all-areas-festival-heads-to-berlin-headlined-by-raye",
+      "sources": [
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/fashion/article/71082/1/zalando-s-new-access-all-areas-festival-heads-to-berlin-headlined-by-raye?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=zalando-s-new-access-all-areas-festival-heads-to-berlin-headlined-by-raye"
+       },
+       {
+        "label": "NYLON",
+        "url": "https://www.nylon.com/entertainment/all-about-access-all-areas-the-new-festival-coming-to-berlin-in-2027"
+       }
+      ]
+     },
+     {
+      "title": "Holiday retail starts early: Target's digital toy catalog, Prime Big Deal Days and a bigger Halloween",
+      "summary": "Target released a digital kids' holiday catalog built around demonstrations, video reviews and a way to incorporate handwritten wish lists, while Amazon's October Prime Big Deal Days is already driving deal roundups across fashion, beauty and 3D printers. Deloitte data shows Halloween budgets creeping up, with one in five shoppers planning to use buy now, pay later or financing.",
+      "why_it_matters": "The shopping calendar has effectively merged Halloween and Christmas into one October push, and financing is now part of how shoppers fund even a costume budget.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "retail",
+       "amazon",
+       "target"
+      ],
+      "hero_url": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
+      "sources": [
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/halloween-holiday-retail-consumer-spending-2026/832125/"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/shop/shop-fashion/amazon-prime-big-deal-days-fashion-beauty-sales-oct-2026-1239312389/"
+       }
+      ]
+     },
+     {
+      "title": "Physical stores as the new campaign: Star Wars in Ikebukuro, Djerf Avenue in SoHo",
+      "summary": "Japan's first official Star Wars store opened on the sixth floor of Ikebukuro PARCO, a permanent space ahead of the franchise's 50th anniversary in 2027, selling limited-edition originals. In New York, Matilda Djerf's viral brand opened its first permanent SoHo flagship, and in Sapporo a store dedicated entirely to GORE-TEX opens October 10.",
+      "why_it_matters": "Single-IP and single-material stores are being used as media buys — the opening is the campaign, and the merchandise is the ad.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "retail",
+       "pop-up",
+       "ip",
+       "flagship"
+      ],
+      "hero_url": "https://hypebeast.com/2026/10/star-wars-ikebukuro-parco-new-opening-info",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/10/star-wars-ikebukuro-parco-new-opening-info"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/10/djerf-avenue-new-york-soho-flagship-store-opening"
+       },
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/10/gore-tex-geed-sapporo-new-open-release-info"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "The clapping AI black cat is the green screen of the month",
+      "summary": "An AI-generated clip of a black cat with human hands slowly clapping and smiling, originally posted by an Instagram account in late September, has become an exploitable green screen meme across TikTok and Reels. It's used to represent someone applauding bad behaviour — sarcastic applause as a reaction format.",
+      "why_it_matters": "It's a rare AI-made asset the internet adopted on purpose, and the sarcastic framing means brands using it straight will read as the butt of the joke.",
+      "what_people_say": [
+       "Know Your Meme describes the cat as standing in for 'someone applauding bad behaviour'."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "meme",
+       "tiktok",
+       "ai",
+       "format"
+      ],
+      "hero_url": "https://knowyourmeme.com/memes/black-cat-clapping",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/black-cat-clapping"
+       }
+      ]
+     },
+     {
+      "title": "The backlash to anti-ageing talk is now louder than the anti-ageing talk",
+      "summary": "A 45-year-old poster asking why the internet treats ageing as uniformly terrible drew hundreds of agreeing replies, and a 596-upvote thread tore into creator Selena Marchand for prescriptive 'if you're over 40 you must do your makeup like this' rules. The sentiment is not anti-skincare — it's anti-being-told-what-you're-allowed-to-wear.",
+      "why_it_matters": "Age-segmented beauty messaging is being read as ageist rather than helpful; the winning tone is permission, not rules.",
+      "what_people_say": [
+       "\"Everything about aging seems so negative... everyone seems like they want to stop it.\"",
+       "\"'We aren't doing X, Y, Z anymore.' Um... according to whom, darling?\"",
+       "\"More power to people of all ages having fun and experimenting with makeup.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "ageing",
+       "discourse",
+       "creators"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1ww858a/selena_marchand_and_her_ageist_rules/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1ww858a/selena_marchand_and_her_ageist_rules/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1wue6kx/personal_am_i_the_only_one_that_feels_that/"
+       }
+      ]
+     },
+     {
+      "title": "Shade forensics: hunting Florence Pugh's lipstick and arguing about undertones",
+      "summary": "A post asking for help identifying Florence Pugh's 'soft, smudgy, finger-applied ruby' lip from the East of Eden London screening hit 5,000 upvotes and 487 comments after her makeup artist refused to name the product. In parallel, Glossy reports beauty communities obsessing over whether they are olive, cool or warm-toned, and Allure says the red eyeliner trend worn by Zendaya and Rihanna is peaking into Halloween.",
+      "why_it_matters": "Shade identification is the highest-intent beauty behaviour there is, and brands that stay silent about what was used are leaving a thread of 500 ready buyers to guess.",
+      "what_people_say": [
+       "\"I am OBSESSED with this lip color but her makeup artist won't share the product.\"",
+       "\"Cannot find a shade with the right balance of red and slight berry purple coolness.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "makeup",
+       "trends",
+       "shade matching"
+      ],
+      "hero_url": "https://www.reddit.com/r/MakeupAddiction/comments/1wskx0j/help_figuring_out_florence_pughs_lipstick/",
+      "sources": [
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1wskx0j/help_figuring_out_florence_pughs_lipstick/"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/beauty-briefing-are-you-olive-cool-or-warm-toned-why-beauty-consumers-are-obsessing-over-undertones/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Allure",
+        "url": "https://www.allure.com/story/zendaya-rihanna-maisie-williams-red-eyeliner-trend"
+       }
+      ]
+     },
+     {
+      "title": "GTA VI romance options spark a 'is dating an NPC cheating' debate",
+      "summary": "News that Grand Theft Auto VI players can enter a romantic relationship with Jason or Lucia set off a wider argument about whether romancing a non-player character counts as cheating on a real partner. Alongside it, a $55 GTA VI T-shirt riffing on the Vice City original is being praised as a near-perfect piece of merch design.",
+      "why_it_matters": "The game is going to dominate consumer attention and merch shelves; its discourse is already producing the comment-bait brands will try to ride.",
+      "what_people_say": [
+       "Dazed framed it as: 'Help! My boyfriend is dating a video game character.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "gaming",
+       "merch",
+       "discourse",
+       "gta"
+      ],
+      "hero_url": "https://www.dazeddigital.com/life-culture/article/71122/1/help-my-boyfriend-is-dating-a-video-game-character-gta-vi-lucia-jason?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=help-my-boyfriend-is-dating-a-video-game-character",
+      "sources": [
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/life-culture/article/71122/1/help-my-boyfriend-is-dating-a-video-game-character-gta-vi-lucia-jason?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=help-my-boyfriend-is-dating-a-video-game-character"
+       },
+       {
+        "label": "Creative Bloq",
+        "url": "https://www.creativebloq.com/design/product-design/the-usd55-gta-vi-t-shirt-is-actually-perfect"
+       }
+      ]
+     },
+     {
+      "title": "The Starbucks boycott picks up city council endorsements",
+      "summary": "Starbucks Workers United posted that St Louis and Philadelphia city councils became the first to officially endorse the Starbucks boycott, a post with nearly 1,000 likes and 329 reposts. It sits alongside a steady stream of r/starbucks posts from exhausted baristas and odd customer-service moments that keep the brand in a negative light online.",
+      "why_it_matters": "A labour boycott with institutional endorsements is harder to wait out than a hashtag, and it collides with Starbucks' new drink news for attention.",
+      "what_people_say": [
+       "\"Starbucks is the biggest violator of US labor law in history, and it's time we ALL push back.\"",
+       "A barista's post this week: \"Worst job ever... I'm never doing fast food again.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "starbucks",
+       "labour",
+       "boycott",
+       "brand trust"
+      ],
+      "hero_url": "https://bsky.app/profile/sbworkersunited.org/post/3mwvsbvcpr22s",
+      "sources": [
+       {
+        "label": "Starbucks Workers United on Bluesky",
+        "url": "https://bsky.app/profile/sbworkersunited.org/post/3mwvsbvcpr22s"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1wxnma1/i_cant_take_it_anymore/"
+       },
+       {
+        "label": "The Food Institute",
+        "url": "https://foodinstitute.com/innovation/starbucks-taps-new-trend-air-whipped-espresso/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-taps-new-trend-air-whipped-espresso"
+       }
+      ]
+     },
+     {
+      "title": "Painting over the logo: hand-customised luxury bags are the flex",
+      "summary": "A post showing a plain brown Hermès bag painted with bush babies and botanicals drew 3,678 upvotes, with the owner noting the original leather was left untouched. Another maker painted a Birkin-silhouette Popsewing bag with their ongoing 'Tiny Astronaut' character series. The handbag community is also pushing back on the idea that vintage Chanel is automatically better than current production.",
+      "why_it_matters": "Personalisation is beating provenance as the status signal — a logo on its own is no longer the interesting part of an expensive bag.",
+      "what_people_say": [
+       "\"I know painting an Hermès is probably sacrilege to some people here.\"",
+       "\"I'm taking off my vintage Chanel beer goggles.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "handbags",
+       "luxury",
+       "customisation",
+       "diy"
+      ],
+      "hero_url": "https://www.reddit.com/r/handbags/comments/1wwhst3/i_decided_to_paint_bush_babies_and_botanicals_all/",
+      "sources": [
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1wwhst3/i_decided_to_paint_bush_babies_and_botanicals_all/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1wtktpv/custom_painted_tiny_astronaut_purse/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1wvayhv/unpopular_opinion_im_taking_off_my_vintage_chanel/"
+       }
+      ]
+     },
+     {
+      "title": "Marketers are posting their exit interviews in public",
+      "summary": "A thread asking 'marketers over 45, what do you do?' from a VP laid off twice in three years pulled 194 comments, an influencer marketing lead announced quitting agency life after five years of burnout, and a 15-year ad veteran described interviewing at AMC Theatres after ten months without a single interview. Meanwhile r/marketing is arguing about clients who run finished creative through ChatGPT and demand the output.",
+      "why_it_matters": "The people who make the work are describing the industry as unstable in public, which shapes talent supply and the credibility of 'AI makes us more efficient' messaging.",
+      "what_people_say": [
+       "\"I've had enough of the 'growth at all costs' mentality and always worrying about the next round of RIFs.\"",
+       "\"The burn out finally got to me and that combined with a general disillusionment with the industry.\"",
+       "\"I've been unemployed from advertising after 15 years of experience, with zero interviews for 10 months.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "marketing",
+       "industry",
+       "burnout",
+       "ai"
+      ],
+      "hero_url": "https://www.reddit.com/r/marketing/comments/1wwbnhn/marketers_over_45_what_do_you_do/",
+      "sources": [
+       {
+        "label": "r/marketing",
+        "url": "https://www.reddit.com/r/marketing/comments/1wwbnhn/marketers_over_45_what_do_you_do/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1wsx4e8/called_it_quits_today/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1wsmr3g/so_i_just_interviewed_at_amc_theaters_hows_your/"
+       },
+       {
+        "label": "r/marketing",
+        "url": "https://www.reddit.com/r/marketing/comments/1wsync2/need_advice_on_navigating_a_clientowner_who/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Amazon October Prime Big Deal Days",
+    "when": "this week, Oct 6-7",
+    "angle": "Deal roundups are already live across fashion, beauty, Apple hardware and 3D printers; expect competing sales from Target and Walmart and a wave of 'is it actually a deal' price-tracking content."
+   },
+   {
+    "name": "PUMA x ROSÉ Speedcat VTG release",
+    "when": "Oct 8",
+    "angle": "A vintage-detail take on the 1999 Speedcat with a global ambassador attached — the week's clearest sneaker drop to watch for resale and K-pop fandom amplification."
+   },
+   {
+    "name": "Beautyworld Middle East, Dubai",
+    "when": "Oct 8-10",
+    "angle": "Fragrance houses including Iberchem are using it to unveil new scent concepts; the Gulf is where mass fragrance innovation is being previewed before it hits Western shelves."
+   },
+   {
+    "name": "Apple's October 13 event",
+    "when": "Oct 13",
+    "angle": "Expect smart home hardware ('do not open' boxes are already in stores) and iPhone Duo momentum, with a second announcement batch reported for the final week of October."
+   },
+   {
+    "name": "GEED GORE-TEX specialty store opens in Sapporo",
+    "when": "Oct 10",
+    "angle": "A whole store built around one material — watch whether performance-material retail travels beyond Japan as outerwear season starts."
+   },
+   {
+    "name": "Halloween run-up",
+    "when": "Oct 6-31",
+    "angle": "Deloitte has budgets rising with one in five shoppers using BNPL or financing; limited-edition Halloween merch, red eyeliner tutorials and spooky-flavour LTOs are the obvious plays."
+   },
+   {
+    "name": "Holiday catalogue and advent calendar season",
+    "when": "mid-to-late October",
+    "angle": "Target's digital kids' catalogue and early food advent calendar roundups mean gifting content starts now, six weeks before anyone expects it."
+   }
+  ]
+ },
+ "signal_count": 1273,
+ "source_counts": {
+  "reddit": 502,
+  "bluesky": 314,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 339,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "6d3cdb1ba7.jpg",
+  "products:1": "057888b492.jpg",
+  "products:2": "6b87ccc37a.jpg",
+  "products:3": "dfff0627dd.jpg",
+  "products:4": "6270ab276f.png",
+  "products:5": "96fbbab67b.jpg",
+  "products:6": "70cf57ff6a.jpg",
+  "products:7": "53407c45b7.webp",
+  "digital:0": "83faf99b9c.jpg",
+  "digital:1": "ca31ea7f63.png",
+  "digital:2": "e80c464a74.webp",
+  "digital:3": "d01cb9241a.webp",
+  "digital:6": "cafc43e8e0.png",
+  "digital:7": "581cf4431e.webp",
+  "campaigns:0": "595ad06d9b.jpg",
+  "campaigns:1": "27e63f7830.jpg",
+  "campaigns:2": "e06aac4db7.jpg",
+  "campaigns:3": "8b884b68c3.webp",
+  "campaigns:4": "b0f69745ff.jpg",
+  "campaigns:5": "dec895cc96.webp",
+  "campaigns:6": "e875232a25.jpg",
+  "culture:0": "115933e2e1.jpg",
+  "culture:1": "728c6329f2.jpg",
+  "culture:2": "df58df9adc.jpg",
+  "culture:3": "360a9af182.jpg",
+  "culture:4": "954a55709b.webp",
+  "culture:5": "50e89b6f15.jpg",
+  "digital:4": "d416750869.jpg",
+  "digital:5": "109687b148.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
