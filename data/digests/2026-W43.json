@@ -1,0 +1,1029 @@
+{
+ "week": "2026-W43",
+ "generated_at": "2026-10-19T18:02:48.273172Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Apple's foldable sells out into next year while shoppers get louder about who's watching them",
+  "tldr": [
+   "iPhone Duo pre-orders are backordered into 2027 and Apple is telling staff to warn walk-ins away, making the foldable the single biggest consumer conversation of the week.",
+   "Privacy backlash is now a mass-market story: NVIDIA's default-on AI agent toggle, ChatGPT ads targeted by phone number, and Ray-Ban Meta glasses recording without consent all blew up on the same feeds.",
+   "Rhode's $160m quarter is carrying E.l.f. and has set off another round of celebrity beauty launches, with Jennifer Lawrence's Mes° next up.",
+   "Holiday marketing started early: Anthropologie paired Love Actually-style films with a DoorDash gifting tie-in as Deloitte says 28% of holiday budgets will be spent by Oct 31.",
+   "South Park's Sephora kids episode gave the beauty internet its meme of the week, with fans trading the fake brand names."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "iPhone Duo pre-orders are backordered into 2027",
+      "summary": "Apple's first foldable went to pre-order and immediately slipped to 2027 delivery dates, with Apple calling demand 'extraordinary' and retail staff reportedly told to warn customers off walk-in purchases ahead of Friday's launch. r/apple and r/iphone threads ran to thousands of comments arguing over whether it is genuine demand or a deliberately thin launch supply. Accessory makers are already shipping Duo-specific gear, including a $79.99 MagSafe battery shaped for the hinge.",
+      "why_it_matters": "A scarcity launch is doing the marketing for Apple: the backorder itself became the story, and the accessory ecosystem is monetising a device most people cannot buy yet.",
+      "what_people_say": [
+       "Commenters are split on whether this is a logistics fiasco or engineered hype.",
+       "Redditors picked apart the graphite pipe routed through the hinge as proof the thermal design is real."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "tech",
+       "apple",
+       "sellout",
+       "gadgets"
+      ],
+      "hero_url": "https://www.reddit.com/r/apple/comments/1x7fpw5/iphone_duo_preorders_now_backordered_to_next_year/",
+      "sources": [
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1x7fpw5/iphone_duo_preorders_now_backordered_to_next_year/"
+       },
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1x7vxqj/apple_calls_iphone_duo_preorder_demand/"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1x8nwyc/apple_retail_staff_told_to_warn_against_iphone/"
+       },
+       {
+        "label": "Creative Bloq",
+        "url": "https://www.creativebloq.com/news/logistics-fiasco-or-clever-marketing-apples-iphone-duo-sellout-might-not-be-such-a-mistake"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/19/this-magsafe-battery-pack-is-designed-perfectly-for-iphone-duo/"
+       }
+      ]
+     },
+     {
+      "title": "Rhode's $160m quarter is now a third of E.l.f., and every celebrity wants in",
+      "summary": "Beauty forums dissected the numbers: Rhode did $160m last quarter and $27m DTC in a single day, growing from $40m in the same quarter a year ago, while E.l.f.'s other brands declined. In the same week Jennifer Lawrence teased a 'biodesigned' hair care brand called Mes°, and Isamaya Ffrench confirmed she has left the brand that carries her name. The r/BeautyGuruChatter response to another celebrity launch was tired rather than excited.",
+      "why_it_matters": "One celebrity brand is now carrying a public beauty company's growth, which guarantees more launches — and a consumer base that is already saying the category is saturated.",
+      "what_people_say": [
+       "'Everything is just so oversaturated right now. I don't think we need another celebrity hair care brand.'",
+       "Shoppers noted the gap between Rhode's $25 blush stick and E.l.f.'s $7 products explains the split in performance."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "celebrity",
+       "dtc"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1x9kq7c/hailey_biebers_rhode_brand_sold_160m_last_quarter/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1x9kq7c/hailey_biebers_rhode_brand_sold_160m_last_quarter/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1x7hf39/jennifer_lawrence_teases_hair_care_brand/"
+       },
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/jennifer-lawrence-is-launching-hair-care-brand-mes"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1x5f93x/isamaya_confirms_leaving_isamaya_beauty_brand/"
+       }
+      ]
+     },
+     {
+      "title": "Ray-Ban Meta glasses caught recording without the wearer knowing",
+      "summary": "Researchers found Meta's Ray-Ban smart glasses were capturing audio without wearer consent; Meta says the bug is fixed. The r/gadgets thread cleared 4,000 upvotes, well beyond the usual smart-glasses audience, and fed straight into the week's wider privacy mood.",
+      "why_it_matters": "Face-worn cameras only work as a category if the social contract holds; one consent bug costs more trust than a year of product marketing buys.",
+      "what_people_say": [
+       "Commenters framed it as confirmation of what bystanders already assumed about the glasses."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "gadgets",
+       "privacy",
+       "meta",
+       "wearables"
+      ],
+      "hero_url": "https://www.reddit.com/r/gadgets/comments/1x86i7j/rayban_meta_smart_glasses_recorded_conversations/",
+      "sources": [
+       {
+        "label": "r/gadgets",
+        "url": "https://www.reddit.com/r/gadgets/comments/1x86i7j/rayban_meta_smart_glasses_recorded_conversations/"
+       }
+      ]
+     },
+     {
+      "title": "Trader Joe's Jammy Egg and the rhubarb soda people are begging it to keep",
+      "summary": "The $3.99 ready-to-eat soft-boiled 'Jammy Egg' from Chino Valley Ranchers landed as October's most-discussed TJ's product, while a separate thread pleading with the chain not to discontinue its 50-calorie rhubarb and strawberry soda pulled 434 upvotes. Harry & David Comice pears showing up at TJ's also drew a crowd.",
+      "why_it_matters": "Grocery fandom still runs on two things: a convenience format that solves a small cooking failure, and the fear that a favourite SKU will vanish. Both are free marketing if you handle discontinuation carefully.",
+      "what_people_say": [
+       "'I want to drink it every day for the rest of my life.'",
+       "Shoppers were impressed that a packaged egg could 'consistently deliver the ideal texture'."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "grocery",
+       "traderjoes"
+      ],
+      "hero_url": "https://www.reddit.com/r/traderjoes/comments/1x650b5/new_october_2026_product_chino_valley_ranchers/",
+      "sources": [
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1x650b5/new_october_2026_product_chino_valley_ranchers/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1x8qob5/i_really_hope_they_wont_discontinue_rhubarb/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1x4yda5/harry_david_comice_pears_midtown_east/"
+       }
+      ]
+     },
+     {
+      "title": "KFC drops Pepsi for Coca-Cola in US restaurants",
+      "summary": "KFC is switching its US beverage line-up to Coca-Cola for the first time in decades, and r/fastfood turned it into a 1,300-upvote referendum on fountain drinks, loyalty and which chain pours what. The same subreddit spent the week nostalgic for discontinued BK chicken tenders that still exist in Puerto Rico.",
+      "why_it_matters": "Beverage partnerships are one of the few supply-chain decisions customers notice immediately and argue about in public.",
+      "what_people_say": [
+       "Diners treated the switch as a verdict on which cola 'belongs' with fried chicken."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "food",
+       "fastfood",
+       "beverages"
+      ],
+      "hero_url": "https://www.reddit.com/r/fastfood/comments/1x6xiv7/kfc_to_switch_to_cocacola_beverages_in_us/",
+      "sources": [
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1x6xiv7/kfc_to_switch_to_cocacola_beverages_in_us/"
+       },
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1x5o60q/bk_classic_chicken_tenders/"
+       }
+      ]
+     },
+     {
+      "title": "The sneaker resale crash is making collectors happy again",
+      "summary": "r/Sneakers is openly celebrating collapsing resale prices, with buyers saying they can finally afford grails. Against that backdrop the collab calendar keeps moving: MM6 Maison Margiela and Salomon release the XT-MM6 and a new Crossderby on Oct 22, PUMA and McLaren Racing revisit James Hunt's wardrobe, and StockX is auctioning Don C's personal archive.",
+      "why_it_matters": "When flipping stops paying, the buyer is a wearer again — which rewards brands with real design stories over brands that depend on artificial scarcity.",
+      "what_people_say": [
+       "'The sneaker market crash is the best thing that could've happened to sneakerheads like us.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "sneakers",
+       "resale",
+       "collab",
+       "fashion"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sneakers/comments/1x6rhi1/i_love_the_crash_sneakers_maan/",
+      "sources": [
+       {
+        "label": "r/Sneakers",
+        "url": "https://www.reddit.com/r/Sneakers/comments/1x6rhi1/i_love_the_crash_sneakers_maan/"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/footwear-news/sneaker-news/maison-margiela-mm6-salomon-crossderby-fall-26-release-date-1239373676/"
+       },
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/10/mclaren-racing-puma-james-hunt-collection-release-info"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/footwear-news/sneaker-news/stockx-listed-don-c-closet-sale-1239374792/"
+       }
+      ]
+     },
+     {
+      "title": "Muse from Meta is the number one free app, with resale right behind it",
+      "summary": "Meta's Muse sits at #1 on the US App Store free chart, ahead of ChatGPT at #4 and Claude at #8, while Vinted holds #2 and Depop sits at #20. Meta also published Muse Spark Open, an open model tuned to run locally, which drew over 900 points on Hacker News.",
+      "why_it_matters": "The consumer download chart is now split between AI assistants and secondhand shopping — two habits that are both about spending less and doing more yourself.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "apps",
+       "ai",
+       "resale"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "sources": [
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://research.meta.ai/blog/muse-spark-open"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+       }
+      ]
+     },
+     {
+      "title": "The Tesla Roadster finally shows up and the internet argues about flying",
+      "summary": "Tesla unveiled the 2026 Roadster with claims of 'flying' capability, and the Hacker News thread hit 1,638 points and more than 3,000 comments — one of the biggest tech discussions of the week. The NYT framed it as part of a wider push by Tesla, Jaguar and Bentley to sell very expensive EVs to buyers who still prefer petrol.",
+      "why_it_matters": "Nine years of teasing produced a launch that is pure spectacle marketing; the measurable result is attention, not orders.",
+      "what_people_say": [
+       "The HN thread was dominated by scepticism about the demo video and the claimed capabilities."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "auto",
+       "ev",
+       "launch"
+      ],
+      "hero_url": "https://www.tesla.com/roadster",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://www.tesla.com/roadster"
+       },
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "NVIDIA shipped an AI agent toggle switched on by default and gamers revolted",
+      "summary": "A PSA that the latest NVIDIA App update adds a default-on 'Allow AI Agents to control the NVIDIA App' setting racked up over 4,300 likes and 3,000 reposts on Bluesky, with a second warning post spreading days later. The complaint was less about the feature than about the default, framed as a security problem rather than a convenience.",
+      "why_it_matters": "Default-on AI permissions are now a reputational trigger on their own; an opt-in would have generated no story at all.",
+      "what_people_say": [
+       "'Even aside from being lame AI features, that feels like making security even worse by defaulting it ON.'",
+       "'This invasive setting is turned on by default.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "privacy",
+       "gaming",
+       "defaults"
+      ],
+      "hero_url": "https://bsky.app/profile/invertex.xyz/post/3mxuofgonfk6n",
+      "sources": [
+       {
+        "label": "Bluesky @invertex.xyz",
+        "url": "https://bsky.app/profile/invertex.xyz/post/3mxuofgonfk6n"
+       },
+       {
+        "label": "Bluesky @lieutenantv",
+        "url": "https://bsky.app/profile/lieutenantv.bsky.social/post/3mxyk3y3ktc2z"
+       }
+      ]
+     },
+     {
+      "title": "Anyone can buy an ad inside your ChatGPT session using your phone number",
+      "summary": "404 Media's Joseph Cox uploaded raw phone numbers and email addresses to OpenAI's ad tools and ran a targeted ad into people's ChatGPT sessions in about five minutes — the ad told them humans read real user prompts. The thread and 404 Media's own post together pulled close to a thousand likes and hundreds of reposts.",
+      "why_it_matters": "Chat assistants are becoming a targetable ad surface with the same list-upload mechanics as social, and the first mover story is a privacy exposé rather than a brand case study.",
+      "what_people_say": [
+       "'OpenAI continues to enshittify ChatGPT.'",
+       "'I targeted the ad to people asking ChatGPT about privacy, AI, whether chats are private.'"
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "advertising",
+       "privacy",
+       "openai"
+      ],
+      "hero_url": "https://bsky.app/profile/josephcox.bsky.social/post/3mxw65dtics2t",
+      "sources": [
+       {
+        "label": "Bluesky @josephcox",
+        "url": "https://bsky.app/profile/josephcox.bsky.social/post/3mxw65dtics2t"
+       },
+       {
+        "label": "Bluesky @404media",
+        "url": "https://bsky.app/profile/404media.co/post/3mxwfn3k2ic2e"
+       },
+       {
+        "label": "Bluesky @josephcox",
+        "url": "https://bsky.app/profile/josephcox.bsky.social/post/3mxw6xxslb22m"
+       }
+      ]
+     },
+     {
+      "title": "Ad tech used to deliver zero-click spyware across 200,000 apps and sites",
+      "summary": "Researchers found ads being used to deliver zero-click spyware across nearly 200,000 apps and websites, naming Duolingo, Yahoo Mail, the BBC and The New York Times among the environments involved. It lands the same week Apple tightened App Store rules to ban nudify apps disguised as ordinary apps.",
+      "why_it_matters": "Programmatic supply chains are now a security liability for the publishers and brands sitting next to them, not just a brand-safety one.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "adtech",
+       "security",
+       "platforms"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/ads-used-deliver-zero-click-spyware-across-thousands-apps-websites/1972903",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/ads-used-deliver-zero-click-spyware-across-thousands-apps-websites/1972903"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
+       }
+      ]
+     },
+     {
+      "title": "The opt-out reflex: filtering AI out of apps you already pay for",
+      "summary": "A Bluesky post explaining how to switch Libby to 'human authors only' spread widely, TechCrunch reported that smart TV owners are using AI agents to strip bloatware and ads from their own sets, and a type 1 diabetic went viral describing how Dexcom forced a new terms of use with no way to re-read the document afterwards.",
+      "why_it_matters": "The consumer skill being learned this autumn is how to turn features off. If your AI addition cannot survive a settings menu, it is a liability.",
+      "what_people_say": [
+       "'Libby now has an option to filter out all AI content... Select Human authors only for every category.'",
+       "'Dexcom forced me to agree to a new terms of use... there appears to be NO WAY TO VIEW IT AGAIN.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "backlash",
+       "behaviour",
+       "apps"
+      ],
+      "hero_url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "sources": [
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+       },
+       {
+        "label": "Bluesky @tammykomoff",
+        "url": "https://bsky.app/profile/tammykomoff.bsky.social/post/3my5ic5yfz22u"
+       },
+       {
+        "label": "Bluesky @cfiesler",
+        "url": "https://bsky.app/profile/cfiesler.bsky.social/post/3my3lmqhrrs2j"
+       }
+      ]
+     },
+     {
+      "title": "Another dozen models in a month, and buyers are tuning out",
+      "summary": "Gemini 4 Argon, DeepSeek V4.1 Flash, Meta's Muse Spark Open and new Nvidia open models for on-device agents all landed within days, and The Information reports Anthropic is readying a model that reads user intent better. DeepSeek is also now shaping Huawei's chip roadmap, a direct challenge to Nvidia.",
+      "why_it_matters": "Model launches no longer move consumers; the differentiation is shifting to price, on-device privacy and who the chips come from.",
+      "what_people_say": [
+       "Hacker News threads on Gemini 4 and DeepSeek V4.1 ran past 1,000 and 700 comments respectively."
+      ],
+      "momentum": "steady",
+      "tags": [
+       "ai",
+       "models",
+       "enterprise"
+      ],
+      "hero_url": "https://deepmind.google/models/gemini/",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://deepmind.google/models/gemini/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+       },
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia"
+       }
+      ]
+     },
+     {
+      "title": "Bots went quiet and everyone noticed",
+      "summary": "A r/technology thread with over 19,000 upvotes covered Reform figures seeing social engagement collapse as bot accounts fell silent, while elsewhere users dissected an AI-generated video that went viral on Reddit with thousands of likely botted comments. Meanwhile WhatsApp's help pages accidentally exposed hidden instructions for Meta's chatbot, including a 'WHAT NOT TO SAY' list.",
+      "why_it_matters": "Audiences are getting better at spotting inflated engagement, which makes follower and comment counts a weaker currency in influencer and social buying.",
+      "what_people_say": [
+       "Users described a viral clip as 'A) ai generated and B) went viral on reddit with thousands upon thousands of (most likely also botted) comments.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "bots",
+       "ai",
+       "platforms",
+       "trust"
+      ],
+      "hero_url": "https://www.reddit.com/r/technology/comments/1x564fo/reform_figures_see_social_media_engagement_drop/",
+      "sources": [
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1x564fo/reform_figures_see_social_media_engagement_drop/"
+       },
+       {
+        "label": "Bluesky @mymfwwhen",
+        "url": "https://bsky.app/profile/mymfwwhen.bsky.social/post/3my67khj7jc2p"
+       },
+       {
+        "label": "Wired",
+        "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/"
+       }
+      ]
+     },
+     {
+      "title": "Fourteen Reels later: topic beat craft every time",
+      "summary": "A software engineer published 55 days of Instagram data showing reel #1 got 1,482 views and reel #14, after far better editing, got 1,295. Grouping by topic was the only variable that explained the eventual 50k+ hit. The r/socialmedia thread turned into a debate about how much production value is actually worth paying for.",
+      "why_it_matters": "Useful evidence for anyone defending a content budget: distribution follows subject matter, and polish only compounds once the topic is right.",
+      "what_people_say": [
+       "'The craft had clearly improved. The views hadn't moved at all.'"
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "creator",
+       "social",
+       "instagram",
+       "data"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1x79kxc/i_made_14_reels_in_55_days_and_the_editing_got/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1x79kxc/i_made_14_reels_in_55_days_and_the_editing_got/"
+       }
+      ]
+     },
+     {
+      "title": "Publishers restructure for Google Zero",
+      "summary": "The Verge has reorganised its audience development team to prioritise loyal readers over raw traffic and page views, explicitly preparing for a world where search sends almost nothing. Marketing Dive's read of Kantar data shows advertisers responding to the same uncertainty by shifting bets toward generative AI and creators.",
+      "why_it_matters": "If owned audiences become the only reliable reach, media plans built on search-driven publisher traffic need rebuilding now.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "media",
+       "search",
+       "ai",
+       "strategy"
+      ],
+      "hero_url": "https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Anthropologie buys the airport reunion and ships the hostess gift by DoorDash",
+      "summary": "Launching Oct 19, Anthropologie's holiday push leans on Love Actually-style reunion films plus a creator-led social series, and pairs it with a DoorDash partnership so a hostess gift can arrive same-day. It is aimed at the smaller occasions — travel outfits, partywear, pyjamas — rather than one big gifting moment, and it arrives as Deloitte says 28% of holiday budgets will be spent by the end of October.",
+      "why_it_matters": "Emotion plus an on-demand delivery rail is the clearest template this season for turning a sentimental ad into a same-week purchase.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "holiday",
+       "retail",
+       "partnership"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/love-actually-reunions-delivered-by-doordash-inside-anthropologies-holiday-sales-pitch/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/love-actually-reunions-delivered-by-doordash-inside-anthropologies-holiday-sales-pitch/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/anthropologie-holiday-campaign-2026-doordash/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/anthropologies-holiday-marketing-seeks-to-balance-emotion-business-impact/833172/"
+       },
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/operations/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Victoria's Secret runs the show as a beauty launch and a fan movement",
+      "summary": "The 2026 fashion show brought back wings, the Hadids and Kylie Jenner, with Katseye performing and Amina Muaddi as official shoe partner. Behind the spectacle, Victoria's Secret used the broadcast to promote its beauty expansion and its first skin-care partnership, and Adweek reports the brand deliberately reshaped the event to be more communal and accessible. The NYT was less convinced, calling it an old stereotype of sexy.",
+      "why_it_matters": "The show is being used as a retail media channel for beauty, where margins and repeat purchase are better than lingerie — the runway is the top of a different funnel now.",
+      "what_people_say": [
+       "NYT: 'An Old Stereotype of Sexy' — the angels and the wings were back in full force."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "fashion",
+       "beauty",
+       "event",
+       "celebrity"
+      ],
+      "hero_url": "https://www.adweek.com/creativity/amid-turnaround-victorias-secret-turns-its-fashion-show-into-a-fan-movement/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/creativity/amid-turnaround-victorias-secret-turns-its-fashion-show-into-a-fan-movement/"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/victorias-secret-to-leverage-fashion-show-to-promote-beauty-expansion-and-first-ever-skin-care-partnership/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/10/19/style/victorias-secret-fantasy-bra-sexy.html"
+       },
+       {
+        "label": "NYLON",
+        "url": "https://www.nylon.com/entertainment/katseye-victorias-secret-fashion-show-pink-performance-exclusive"
+       }
+      ]
+     },
+     {
+      "title": "Away makes John Summit its Chief Destruction Officer after he torched a Rimowa",
+      "summary": "DJ John Summit's viral post destroying a Rimowa suitcase got answered by a competitor: Away signed him to a partnership built around putting its aluminium luggage through a trial by fire. It is a fast, cheap piece of rival-jacking that uses someone else's viral moment as the brief.",
+      "why_it_matters": "The quickest campaigns of the quarter are reactions to creator content, not ideas developed from scratch — the capability to sign and ship inside a week is the real asset.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "collab",
+       "creator",
+       "stunt",
+       "travel"
+      ],
+      "hero_url": "https://www.adweek.com/creativity/after-torching-a-rimowa-john-summit-becomes-aways-chief-destruction-officer/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/creativity/after-torching-a-rimowa-john-summit-becomes-aways-chief-destruction-officer/"
+       }
+      ]
+     },
+     {
+      "title": "Chipotle put a swear in a family meal push and marketers argued about it",
+      "summary": "Chipotle sent push notifications, emails and social posts promoting its family meal using the word 'ass', and r/marketing turned it into a 261-upvote debate over whether that copy could ever clear legal at a normal company. Marketing Brew separately detailed how the chain's 6-million-follower social presence is built on social listening and a deliberately 'chronically online' voice.",
+      "why_it_matters": "The tone only works because the approval chain is short; most brands copying the voice without the governance get the backlash without the engagement.",
+      "what_people_say": [
+       "'Chipotle lost their mind?' — the top-line reaction on r/marketing.",
+       "Several commenters said their own legal teams would never sign it off."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "social",
+       "copywriting",
+       "brandvoice"
+      ],
+      "hero_url": "https://www.reddit.com/r/marketing/comments/1x5dtar/chipotle_lost_their_mind/",
+      "sources": [
+       {
+        "label": "r/marketing",
+        "url": "https://www.reddit.com/r/marketing/comments/1x5dtar/chipotle_lost_their_mind/"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/chipotle-chronically-online-social-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Brands bought the NBA tip-off: Rhone's Adult Recess and Chase's game-day takeover",
+      "summary": "Rhone turned Hudson Yards' Public Square into an outdoor playground with Joakim Noah for a day of pick-up basketball and schoolyard games, timed to the season opener. JPMorgan Chase enters the same week with new Dallas Mavericks and Miami Heat partnerships and a stated goal of owning every moment of the fan's game day, while Morning Brew notes fans will soon be able to buy stock in the Knicks.",
+      "why_it_matters": "Sports sponsorship is shifting from logo placement to physical, free-to-join experiences and cardholder perks that can be measured.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "sports",
+       "activation",
+       "nba",
+       "experiential"
+      ],
+      "hero_url": "https://hypebeast.com/2026/10/rhone-adult-recess-nyc-with-joakim-noah",
+      "sources": [
+       {
+        "label": "Hypebeast",
+        "url": "https://hypebeast.com/2026/10/rhone-adult-recess-nyc-with-joakim-noah"
+       },
+       {
+        "label": "Fast Company",
+        "url": "https://www.fastcompany.com/91625365/chase-is-betting-big-on-the-nba-and-credit-cardholders-could-be-the-biggest-winners"
+       },
+       {
+        "label": "Morning Brew",
+        "url": "https://www.morningbrew.com/stories/you-can-soon-own-stock-in-the-knicks?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Kiwibank's AI sheep mascot went viral for the wrong reasons",
+      "summary": "Kiwibank's AI-generated sheep mascot became a controversy rather than a hit, and Creative Bloq's read is that brands need to accept they cannot control an AI character once the internet gets hold of it. It is the clearest cautionary case this week against treating generative mascots as cheap IP.",
+      "why_it_matters": "An AI mascot invites remixing by design; if you cannot live with the versions you did not make, do not launch one.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "mascot",
+       "backlash",
+       "branding"
+      ],
+      "hero_url": "https://www.creativebloq.com/news/the-kiwibank-sheep-controversy-suggests-brands-should-give-up-trying-to-control-ai-mascots",
+      "sources": [
+       {
+        "label": "Creative Bloq",
+        "url": "https://www.creativebloq.com/news/the-kiwibank-sheep-controversy-suggests-brands-should-give-up-trying-to-control-ai-mascots"
+       }
+      ]
+     },
+     {
+      "title": "Ad fatigue is specific now: dancing, butchered songs, and fortune cookie inserts",
+      "summary": "r/CommercialsIHate produced three of the week's most engaged consumer-side ad threads: a 489-upvote rant about choreographed dance spots that leave viewers unable to name the product, a thread on pharma brands mangling licensed songs like Pilot's 'Magic' for Ozempic, and one about finding an ad inside a takeaway fortune cookie.",
+      "why_it_matters": "The complaint is not advertising itself but formats that obscure the product or invade a non-commercial moment — both are avoidable briefs.",
+      "what_people_say": [
+       "'I get so focused on trying to figure out how some ad person thought people dancing around like fools was a good idea, I don't even remember what's being sold.'",
+       "'Even the little slip inside a cookie has to sell us something now?'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "advertising",
+       "backlash",
+       "creative"
+      ],
+      "hero_url": "https://www.reddit.com/r/CommercialsIHate/comments/1x5iytu/i_hate_commercials_that_feature_dancing/",
+      "sources": [
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1x5iytu/i_hate_commercials_that_feature_dancing/"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1x4ys0s/big_pharma_and_their_long_love_affair_with/"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1x4yznu/anyone_else_tired_of_seeing_ads_everywhere/"
+       }
+      ]
+     },
+     {
+      "title": "Pop-ups and partnerships built for community rather than conversion",
+      "summary": "Tower 28 opened its first standalone storefront explicitly designed to engage people with the brand's mission rather than move product, Oatly is putting its marketing into coffee-shop third spaces instead of cheeky posters, and Depop is anchoring its marketing in music with drops alongside Olivia Rodrigo, Zara Larsson and Kacey Musgraves.",
+      "why_it_matters": "Three different categories arriving at the same answer: own a space or a scene people already spend time in, rather than buying their attention elsewhere.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "popup",
+       "beauty",
+       "experiential",
+       "music"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/tower-28-sephora-popup-community-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/tower-28-sephora-popup-community-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/why-oatly-pouring-its-marketing-efforts-coffee-shop-culture/1972895"
+       },
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/operations/why-depop-is-putting-music-at-the-center-of-its-marketing-collaborating-with-zara-larsson-and-olivia-rodrigo/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "South Park did the Sephora kids episode and beauty Reddit lost it",
+      "summary": "This week's South Park skewered Sephora and the tween shoppers who have taken it over. The r/Sephora thread hit nearly 4,000 upvotes and a follow-up cataloguing the parody brand names — Suburban Decline for Urban Decay, Shine Recipe for Glow Recipe, Natasia Sonoma, Precious Beauty — pulled another 1,400. Employees and shoppers treated it as validation rather than insult.",
+      "why_it_matters": "A parody that beauty consumers quote approvingly is free cultural positioning for the retailer and a warning for brands whose names are now shorthand for excess.",
+      "what_people_say": [
+       "'This is how it feels with all these little kids roaming around in Sephora.'",
+       "'Urban Decay - Suburban Decline (my personal fav).'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "meme",
+       "tv",
+       "retail"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1x6z2wa/south_park_episode_joking_about_sephora_kids/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1x6z2wa/south_park_episode_joking_about_sephora_kids/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1x8k938/south_park_clever_makeup_parody_names/"
+       }
+      ]
+     },
+     {
+      "title": "#tiktokscaryhorrorcontest is the biggest hashtag on TikTok right now",
+      "summary": "The platform's own horror contest hashtag logged 73.5K posts and 312.2M views in seven days, the number one trend in the US. Behind it, #marvelrivalsavengers drove 110.1K posts in Games and #livecanbeeasy sits third with 30.2M views.",
+      "why_it_matters": "A platform-run Halloween format with this much volume is the cheapest paid-adjacent entry point available before Oct 31 — the audience is already making the content.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "tiktok",
+       "halloween",
+       "format"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest"
+       },
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/marvelrivalsavengers"
+       },
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/livecanbeeasy"
+       }
+      ]
+     },
+     {
+      "title": "Ronnie Coleman's not-French-fries is the brainrot sound of the week",
+      "summary": "A 2024 clip of bodybuilder Ronnie Coleman explaining that people thought he was eating French fries when he was really eating oven potatoes sprayed with Pam has become a major TikTok brainrot meme, per Know Your Meme. The appeal is the earnest diet-culture absurdity, not the punchline.",
+      "why_it_matters": "A ready-made food-and-fitness audio with no brand attached yet; food and supplement brands can ride it before it tips over.",
+      "what_people_say": [
+       "The hook everyone repeats: 'Everybody thought I was eating French fries.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "meme",
+       "tiktok",
+       "food",
+       "fitness"
+      ],
+      "hero_url": "https://knowyourmeme.com/memes/ronnie-coleman-french-fries-video",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/ronnie-coleman-french-fries-video"
+       }
+      ]
+     },
+     {
+      "title": "'I wish I were high on potenuse' became the standard reply to comment-stealing bots",
+      "summary": "A 1,364-upvote r/OutOfTheLoop thread tried to work out why everyone replies to Instagram comment-stealing bots with the same maths-joke gif. The answer is that bots scrape and repost text, so an image reply breaks them — and the in-joke doubles as a community signal that a comment is stolen.",
+      "why_it_matters": "Users have invented their own anti-bot moderation layer; brand social accounts that reply with text under stolen comments now look like bots themselves.",
+      "what_people_say": [
+       "'There are lots of bots on Instagram who steal peoples' comments word for word and get more likes than the original commenter.'",
+       "'LMAOOOOO these answers have me dying thank you guys I get it now.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "meme",
+       "instagram",
+       "bots",
+       "community"
+      ],
+      "hero_url": "https://www.reddit.com/r/OutOfTheLoop/comments/1x73lvx/whats_the_deal_with_people_using_the_i_wish_i/",
+      "sources": [
+       {
+        "label": "r/OutOfTheLoop",
+        "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1x73lvx/whats_the_deal_with_people_using_the_i_wish_i/"
+       }
+      ]
+     },
+     {
+      "title": "Colour is creeping back into autumn dressing, and the sun hat question",
+      "summary": "An inspo album arguing that bright tights are the easiest antidote to a beige wardrobe pulled over 1,000 upvotes on r/femalefashionadvice, alongside a widely-discussed thread asking where big sun hats went and another hunting for 'understated ugly' frumpy clothes. Menswear ran a parallel conversation about tucking, first suits and Wallace-and-Gromit-adjacent shoe choices.",
+      "why_it_matters": "The quiet-luxury beige cycle is being actively rejected by the forums that drive early fashion adoption — colour and deliberate frumpiness are the openings.",
+      "what_people_say": [
+       "'If you're one of those people who woke up one day and realized everything got real beige... colored tights are back.'",
+       "'I feel like ten years ago, when you get on a plane somewhere warm, you'd see everyone in their big hat. Now I'm the only one in the airport in one.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "aesthetic",
+       "autumn"
+      ],
+      "hero_url": "https://www.reddit.com/r/femalefashionadvice/comments/1x4n311/bright_and_not_so_bright_tights_an_inspo_album/",
+      "sources": [
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1x4n311/bright_and_not_so_bright_tights_an_inspo_album/"
+       },
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1x7islb/what_happened_to_sun_hats/"
+       },
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1x6h192/are_there_any_brands_that_have_understated_ugly/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1x6pfd8/am_i_wrong_for_always_wanting_to_tuck_in_my_shirt/"
+       }
+      ]
+     },
+     {
+      "title": "Skincare fatigue: 'embrace your normal skin'",
+      "summary": "A r/SkincareAddiction post arguing that skincare culture has brainwashed people into treating normal texture and faint lines as problems drew 299 upvotes and a long agreeing thread. Related threads questioned whether tretinoin is actually worth it and celebrated low-effort routines, while r/MakeupAddiction's top posts were 'no-makeup makeup' and a return to colourful, playful looks.",
+      "why_it_matters": "The flawless-skin promise is losing credibility with the most engaged category users; brands pitching fun, texture-tolerant routines are reading the room better.",
+      "what_people_say": [
+       "'It's gotten to a point that we no longer understand what normal and healthy skin looks like.'",
+       "'Now I'm trying to make makeup feel fun again!'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "beauty",
+       "skincare",
+       "backlash",
+       "wellness"
+      ],
+      "hero_url": "https://www.reddit.com/r/SkincareAddiction/comments/1x52g46/personal_i_feel_like_skincare_culture_has_started/",
+      "sources": [
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1x52g46/personal_i_feel_like_skincare_culture_has_started/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1x41ajh/antiaging_has_anyone_opted_not_to_use_tretinoin/"
+       },
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1x4ffbr/my_take_on_nomakeup_makeup_vs_bare_skin/"
+       }
+      ]
+     },
+     {
+      "title": "Inherited handbags and 40-year-old appliances are outperforming new launches",
+      "summary": "The week's biggest fashion-object posts were not new products: a grandmother's 1940s-80s handbag collection (4,710 upvotes), a 1970s Gucci frame bag (1,483) and a Mallory bag going to meet Obama (4,323). r/BuyItForLife ran the same energy with a 1988 Corolla, an antique-shop waffle maker and someone abandoning new shedding towels for decades-old Martha Stewart ones.",
+      "why_it_matters": "Provenance and durability are beating newness in organic engagement, which is why resale apps sit near the top of the download chart.",
+      "what_people_say": [
+       "'More steal it for life' — on ditching new towels for a parent's decades-old set.",
+       "'This bag is so understated and when I get the occasional \"ooh gorgeous bag,\" it makes me feel like someone is noticing the details.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "vintage",
+       "resale",
+       "bifl",
+       "fashion"
+      ],
+      "hero_url": "https://www.reddit.com/r/handbags/comments/1x8e82e/my_grandmothers_handbag_collection_1940s_1980s/",
+      "sources": [
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1x8e82e/my_grandmothers_handbag_collection_1940s_1980s/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1x8hqmn/my_1970s_gucci/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1x8o3px/war_is_over_finally_ditched_my_evershedding_towels/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1x4h9ud/1988_toyota_corolla_dlx_standard_transmission/"
+       }
+      ]
+     },
+     {
+      "title": "Adland's bad week: RTO mandates, 15k cuts and 'the marketing department is about to disappear'",
+      "summary": "r/advertising lit up over a leaked plan for mandatory return-to-office at Omnicom, which staff read as a way to hit a 15,000-person headcount reduction by year end after the PepsiCo loss. In parallel r/marketing spent 267 comments dismantling an essay claiming AI purchase agents will make marketers obsolete, while other threads vented about agency hours and in-house creative being reduced to editing PDFs.",
+      "why_it_matters": "Talent sentiment is at a low point just as brands ask agencies for faster creator-led output; expect more in-housing and more senior people leaving the pitch.",
+      "what_people_say": [
+       "'As with anything else OMC related, it is piss poor planning and decisions, just do it NOW and figure it out later.'",
+       "'I think it's nonsense personally' — on the claim that AI will erase marketing roles.",
+       "'I'm the only one in my friend group who consistently works into the evening.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "advertising",
+       "agencies",
+       "ai",
+       "work"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1x7o381/heads_up_email_going_out_for_all_omc_employees_to/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1x7o381/heads_up_email_going_out_for_all_omc_employees_to/"
+       },
+       {
+        "label": "r/marketing",
+        "url": "https://www.reddit.com/r/marketing/comments/1x6ko90/why_the_marketing_department_is_about_to_disappear/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1x7xwp9/the_expectations_the_hours_whats_next/"
+       },
+       {
+        "label": "r/marketing",
+        "url": "https://www.reddit.com/r/marketing/comments/1x6ra5s/marketing_is_not_creative/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "iPhone Duo on-sale date",
+    "when": "Friday Oct 23",
+    "angle": "Launch day with almost no stock — accessory brands, carriers and resale platforms will all try to attach to the queue story."
+   },
+   {
+    "name": "NBA season tip-off",
+    "when": "Oct 20–21",
+    "angle": "Chase, Rhone and league sponsors are already activating; expect a wave of game-day creator content and shoppable broadcast tests."
+   },
+   {
+    "name": "MM6 Maison Margiela x Salomon release",
+    "when": "Oct 22",
+    "angle": "The XT-MM6 and new Crossderby drop into a resale market where prices have collapsed, so watch whether hype converts to full-price sell-through."
+   },
+   {
+    "name": "Apple's second October event",
+    "when": "Oct 28, Los Angeles",
+    "angle": "New Macs and a refreshed iPad Mini, with an OLED MacBook Pro expected — a second tech news spike right before Halloween retail week."
+   },
+   {
+    "name": "Halloween",
+    "when": "Oct 31",
+    "angle": "TikTok's own #tiktokscaryhorrorcontest is already the top US hashtag and frugal-costume threads are peaking; cheap, participatory formats will beat polished spots."
+   },
+   {
+    "name": "Early holiday shopping crunch",
+    "when": "Now through early November",
+    "angle": "Deloitte says 28% of holiday budgets will be gone by Oct 31, so brands resisting discounts have roughly two weeks to make the full-price case."
+   }
+  ]
+ },
+ "signal_count": 1254,
+ "source_counts": {
+  "reddit": 501,
+  "bluesky": 294,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 341,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "77ac9c80f9.jpg",
+  "products:1": "2b1993900d.png",
+  "products:2": "045ead4f06.jpg",
+  "products:3": "7397ef2455.jpg",
+  "products:4": "e4f871e460.jpg",
+  "products:5": "20d66779bd.jpg",
+  "products:6": "b7d762e848.png",
+  "digital:0": "7c8f7088d2.webp",
+  "digital:1": "88bae2910d.webp",
+  "digital:3": "4ff30ee4dc.jpg",
+  "digital:5": "e71c3ad381.jpg",
+  "digital:7": "de164d8413.jpg",
+  "campaigns:0": "0a2a49523e.jpg",
+  "campaigns:1": "6a204314c5.png",
+  "campaigns:2": "fe82054273.png",
+  "campaigns:4": "1d41d83c7c.jpg",
+  "campaigns:5": "bdfffc20ff.jpg",
+  "campaigns:7": "fe74544996.jpg",
+  "culture:0": "efbbfdb69f.jpg",
+  "culture:2": "543bbc67da.jpg",
+  "culture:4": "e427003cd5.jpg",
+  "culture:5": "7c6fc019f4.jpg",
+  "culture:6": "e45fa9c871.jpg",
+  "digital:2": "d772467b3a.jpg",
+  "digital:4": "3fb3e00c0e.jpg",
+  "campaigns:3": "ea998b8cd8.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
