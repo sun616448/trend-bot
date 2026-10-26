@@ -1,0 +1,1023 @@
+{
+ "week": "2026-W44",
+ "generated_at": "2026-10-26T18:07:52.026859Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Apple's first foldable cracks in week one while Anthropic files to go public",
+  "tldr": [
+   "The iPhone Duo's inner display is cracking along the hinge and Apple has acknowledged it, turning Apple's first foldable into a returns-and-regret story on Reddit.",
+   "Anthropic's S-1 landed Monday with $16.3B in first-half revenue, 90+ pages of risk factors and an 'AI doomsday primer' tone, while Microsoft offered buyouts to around 60,000 staff.",
+   "Holiday campaigns are all nostalgia casting: Walmart with the Muppets, Sephora with Seth Rogen, Bath & Body Works with Zooey Deschanel, Pantene with John Stamos.",
+   "McDonald's walked away from a 32-year FIFA World Cup sponsorship and Taco Bell locked Pepsi in for 11 more years days after KFC defected to Coke.",
+   "Consumers are pushing back on AI everywhere: agentic shoppers getting blocked by The RealReal, 'never had a tab of ChatGPT open' badges on Bluesky, and smart TVs being called spy boxes."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "iPhone Duo 'crackgate' arrives within a week of launch",
+      "summary": "Owners of Apple's first foldable started posting photos of inner displays cracking along the hinge, usually a bright line running from the centre to the right. Apple told 9to5Mac and Bloomberg it is 'aware of an issue impacting the inner display on a small number of iPhone Duo units' and is replacing them through AppleCare, while iFixit's teardown offers a possible explanation. On Reddit, a day-one buyer in Montreal returned a 512GB white Duo inside 24 hours, and a separate thread arguing the Duo 'only proves foldables haven't evolved at all' pulled 1,400+ upvotes.",
+      "why_it_matters": "The most-watched hardware launch of the year is being defined by user-generated failure photos rather than by Apple's marketing, a reminder that first-gen form factors get judged in public within days.",
+      "what_people_say": [
+       "'I used it all day... the front screen isn't as big or comfortable as I expected' — day-one buyer who returned it in 24 hours.",
+       "'The inner screen still scratches through your fingernail. Dust still gets into the hinge.'",
+       "Apple: aware of 'an issue impacting the inner display on a small number of iPhone Duo units.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "tech",
+       "apple",
+       "backlash",
+       "launch"
+      ],
+      "hero_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "sources": [
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xecefp/iphone_duo_returned_in_less_than_24h/"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xe2pzz/iphone_duo_only_proves_that_foldables_havent/"
+       },
+       {
+        "label": "Wired",
+        "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/"
+       }
+      ]
+     },
+     {
+      "title": "Trader Joe's autumn bakery run: morning buns, one giant cookie, cornbread muffins",
+      "summary": "r/traderjoes spent the week on baked goods. The Morning Buns post ('I was not prepared') cleared 900 upvotes, the limited October Cornbread Muffins at $5.49 for four and 'A Singular Chocolate Chip Cookie' at $1.99 for a 100g cookie both drew hundreds of comments, and the Everything But The Bartender Long Island Ice Tea mixer got a 10/10 from the sub.",
+      "why_it_matters": "Trader Joe's keeps getting free launch marketing because its seasonal SKUs are small, cheap and legible enough to become a single screenshot; the 'one big cookie' single-serve format is the detail other grocers should copy.",
+      "what_people_say": [
+       "'I don't know if it's because I'm pregnant, but these are one of the most delectable things I've ever tried.'",
+       "'It reminds me of college lol, except there's no nasty aftertaste and lingering headache' on the Long Island Ice Tea mixer."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "grocery",
+       "seasonal",
+       "trader joes"
+      ],
+      "hero_url": "https://www.reddit.com/r/traderjoes/comments/1xea02y/morning_buns_i_was_not_prepared/",
+      "sources": [
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xea02y/morning_buns_i_was_not_prepared/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xadlni/new_limited_october_2026_bakery_product_trader/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xaelaj/new_october_2026_bakery_product_trader_joes_a/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xbb31b/trader_joes_everything_but_the_bartender_long/"
+       }
+      ]
+     },
+     {
+      "title": "Dior Médaillon lipstick is sold out online and hunted in store drawers",
+      "summary": "Dior's Médaillon lipstick, a heavy metal case that is explicitly not refillable, sold out online and is now a back-of-the-drawer ask at Sephora counters. The r/Sephora post about scoring one hit nearly 500 upvotes, with the buyer calling it 'one of the most ridiculous makeup purchases I have made' and planning to refill the case herself with another brand's bullet.",
+      "why_it_matters": "Object desire is beating product function in prestige beauty right now: people are paying for a metal case they already plan to repurpose, which is a packaging brief as much as a formula brief.",
+      "what_people_say": [
+       "'One of the most ridiculous makeup purchases I have made. But I love Dior and I had to have it!'",
+       "'It is not refillable but I will fill it up with another lip product when I finish.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "luxury",
+       "sold out",
+       "packaging"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1xc3ie3/dior_médaillon/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xc3ie3/dior_médaillon/"
+       }
+      ]
+     },
+     {
+      "title": "Baja Blast stays at Taco Bell for 11 more years as KFC defects to Coke",
+      "summary": "Taco Bell signed an 11-year extension with PepsiCo days after sister chain KFC switched to Coca-Cola in the US, confirming Baja Blast's future and teasing new drinks. The news travelled on r/fastfood as a Baja Blast story rather than a procurement story, with 1,300 upvotes on the 'Baja Blast is staying' thread.",
+      "why_it_matters": "A supply contract became consumer news because one exclusive product carries the whole relationship — proof that a single signature SKU can be worth more than the category deal behind it.",
+      "what_people_say": [
+       "'Pepsi provides a better price deal on their products... the margins are far better with Pepsi.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "food",
+       "drinks",
+       "fast food",
+       "partnership"
+      ],
+      "hero_url": "https://www.reddit.com/r/fastfood/comments/1xcq50a/taco_bell_confirms_baja_blast_is_staying_for/",
+      "sources": [
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1xcq50a/taco_bell_confirms_baja_blast_is_staying_for/"
+       },
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html"
+       },
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1xdekfg/taco_bell_signs_11_year_contract_to_keep_pepsi/"
+       },
+       {
+        "label": "Nation's Restaurant News",
+        "url": "https://www.nrn.com/quick-service/taco-bell-re-ups-with-pepsi-qsr-pizza-scores-a-win-and-wendy-s-is-all-yellow"
+       }
+      ]
+     },
+     {
+      "title": "Bemotrizinol finally hits the US drugstore shelf at La Roche-Posay and Neutrogena",
+      "summary": "r/SkincareAddiction posted side-by-side first impressions of Neutrogena Clear Face SPF 60 ($18.99 for 40ml, 6% bemotrizinol) and La Roche-Posay's new launch, the first mass-market US sunscreens using the filter that Asian and European formulas have had for years. The same sub also ran a long traveller's review of Japanese sunscreens like Biore UV Aqua Rich, showing how much benchmark knowledge sits in these communities.",
+      "why_it_matters": "The ingredient gap between US and Asian sunscreen is a years-old consumer grievance; the brands that close it first get credit from the most informed, highest-trust corner of beauty.",
+      "what_people_say": [
+       "Reviewer flagged that a brand partner claimed 80-minute water resistance while the packaging still says not water resistant."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "beauty",
+       "skincare",
+       "spf",
+       "launch"
+      ],
+      "hero_url": "https://www.reddit.com/r/SkincareAddiction/comments/1xfgwpj/sun_care_drugstore_bemotrizinol_launches_lrp_and/",
+      "sources": [
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xfgwpj/sun_care_drugstore_bemotrizinol_launches_lrp_and/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xa9kma/sun_care_sunscreen_reviews_from_my_springsummer/"
+       }
+      ]
+     },
+     {
+      "title": "Kirkland grass-fed butter quietly switches from New Zealand to Ireland",
+      "summary": "Costco shoppers spotted a new Kirkland Signature grass-fed butter 4-pack: same $10.99 price, same 8oz bars, different bar shape and now a product of Ireland after Tirlán replaced the long-standing New Zealand supply. The r/Costco post ran to 1,900 upvotes and 330 comments of people comparing taste and packaging before the change is fully rolled out.",
+      "why_it_matters": "Private-label sourcing changes used to go unnoticed; now a shaped bar and a country-of-origin line get forensically documented before the new stock reaches most stores.",
+      "what_people_say": [
+       "Shoppers noted the packaging looks almost identical but the bar shape and origin changed, and not all warehouses have it yet."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "grocery",
+       "costco",
+       "private label"
+      ],
+      "hero_url": "https://www.reddit.com/r/Costco/comments/1xb6220/fyi_theres_a_new_kirkland_signature_grassfed/",
+      "sources": [
+       {
+        "label": "r/Costco",
+        "url": "https://www.reddit.com/r/Costco/comments/1xb6220/fyi_theres_a_new_kirkland_signature_grassfed/"
+       }
+      ]
+     },
+     {
+      "title": "Beauty shoppers call Ulta's early Black Friday deals thinner than last year",
+      "summary": "Ulta's early Black Friday offers went live in-app this week and the sub's reaction split between excitement and disappointment: one thread noting deals have slid from 50% to 40% to 25-30% off drew 276 upvotes. Meanwhile a 'you did it' Diamond status email prompted a member to confront a year's worth of spend.",
+      "why_it_matters": "Discount depth is now a tracked, compared metric among loyalty members; shrinking it quietly costs more goodwill than a shorter sale window would.",
+      "what_people_say": [
+       "'It used to be 50% then 40% and now items are 25-30% off.'",
+       "'I saw the total spent this year and now I need to go shred some credit card statements.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "retail",
+       "black friday",
+       "loyalty"
+      ],
+      "hero_url": "https://www.reddit.com/r/Ulta/comments/1xf7gqg/black_friday_sale_aint_the_same_as_before/",
+      "sources": [
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1xf7gqg/black_friday_sale_aint_the_same_as_before/"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1xeuvdz/early_black_friday_deals_live/"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1xdkajm/you_did_it_diamond_email/"
+       }
+      ]
+     },
+     {
+      "title": "Starbucks baristas push back on the Black Cat Frappuccino and the 'medicine ball' myth",
+      "summary": "The Halloween Black Cat Frappuccino got a mixed reception at $8.42 ('starts off okay, then has a weird taste I can't describe', plus a lid that fell off). Separately, a barista's post arguing the Honey Citrus Mint Tea 'medicine ball' actively makes sore throats worse hit 651 upvotes, and another described a customer arriving with a TikTok screenshot of a 'labor-inducing Starbucks drink'.",
+      "why_it_matters": "Starbucks' seasonal LTOs and its TikTok-born secret menu are now being fact-checked by its own staff in public, which shapes the drink's reputation faster than the campaign does.",
+      "what_people_say": [
+       "'It starts off okay, but then has a weird taste that I can't describe... and the dye!'",
+       "'It's not only misinformation, it's misinformation that is actively bad for you.'",
+       "A barista on a viral 'labor-inducing' drink: 'I hope they are doing well and aren't falling for other, actually dangerous lies.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "food",
+       "drinks",
+       "starbucks",
+       "misinformation"
+      ],
+      "hero_url": "https://www.reddit.com/r/starbucks/comments/1xchwf1/black_cat_frappucino/",
+      "sources": [
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xchwf1/black_cat_frappucino/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xa78gn/the_honey_citrus_mint_tea_medicine_ball_is_making/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xawwke/had_a_pregnant_custie_think_this_would_induce/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "Anthropic files its S-1 and the whole AI trade is reading it",
+      "summary": "Anthropic publicly filed its IPO prospectus Monday morning: $16.3bn in first-half revenue, a profitable second quarter, a concentrated enterprise customer base, compute commitments sending hundreds of billions to Google and Amazon, and more than 90 pages of risk factors that Wired called an 'AI doomsday primer'. Goldman Sachs has the lead-left role; the raw SEC filing hit the top of Hacker News with nearly 1,000 comments.",
+      "why_it_matters": "This is the clearest public view yet of what an AI lab's economics actually look like, and it will set the pricing expectations every brand faces when it buys AI tooling next year.",
+      "what_people_say": [
+       "Hacker News readers went straight to the filing itself rather than the coverage, with nearly 1,000 comments on the S-1.",
+       "TechCrunch notes over half of $100k+ customers now use both the Claude platform and a first-party app."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "ipo",
+       "anthropic",
+       "business"
+      ],
+      "hero_url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "sources": [
+       {
+        "label": "Hacker News / SEC",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+       },
+       {
+        "label": "Wired",
+        "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/"
+       },
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+       }
+      ]
+     },
+     {
+      "title": "Refusing ChatGPT becomes an identity badge",
+      "summary": "A Bluesky post reading 'RT if you've never had a tab of ChatGPT open, period' was reposted across the network all week, spawning variants like 'ChatGPT: not even once'. At the same time 404 Media's Jason Koebler described being flooded with emails written by ChatGPT on behalf of users it had convinced they'd found a major story, and a post mocking 'I only use ChatGPT in the ideas phase' cleared 5,600 likes.",
+      "why_it_matters": "Non-use of AI is becoming a public signal of taste for a loud slice of the audience, which raises the cost of putting 'AI-powered' in consumer-facing copy.",
+      "what_people_say": [
+       "'RT if you've never had a tab of ChatGPT open, period.'",
+       "'ChatGPT is telling them to email me, writing their emails, and compiling evidence packets.'",
+       "'Have companies decided people are cool with being pitched by robots now?'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "backlash",
+       "bluesky",
+       "behaviour"
+      ],
+      "hero_url": "https://bsky.app/profile/jasonkoebler.bsky.social/post/3mys3rz6uyk2f",
+      "sources": [
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/ksmithsf.bsky.social/post/3mymuqhbbks2q"
+       },
+       {
+        "label": "Bluesky / 404 Media",
+        "url": "https://bsky.app/profile/jasonkoebler.bsky.social/post/3mys3rz6uyk2f"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/keezyyoung.bsky.social/post/3mygfhhqgf225"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/astrokatie.com/post/3mymmjdz46k2m"
+       }
+      ]
+     },
+     {
+      "title": "Retailers start fighting the shopping agents they were told to welcome",
+      "summary": "The RealReal is upgrading its bot defences specifically to stop AI agents from hogging designer consignment items, days after The Verge showed an agent could game its reserve system. Elsewhere agentic commerce keeps expanding: Fanatics launched a Shop the Look feature built on OpenAI Codex, Meta's Muse is popular but analysts call adoption 'too soon to tell', and new research says ChatGPT is where 16% of shoppers start but only 9% buy.",
+      "why_it_matters": "Agentic shopping is splitting retailers into those building for agents and those blocking them; scarcity-based businesses have the most to lose from a bot that never sleeps.",
+      "what_people_say": [
+       "Gartner's Eric Schmitt: 'We're still in the too soon to tell stage with respect to how broadly agentic shopping will be adopted.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "ecommerce",
+       "agents",
+       "retail"
+      ],
+      "hero_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "sources": [
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+       },
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/meta-muse-popularity-barriers-to-adoption?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Smart TVs get called spy boxes after a Samsung root shell",
+      "summary": "A researcher's root shell on a Samsung TV spread fast on Hacker News, with follow-on claims that the set runs a TensorFlow Lite model on downscaled screen captures and scans for Bluetooth microphones in the house. It landed alongside Ars Technica research finding 'suspicious' traffic even when tracking opt-outs are enabled, and a Bluesky post telling people to simply disconnect their TVs from the internet.",
+      "why_it_matters": "ACR data underpins a large share of CTV targeting; if 'unplug your TV' becomes mainstream advice, the measurement story brands have been sold gets harder to defend.",
+      "what_people_say": [
+       "'If you own a smart TV, disconnect it from the internet. Do not connect it.'",
+       "Reddit on the opt-out research: people are asking whether the privacy toggles do anything at all."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "privacy",
+       "ctv",
+       "hardware",
+       "backlash"
+      ],
+      "hero_url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://twitter.com/log4j/status/2113014142600953868?s=46"
+       },
+       {
+        "label": "r/gadgets",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xbymuo/does_opting_out_of_smart_tv_tracking_work/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/esqueer.net/post/3myphpksatk2o"
+       }
+      ]
+     },
+     {
+      "title": "'What would actually crash?' — the AI bubble question goes mainstream",
+      "summary": "r/OutOfTheLoop's explainer thread on the predicted AI crash drew 1,289 upvotes and 340 comments from people trying to work out what would physically break if it happened, while r/artificial's 'I am failing to see how this AI boom does not lead to a very bad ending' hit 1,216 upvotes and 806 comments. Apollo research circulating on Hacker News found no signs of an AI payoff outside the tech sector, and a top Ask HN thread asked why OpenAI sells tokens instead of just starting 100 companies.",
+      "why_it_matters": "Bubble anxiety has moved from finance Twitter to general-audience subreddits, which changes the tone consumers bring to any AI feature a brand ships.",
+      "what_people_say": [
+       "'Is it the stock prices of companies like Nvidia, Microsoft and Google? The startups? The data centers?'",
+       "'As a Software Engineer, I have barely written any code for the last 6 months, all I did is prompt... this still scares me a lot.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "ai",
+       "discourse",
+       "economy"
+      ],
+      "hero_url": "https://www.reddit.com/r/OutOfTheLoop/comments/1xd4k69/whats_going_on_with_everyone_predicting_an_ai/",
+      "sources": [
+       {
+        "label": "r/OutOfTheLoop",
+        "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1xd4k69/whats_going_on_with_everyone_predicting_an_ai/"
+       },
+       {
+        "label": "r/artificial",
+        "url": "https://www.reddit.com/r/artificial/comments/1xa3qrq/i_am_failing_to_see_how_this_ai_boom_does_not/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50200997"
+       }
+      ]
+     },
+     {
+      "title": "Data centres become a local environmental story in Finland",
+      "summary": "Two of the week's biggest Reddit technology threads, at 44,000 and 43,500 upvotes, were about Google illegally felling around 250,000 trees for a Finnish data centre, with reports of wolves now roaming into villages where the forest used to be. The Guardian's interactive and a Tom's Hardware follow-up drove the spread.",
+      "why_it_matters": "The abstract cost of AI compute now has a concrete, photographable image attached; expect sustainability teams at any brand buying heavy AI infrastructure to get asked about it.",
+      "what_people_say": [
+       "'Pure arrogance' was the framing that carried the story across Reddit.",
+       "Commenters tied the felled forest directly to the AI build-out rather than to Google in general."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "sustainability",
+       "google",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
+      "sources": [
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/"
+       },
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/"
+       }
+      ]
+     },
+     {
+      "title": "Microsoft offers buyouts to about 60,000 people to pay for AI",
+      "summary": "Microsoft said it is offering voluntary buyouts to roughly 27% of its staff as it cuts costs to fund AI development and operations, one of the largest potential reductions at a big tech firm in recent memory. It lands the same day as Anthropic's S-1 and SpaceX's $40bn GPU financing deal, sharpening the 'who is paying for the compute' question.",
+      "why_it_matters": "The human cost of AI capex is now a headline number, and it will colour how employees and customers read every 'AI efficiency' message a company publishes.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "tech",
+       "jobs"
+      ],
+      "hero_url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "sources": [
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/briefings/microsoft-offers-buyouts-60-000-employees"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+       }
+      ]
+     },
+     {
+      "title": "The fake CAPTCHA that asks you to press Windows+R",
+      "summary": "r/OutOfTheLoop spent the week explaining a scam that looks exactly like a Cloudflare verification screen but instructs users to press Windows+R, paste a command and hit Enter. The confusion driving the thread is that people are hitting these on ordinary websites, not sketchy download pages, with universities now publishing scam alerts about it.",
+      "why_it_matters": "Verification screens are a trust surface brands don't own; if users learn to distrust them, every gated checkout and sign-in flow gets a little more friction.",
+      "what_people_say": [
+       "'I get that it's some kind of malware trick, but people are encountering these on completely normal websites.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "security",
+       "behaviour",
+       "web"
+      ],
+      "hero_url": "https://www.reddit.com/r/OutOfTheLoop/comments/1xecdx3/whats_going_on_with_websites_asking_people_to/",
+      "sources": [
+       {
+        "label": "r/OutOfTheLoop",
+        "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1xecdx3/whats_going_on_with_websites_asking_people_to/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "McDonald's walks away from the FIFA World Cup after 32 years",
+      "summary": "McDonald's is ending its FIFA World Cup sponsorship for the first time in more than three decades as part of a marketing strategy reset, according to Campaign and Nation's Restaurant News. It comes while fashion brands are still spending residual World Cup energy on players like Bellingham and Yamal three months after the tournament.",
+      "why_it_matters": "One of the longest-running sponsorships in marketing just ended, suggesting the big-tournament platform deal is losing to athlete-level and always-on creator spend.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "sponsorship",
+       "sports",
+       "qsr",
+       "fifa"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/mcdonalds-walks-away-32-year-fifa-world-cup-sponsorship/1973425",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/mcdonalds-walks-away-32-year-fifa-world-cup-sponsorship/1973425"
+       },
+       {
+        "label": "Nation's Restaurant News",
+        "url": "https://www.nrn.com/quick-service/mcdonald-s-is-ending-its-fifa-world-cup-sponsorship"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/3-months-after-the-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Walmart rebuilds The Muppet Christmas Carol for its holiday push",
+      "summary": "Walmart's CMO detailed a holiday campaign that recreates the world of The Muppet Christmas Carol and extends its 'Who Knew?' platform into a single unified seasonal push. It arrives alongside Walmart stretching Black Friday and Cyber Monday to 14 days of deals, up from 10 last year.",
+      "why_it_matters": "The biggest retailer in the country is betting the holiday on borrowed nostalgia IP plus a longer discount runway, which sets the tempo everyone else has to match.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "retail",
+       "walmart",
+       "nostalgia"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
+       }
+      ]
+     },
+     {
+      "title": "Sephora casts Seth Rogen as its holiday gifting guide",
+      "summary": "Sephora brought on Seth Rogen as an unexpected holiday ambassador, with the campaign built around making beauty gifting less intimidating for people who find the category impenetrable. It is the clearest example this week of beauty retailers casting outside the beauty world to reach the gift-buyer rather than the category fan.",
+      "why_it_matters": "The holiday beauty fight is being waged over the non-expert gifter, and comedy casting is the shortcut to signalling 'you can't get this wrong'.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "beauty",
+       "celebrity",
+       "sephora"
+      ],
+      "hero_url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/"
+       }
+      ]
+     },
+     {
+      "title": "Bath & Body Works puts its turnaround on Zooey Deschanel",
+      "summary": "Bath & Body Works fronted its 'Season of Wonder' holiday campaign with Zooey Deschanel, who also gave Fashionista an interview about vintage shopping, designer ballet flats and the lip liner she is 'married to'. Glossy framed the stakes plainly: an unfinished turnaround plan, more mass-market competition and stretched shoppers make this gifting season close to make-or-break.",
+      "why_it_matters": "A nostalgia-coded celebrity plus a press run is the standard playbook for a brand that needs the holiday to work; whether it lands will be read as a verdict on the whole turnaround.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "beauty",
+       "celebrity",
+       "fragrance"
+      ],
+      "hero_url": "https://www.glossy.co/beauty/bath-body-works-has-a-successful-holiday-season-on-its-wishlist-can-zooey-deschanel-help-it-deliver/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/bath-body-works-has-a-successful-holiday-season-on-its-wishlist-can-zooey-deschanel-help-it-deliver/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/10/zooey-deschanel-interview-bath-body-works"
+       }
+      ]
+     },
+     {
+      "title": "Good American's 'VIP' pop-up turns into a nano-creator backlash",
+      "summary": "Good American's pop-up was pitched to creators as an exclusive VIP experience; several flew in from other cities and were met with a long line outside in the rain and decidedly un-VIP treatment. Social filled with videos from disgruntled attendees, and Glossy is now asking what brands actually owe the nano-creators they invite.",
+      "why_it_matters": "Nano-creator invites are cheap until they go wrong — the same people you didn't pay will document the experience in detail, and the apology cycle costs more than the event did.",
+      "what_people_say": [
+       "Creators said they believed the event was an exclusive VIP experience and instead queued outside in the rain."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "creators",
+       "events",
+       "backlash",
+       "fashion"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/after-its-pop-up-controversy-does-good-american-owe-anything-to-nano-creators/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/after-its-pop-up-controversy-does-good-american-owe-anything-to-nano-creators/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "A guy sold ad space on his toilet and 25 brands bought in",
+      "summary": "A creator who started selling sponsorship on his toilet as a joke says 25 major companies have now spent over $125,000 on the space, with the series racking up roughly 100 million views and local news coverage. He broke the whole thing down on r/socialmedia, including what it is actually like to pitch and work with the brands.",
+      "why_it_matters": "Attention arbitrage keeps beating media rate cards: a single absurd owned 'placement' delivered more reach per dollar than most small-brand paid plans this quarter.",
+      "what_people_say": [
+       "'It started off as a joke and quickly became not a joke, with 25 major companies spending over $125,000.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "stunt",
+       "creators",
+       "sponsorship",
+       "viral"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1xav07k/i_sold_ad_space_on_my_toilet_and_it_went_viral/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1xav07k/i_sold_ad_space_on_my_toilet_and_it_went_viral/"
+       }
+      ]
+     },
+     {
+      "title": "Coca-Cola splits its media: Omnicom takes North America, WPP keeps global",
+      "summary": "Coca-Cola ran two separate reviews and landed on Omnicom for North American media while WPP retained the global business, with Publicis stepping away after winning PepsiCo. The result lands in the same week as Omnicom's Q3 results and John Wren calling the IPG merger headwinds 'substantially done' — a claim the agency subreddit is loudly disputing.",
+      "why_it_matters": "The two biggest beverage accounts have now been redistributed across three holdcos in a year, and the staff fallout is visible in public on Reddit rather than in trade quotes.",
+      "what_people_say": [
+       "'I miss IPG. Honestly, I feel cheated by this acquisition' — 388 upvotes on r/advertising.",
+       "'Is anyone else in advertising having a lot of trouble landing a new job right now?'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "agency",
+       "media",
+       "holdco",
+       "coca-cola"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/omnicom-wins-coca-colas-north-american-media-business-wpp-retains-globally/1973301",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/omnicom-wins-coca-colas-north-american-media-business-wpp-retains-globally/1973301"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/john-wren-calls-headwinds-caused-omnicom-ipg-merger-substantially-done-ahead-q3-earnings-call/1973251"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xa0mpe/i_miss_ipg_omnicom_has_completely_destroyed_my/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xch88f/trouble_landing_new_role/"
+       }
+      ]
+     },
+     {
+      "title": "Pantene brings back John Stamos 30 years later",
+      "summary": "Pantene has named John Stamos its 'Ultimate Ambassador' more than three decades after his original partnership, fronting a video series in which he argues his famous hair is a product of the brand. It is the third nostalgia-casting holiday campaign of the week alongside Walmart's Muppets and Bath & Body Works' Zooey Deschanel.",
+      "why_it_matters": "Reactivating an archive endorsement is cheaper than building a new one and comes with built-in meme value, but it only works if the original ad is still in people's heads.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "celebrity",
+       "haircare",
+       "nostalgia",
+       "p&g"
+      ],
+      "hero_url": "https://www.cosmeticsbusiness.com/pantene-reunites-with-john-stamos",
+      "sources": [
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/pantene-reunites-with-john-stamos"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "#tiktokscaryhorrorcontest owns the last week of October",
+      "summary": "TikTok's horror contest hashtag is the number one trend in the US with 73,500 posts and 312.2 million views in seven days, outpacing everything else on the Creative Center board including #marvelrivalsavengers. On Reddit the spooky-season energy shows up as painting-inspired eye looks and nostalgia for a decade-old Chrisspy Halloween tutorial that people say nobody makes anymore in the short-form era.",
+      "why_it_matters": "Platform-run contest hashtags concentrate seasonal creativity into one taggable place, which is cheap distribution for any brand with a Halloween asset ready this week.",
+      "what_people_say": [
+       "'Now everything is short form content, people don't care to do as elaborate a tutorial anymore.'",
+       "A painter new to makeup: 'I started doing it this month because I was eager to expand my self expression.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "tiktok",
+       "halloween",
+       "beauty",
+       "ugc"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest"
+       },
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1xa6k6x/eye_look_inspired_by_goyas_painting_witches/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xf6hsn/in_spirit_of_halloween_no_one_could_ever_top/"
+       }
+      ]
+     },
+     {
+      "title": "Dragon Ball characters are doing the 'I'm So In Love With You' dance",
+      "summary": "Know Your Meme documented a fast-growing format pairing animated Dragon Ball characters, Jiren especially, swinging their hips to Mthu's 'it's like i'm not even here'. The animations largely come from TikToker @dblgiuzman and have spread into a broad remix template.",
+      "why_it_matters": "A sound plus a swappable character rig is the cheapest meme to join; brands with any mascot or 3D asset can enter this one without producing anything new.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "meme",
+       "tiktok",
+       "sound",
+       "anime"
+      ],
+      "hero_url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance"
+       }
+      ]
+     },
+     {
+      "title": "True crime's ad reads get called out from inside the creator economy",
+      "summary": "Beauty creator Kiki Chanel published a video arguing the true crime genre has become unethical, naming inappropriate ad reads, betting on trial outcomes, calling the worst days of people's lives 'tea', photoshoots at former crime scenes and charging for a child's autopsy photos. The r/BeautyGuruChatter thread hit 1,624 upvotes and 500 comments, with many saying they'd already stepped back from the genre.",
+      "why_it_matters": "Brand safety in true crime is being redefined by the audience, not the platforms; an ad read next to the wrong case is now its own news story.",
+      "what_people_say": [
+       "'I've taken a big step back from consuming true crime content.'",
+       "Commenters singled out ad reads placed inside coverage of real victims as the part that finally broke it for them."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "creators",
+       "brand safety",
+       "discourse",
+       "youtube"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xa3kzl/kiki_chanel_calls_out_unethical_true_crime_content/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xa3kzl/kiki_chanel_calls_out_unethical_true_crime_content/"
+       }
+      ]
+     },
+     {
+      "title": "China swapping mall ad screens for scientist portraits becomes a global talking point",
+      "summary": "A r/SipsTea post explaining that cities including Heze, Zibo, Zhengzhou, Hangzhou, Chongqing and Jinan have replaced commercial and celebrity advertising on public screens with portraits of scientists like Qian Xuesen and Yuan Longping drew 102,000 upvotes and nearly 3,000 comments. Most of the Western reaction was envy rather than analysis.",
+      "why_it_matters": "The most-upvoted ad-adjacent story of the week was people cheering the removal of advertising, a useful temperature check on how out-of-home is currently perceived.",
+      "what_people_say": [
+       "The thread title said it all: 'Hope for the future?'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ooh",
+       "advertising",
+       "discourse",
+       "china"
+      ],
+      "hero_url": "https://www.reddit.com/r/SipsTea/comments/1x9w51n/hope_for_the_future/",
+      "sources": [
+       {
+        "label": "r/SipsTea",
+        "url": "https://www.reddit.com/r/SipsTea/comments/1x9w51n/hope_for_the_future/"
+       }
+      ]
+     },
+     {
+      "title": "Novelty bags are a conversation starter again",
+      "summary": "An r/handbags post about complimenting a stranger's chicken-shaped bag — complete with mini chicken coin case, met by a compliment on the poster's wiener dog bag — hit 4,816 upvotes. The thread turned into a discussion of Loewe's small tiger clutch going for $900 on eBay and the ethics of scratching a novelty bag's face.",
+      "why_it_matters": "Figural accessories are functioning as social objects, not just purchases; the resale chatter shows how much secondary value a well-made joke bag holds.",
+      "what_people_say": [
+       "'His chicken bag is perfection. Even comes with a mini chicken coin case.'",
+       "'Why would anyone pay that much for a bag that was scratched in the face!?'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "accessories",
+       "resale",
+       "aesthetic"
+      ],
+      "hero_url": "https://www.reddit.com/r/handbags/comments/1xdeab0/i_complimented_his_chicken_bag/",
+      "sources": [
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1xdeab0/i_complimented_his_chicken_bag/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1xb916f/yesterday_today/"
+       }
+      ]
+     },
+     {
+      "title": "The autumn-walk outfit post is menswear's format of the month",
+      "summary": "A r/malefashionadvice poster using Google Translate to read replies returned with a second autumn outfit — baggy grey-black jeans, plaid shirt-jacket — after mods locked his first post at 640,000 views; it cleared 1,638 upvotes. In the same week a 20-year-old's Uniqlo-and-Solovair uni fit drew 696 upvotes and a 'looking for brands with this style' sweater-and-trousers request pulled 1,091.",
+      "why_it_matters": "Attainable, named-brand outfit posts are outperforming editorial styling for young men, and the comment sections are effectively shoppable product discovery for Uniqlo, TK Maxx and Solovair.",
+      "what_people_say": [
+       "'Are you headed to a meeting after?' — compliments that made a student think he was doing too much.",
+       "'I'm especially interested in affordable brands with good value for money.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "menswear",
+       "reddit",
+       "discovery"
+      ],
+      "hero_url": "https://www.reddit.com/r/malefashionadvice/comments/1xb2mw9/ill_be_back_the_mods_locked_my_last_post_at_640k/",
+      "sources": [
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xb2mw9/ill_be_back_the_mods_locked_my_last_post_at_640k/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xcmfaq/compliments_at_uni_made_me_feel_like_i_20m_was/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xdai5s/looking_for_brands_with_this_style/"
+       }
+      ]
+     },
+     {
+      "title": "GLP-1 users hit an identity crisis in the fitting room",
+      "summary": "The NYT reported on people who lost weight on GLP-1s and found rebuying a wardrobe far more destabilising than they expected, turning a shopping trip into an identity question. In parallel, The Food Institute's read on EY-Parthenon data shows the drugs reshaping food demand toward protein, fibre and nutrient density and away from sugar and calories.",
+      "why_it_matters": "GLP-1s are now a cross-category consumer segment with specific needs in both apparel sizing and food formulation, and almost nobody is marketing to them directly yet.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "glp-1",
+       "wellness",
+       "fashion",
+       "food"
+      ],
+      "hero_url": "https://www.nytimes.com/2026/10/25/style/glp-1-weight-loss-wardrobe-shopping.html",
+      "sources": [
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/10/25/style/glp-1-weight-loss-wardrobe-shopping.html"
+       },
+       {
+        "label": "The Food Institute",
+        "url": "https://foodinstitute.com/consumerinsights/glp-1-growth-serves-new-food-trends/?utm_source=rss&utm_medium=rss&utm_campaign=glp-1-growth-serves-new-food-trends"
+       }
+      ]
+     },
+     {
+      "title": "The anti-churn wardrobe: 'how do I update instead of replace?'",
+      "summary": "r/femalefashionadvice ran three parallel threads this week on keeping clothes longer: how to restyle 2020 purchases for 2026, what the actual signs are that a garment should go, and how to tell at the till whether something will really get worn. Over on r/BuyItForLife, a post arguing merino wool 'isn't for everyone, try before you invest' hit 1,719 upvotes, and 35-year-old Oneida flatware next to new stock drew 1,466.",
+      "why_it_matters": "Durability talk has shifted from virtue signalling to a cost-of-living strategy, and shoppers are openly interrogating the buy-it-for-life promise instead of accepting it.",
+      "what_people_say": [
+       "'I hate being wasteful when some of those items have never even been used more than a few times.'",
+       "'I was ALWAYS cold in it. Never made any sense to me.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "fashion",
+       "frugal",
+       "durability",
+       "discourse"
+      ],
+      "hero_url": "https://www.reddit.com/r/BuyItForLife/comments/1xeh96n/unpopular_opinion_merino_wool_isnt_for_everyone/",
+      "sources": [
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xf1s32/updating_out_of_fashion_items/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1xeh96n/unpopular_opinion_merino_wool_isnt_for_everyone/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1xafd8g/oneida_flatware_after_35_years_of_use_vs_brand_new/"
+       },
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xf7ytq/when_shopping_how_do_you_know_if_an_item_is/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Halloween",
+    "when": "Sat Oct 31",
+    "angle": "Candy costs are the live consumer complaint — frugal swaps like bulk saltwater taffy are circulating, and TikTok's horror contest hashtag is where the UGC is pooling."
+   },
+   {
+    "name": "NYC Marathon week",
+    "when": "Oct 26 – Nov 1",
+    "angle": "A dense week of sneaker brand pop-ups and shakeout runs in New York before the Sunday race."
+   },
+   {
+    "name": "US midterm elections",
+    "when": "Tue Nov 3",
+    "angle": "Political spend is squeezing CTV inventory and pricing for regional advertisers right as holiday plans go live."
+   },
+   {
+    "name": "iOS 27.2 rollout and Apple Pencil support on iPhone Duo",
+    "when": "Late Oct / early Nov",
+    "angle": "Apple ships Pencil support and the 27.2 wave across devices while it handles the Duo display replacements — watch whether the software story can outrun crackgate."
+   },
+   {
+    "name": "Diwali",
+    "when": "Sun Nov 8",
+    "angle": "Beauty, food and home brands run gifting and limited-edition packaging; expect heavy creator-led activity in the preceding week."
+   },
+   {
+    "name": "Singles' Day (11.11)",
+    "when": "Wed Nov 11",
+    "angle": "The first big discount test of the season in Asia-facing commerce, and a preview of how deep Western brands will go on Black Friday."
+   },
+   {
+    "name": "Black Friday build-up",
+    "when": "From early Nov",
+    "angle": "Walmart has stretched deal events to 14 days and Ulta's early offers are already live, so the 'sale' now starts three weeks before the date."
+   }
+  ]
+ },
+ "signal_count": 1212,
+ "source_counts": {
+  "reddit": 498,
+  "bluesky": 280,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "rss": 341,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "c52157486b.jpg",
+  "products:1": "7daaab966d.jpg",
+  "products:2": "5051c45f9d.jpg",
+  "products:3": "837ace4e47.jpg",
+  "products:4": "809385d9f7.jpg",
+  "products:5": "61e42a3f77.jpg",
+  "products:6": "cb5bdf72ee.jpg",
+  "products:7": "32eac9eef5.jpg",
+  "digital:0": "319086ec3d.jpg",
+  "digital:1": "d5f012ecb4.webp",
+  "digital:2": "dce42e1e64.jpg",
+  "digital:3": "fd9030d8a9.jpg",
+  "digital:5": "1366e72373.jpg",
+  "digital:6": "3bafbd9756.webp",
+  "campaigns:1": "b6ca5c5901.webp",
+  "campaigns:2": "e00b0cd29e.png",
+  "campaigns:3": "8e7f6aaf3d.jpg",
+  "campaigns:4": "f799096386.jpg",
+  "campaigns:7": "97b94fef78.jpg",
+  "culture:0": "f5792f1f29.jpg",
+  "culture:1": "bd256b6221.jpg",
+  "culture:2": "050499154a.jpg",
+  "culture:3": "02540a4b90.jpg",
+  "culture:4": "959ae18cbd.jpg",
+  "culture:5": "aabacbe977.jpg",
+  "culture:7": "03e696b0e2.jpg",
+  "digital:4": "629845aeac.jpg",
+  "campaigns:0": "274c7212f2.jpg",
+  "culture:6": "08831b2f91.jpg"
+ },
+ "notes": [
+  "appstore: returned no signals",
+  "youtube: returned no signals"
+ ]
+}
