@@ -1,0 +1,1008 @@
+{
+ "week": "2026-W45",
+ "generated_at": "2026-11-02T21:07:05.760299Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Shoppers are gaming the Sephora sale while adland argues about who still makes ads by hand",
+  "tldr": [
+   "Sephora's savings event turned into a spreadsheet war, with shoppers mapping which brands to skip at 20% off and staff posting PSAs about customer behaviour.",
+   "Apple's first foldable, the iPhone Duo, is cracking within days and the return posts are outranking the launch posts.",
+   "Anti-AI positioning became a campaign tactic: Svedka is crowdsourcing its Super Bowl spot after its AI ad flopped, and e.l.f. shot its Christmas film in stop motion.",
+   "r/ChatGPT users cancelled subscriptions over Sam Altman's remarks about consumer RAM, while OpenAI quietly merges apps and fills ad inventory.",
+   "Halloween 2026 belonged to Heidi Klum's severed hand and a TikTok horror contest with 312M views in seven days."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "iPhone Duo screens are cracking days after launch",
+      "summary": "Apple's first foldable is three days old in some owners' hands and already showing cracks along the fold, with Guardian and Gizmodo write-ups both hitting the front page of r/gadgets. One high-upvote r/iphone post walks through returning a launch-day Duo for an 18 Pro Max, praising the inner screen and multitasking but calling the trade-offs not worth it. The return-and-review genre is currently louder than the launch hype.",
+      "why_it_matters": "A hardware durability story spreading through enthusiast subreddits sets the default narrative before any official response lands, and it shapes how the whole foldable category gets priced in consumers' heads.",
+      "what_people_say": [
+       "\"The inner screen is fantastic... the footprint of the Duo when folded is unbeaten\" — but the poster still returned it.",
+       "Owners are reporting cracks in Apple's first foldable handset."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "tech",
+       "apple",
+       "foldables",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/gadgets/comments/1xgp8o8/the_iphone_duo_is_3_days_oldand_screens_are/",
+      "sources": [
+       {
+        "label": "r/gadgets",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xgp8o8/the_iphone_duo_is_3_days_oldand_screens_are/"
+       },
+       {
+        "label": "r/gadgets",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xgayhv/iphone_duo_owners_report_cracks_in_apples_first/"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xh5acq/switched_back_to_pro_max/"
+       }
+      ]
+     },
+     {
+      "title": "Sephora shoppers are spreadsheeting their way around the 20% sale",
+      "summary": "The Sephora savings event has produced three of the week's biggest beauty threads: a worker PSA asking customers to stop abusing staff and to get shade-matched off-peak, a thread cataloguing which brands to skip because they'll discount harder direct in November, and a 1,000-comment list of brands people refuse to buy at all. A shared spreadsheet of last year's Black Friday brand-direct deals is circulating as the planning document.",
+      "why_it_matters": "Loyalty-tier discounting is now being arbitraged in public; if your brand reliably goes 30% off direct in late November, the retailer sale is training shoppers to wait.",
+      "what_people_say": [
+       "\"Please BE KIND TO WORKERS... we are being forced to work LONG hours with very limited days off during the sale.\"",
+       "\"Which brands are we NOT shopping because they offer higher than 20% off between now and the end of year?\"",
+       "\"Brands I avoid like the plague are ilia, drunk elephant, and rhode.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "retail",
+       "discounting",
+       "black friday"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1xj1dw0/which_brands_are_we_not_shopping_because_they/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xjh07b/psa_to_all_customers/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xj1dw0/which_brands_are_we_not_shopping_because_they/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xi693m/what_brands_do_you_typically_stay_away_from/"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1xg5apn/the_ulta_clearance_gods_have_never_smiled_unto_me/"
+       }
+      ]
+     },
+     {
+      "title": "Jordans are sitting on shelves and sneakerheads are blaming the economy",
+      "summary": "A photo tour of northern Florida mall stockrooms showing nearly every 2026 release still in stock pulled 868 upvotes and 347 comments on r/Sneakers, with resale shops asking $250–$300 for used general-release Jordans. On Bluesky, the reaction to the wave of \"why are Jordans sitting\" explainers was blunter: it's the economy plus colourway fatigue. Separately, New Balance keeps winning the niche-drop game with a Billy's-exclusive 204L \"Black Coffee\".",
+      "why_it_matters": "Scarcity marketing only works while scarcity is believed; the hype engine for mass-market Jordan drops has visibly stalled and smaller, story-led sneaker releases are absorbing the attention.",
+      "what_people_say": [
+       "\"Almost every store had like every release this year... the resell store selling gr jordan for 250 to 300 used.\"",
+       "\"it's the economy, stupid + who fucken cares about the zillionth chicago colorway drop.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "sneakers",
+       "resale",
+       "hype",
+       "retail"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sneakers/comments/1xk18yj/current_state_of_northern_florida_malls/",
+      "sources": [
+       {
+        "label": "r/Sneakers",
+        "url": "https://www.reddit.com/r/Sneakers/comments/1xk18yj/current_state_of_northern_florida_malls/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/craigsj.bsky.social/post/3mzby72gwzc2v"
+       },
+       {
+        "label": "Highsnobiety",
+        "url": "https://www.highsnobiety.com/p/billys-new-balance-204l-black-coffee/"
+       }
+      ]
+     },
+     {
+      "title": "\"I washed my face with shampoo\" is the anti-skincare-routine post of the week",
+      "summary": "A before-and-after on r/SkincareAddiction claiming a week of washing with shampoo beat three years of a full routine pulled 352 upvotes and a long argument in the comments. It lands in the same feed as two of the sub's biggest posts of the week, both crediting prescription tretinoin for results a long skincare routine never delivered. The throughline: people are publicly auditing whether their shelf of products does anything.",
+      "why_it_matters": "The twelve-step routine is losing cultural authority to cheap hacks and prescriptions, which is a real threat to mid-priced cleanser and serum SKUs built on routine-stacking.",
+      "what_people_say": [
+       "\"Washing my face with shampoo has done more for my skin in a week than my entire skincare routine has in 3 years.\"",
+       "\"Tret Was the Hero and My Old Derm was the Villain all Along.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "skincare",
+       "derm",
+       "value"
+      ],
+      "hero_url": "https://www.reddit.com/r/SkincareAddiction/comments/1xldesu/before_after_washing_my_face_with_shampoo_has/",
+      "sources": [
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xldesu/before_after_washing_my_face_with_shampoo_has/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xkbp83/before_after_tret_was_the_hero_and_my_old_derm/"
+       },
+       {
+        "label": "r/SkincareAddiction",
+        "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xjvrcu/before_after_facial_scar_6month_update/"
+       }
+      ]
+     },
+     {
+      "title": "Lady Gaga takes over as CEO of Haus Labs",
+      "summary": "Gaga announced she is now CEO of Haus Labs, effective immediately, after co-founder Ben Jones left earlier in the month. Beauty forums immediately connected the move to the brand's bronzer shade-range misstep and asked whether this means real operational involvement or a title. It arrives in a week where Estée Lauder posted 7% net sales growth on the back of fragrance, so the category is healthy but crowded.",
+      "why_it_matters": "Celebrity-founded beauty is maturing from face-of-brand into operator-of-brand, and consumers are now explicitly judging whether the founder is actually running anything.",
+      "what_people_say": [
+       "\"I wonder if this & the old CEO leaving is related to their recent-ish massive bronzer shade range etc fuckup.\""
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "beauty",
+       "celebrity brands",
+       "leadership"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xiqr90/lady_gaga_is_now_ceo_of_haus_labs_the_old_ceo/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xiqr90/lady_gaga_is_now_ceo_of_haus_labs_the_old_ceo/"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/beauty/the-estee-lauder-companies-reports-continued-growth-with-fragrance-still-driving-the-charge/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/elc-raises-fy27-outlook-amid-q1-sales-boost"
+       }
+      ]
+     },
+     {
+      "title": "SodaStream's new Fountain keeps dying on owners",
+      "summary": "r/SodaStream is small but it is currently a stream of complaints about the new Fountain model: one owner's machine died within days, the replacement died in a day and a half, with sparks at the barrel plug. Other threads cover locking mechanisms seizing, the flavour-cap setup needing a how-to, and confusion over whether the older Terra is still worth buying on sale. People are also posting homemade syrup recipes to avoid the proprietary pods entirely.",
+      "why_it_matters": "A razor-and-blades appliance lives or dies on reliability; when the owner community starts DIY-ing the consumables and warning each other off the new model, the subscription economics go with it.",
+      "what_people_say": [
+       "\"Second sodastream fountain broke within a week... I'm at a loss rn, if i should call customer support to get it replaced once again or just get my money back.\"",
+       "\"Is it still worth buying a new Terra? Just being cautious so I don't fall for a product that's going obsolete.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "home",
+       "appliances",
+       "subscriptions",
+       "quality"
+      ],
+      "hero_url": "https://www.reddit.com/r/SodaStream/comments/1xjqxla/second_sodastream_fountain_broke_within_a_week/",
+      "sources": [
+       {
+        "label": "r/SodaStream",
+        "url": "https://www.reddit.com/r/SodaStream/comments/1xjqxla/second_sodastream_fountain_broke_within_a_week/"
+       },
+       {
+        "label": "r/SodaStream",
+        "url": "https://www.reddit.com/r/SodaStream/comments/1xle8u0/is_it_still_worth_buying_a_new_terra/"
+       },
+       {
+        "label": "r/SodaStream",
+        "url": "https://www.reddit.com/r/SodaStream/comments/1xl6sf8/homemade_soda_syrup_recipe/"
+       }
+      ]
+     },
+     {
+      "title": "Costco and Trader Joe's fandom is doing the marketing for them",
+      "summary": "A \"what's your Costco hot take\" thread drew 5,700 comments and the Trader Joe's equivalent 4,600, while a Bluesky post framing Costco's $6, 3,840-calorie pumpkin pie as the best dollar-per-calorie item in the store got 195 likes. Meanwhile r/Frugal is full of people trying to make Costco maths work on a family budget, and a Trader Joe's cashier handing a crying customer a mini bouquet pulled 877 upvotes. Grocery is where brand love and price anxiety are colliding hardest right now.",
+      "why_it_matters": "These two chains get thousands of comments of free product discourse a week because their value story and their staff behaviour are both legible; most retailers have neither.",
+      "what_people_say": [
+       "\"I told the cashier I was having a bad day... he had another employee get me a mini bouquet of flowers. I instantly started crying.\"",
+       "\"I just did my first Costco shopping trip today and spent about $300 hoping it would last me 3 weeks but I feel lost.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "grocery",
+       "value",
+       "fandom",
+       "food"
+      ],
+      "hero_url": "https://www.reddit.com/r/Costco/comments/1xgcqv4/what_is_your_costco_hot_take/",
+      "sources": [
+       {
+        "label": "r/Costco",
+        "url": "https://www.reddit.com/r/Costco/comments/1xgcqv4/what_is_your_costco_hot_take/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xg0880/whats_your_trader_joes_hot_take/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/fatfurfoods.bsky.social/post/3mz74cu6uqs2i"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xlj8id/how_to_make_costco_affordable_and_be_more/"
+       }
+      ]
+     },
+     {
+      "title": "Vinted is sitting at #3 on the US App Store ahead of Black Friday",
+      "summary": "Vinted is the third most downloaded free iPhone app in the US this week, above Temu at #17 and in the same chart neighbourhood as Capital One Shopping. The secondhand marketplace is peaking at exactly the moment shoppers are planning their Black Friday spend down to the percentage point, and Rent the Runway is also pushing into designer handbags.",
+      "why_it_matters": "Resale is not a side channel in this holiday season; it is a top-three app competing directly with full-price retail for gift budgets.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "resale",
+       "apps",
+       "shopping",
+       "gen z"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
+      "sources": [
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/11/nanushka-closes-all-physical-stores-business-struggles"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "ChatGPT users are cancelling over Altman's comments about your RAM",
+      "summary": "A r/ChatGPT post titled \"Subscription Cancelled\" hit 1,776 upvotes by quoting Sam Altman arguing it's \"quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time.\" In the same week OpenAI told users it is retiring the ChatGPT Classic app and merging Chat and Work into one interface, and signed deals with Magnite and PubMatic to fill unused ad space in ChatGPT. Princeton students, handed free access by their university, publicly said they didn't want it.",
+      "why_it_matters": "The consumer relationship with the category-leading AI app is turning adversarial — ads, forced app migrations and founder quotes about rationing hardware are all landing in the same news cycle.",
+      "what_people_say": [
+       "\"I know there are a lot of people saying 'well his comments were out of context'. No, they weren't.\"",
+       "Princeton students, per the Daily Princetonian, mostly don't want the free ChatGPT access they were given."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "ai",
+       "openai",
+       "backlash",
+       "subscriptions"
+      ],
+      "hero_url": "https://www.reddit.com/r/ChatGPT/comments/1xkvdlt/subscription_cancelled_fuck_altman/",
+      "sources": [
+       {
+        "label": "r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1xkvdlt/subscription_cancelled_fuck_altman/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/"
+       },
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mzdiwtyeqk24"
+       }
+      ]
+     },
+     {
+      "title": "Instagram wants 90-minute horizontal video and nobody's sure who it's for",
+      "summary": "Meta is beta-testing 90-minute Reels with select creators and pushing horizontal video, YouTube cross-posting and shoppable CTV integrations. Agency executives quoted by Campaign are split on whether creators or brands will actually make long-form for Instagram. Ouai is already there, launching a cinematic web series that its VP of brand marketing frames as the antidote to AI slop: \"people are craving a new version of authenticity.\"",
+      "why_it_matters": "If Instagram becomes a long-form surface, the cheap-and-fast vertical content model brands have optimised for over five years stops being the whole answer.",
+      "what_people_say": [
+       "Ouai's marketing lead: long-form is the new foil to AI slop."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "platforms",
+       "instagram",
+       "video",
+       "creators"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/instagram-wants-90-minute-horizontal-videos-will-creators-brands-buy-in/1974116",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/instagram-wants-90-minute-horizontal-videos-will-creators-brands-buy-in/1974116"
+       },
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/pop/ouai-launches-cinematic-web-series-as-long-form-content-trends-people-are-craving-a-new-version-of-authenticity/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Reddit is going logged-in only",
+      "summary": "Reddit's Q3 earnings confirmed a shift to a logged-in-only experience, framed as a response to user loss from search and AI referral collapse and as a way to build an audience worth more to advertisers. It lands as Stack Overflow drops below 1,000 questions a month, a stark marker of what AI answers have done to open Q&A traffic.",
+      "why_it_matters": "The open, Google-indexed web that brands have relied on for organic discovery is closing behind login walls, and the data that remains gets more expensive to reach.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "platforms",
+       "reddit",
+       "search",
+       "ai"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+       }
+      ]
+     },
+     {
+      "title": "Agency layoffs land on accounting, and strategists start sweating",
+      "summary": "A r/advertising post reports Omnicom/IPG layoffs in accounting due to outsourcing to an AI-based company, with people expecting far more next year. The same sub is full of related posts: a creative director with 20 years in asking whether it's time to leave, a freelancer describing rooms with no warmth left in them, and a thread hunting for anyone at Omnicom who is actually happy. A WARC report, meanwhile, finds strategists split between fearing replacement and seeing an opening.",
+      "why_it_matters": "The people who make brand work are describing an industry in visible morale collapse, which is the context for every \"human creativity\" campaign brands are now running.",
+      "what_people_say": [
+       "\"They want to outsource pretty much everything to ai based companies and a ton of layoffs will be happening next year.\"",
+       "\"Can't remember the last time I worked on something and felt like actually making it.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "agencies",
+       "jobs",
+       "adland"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1xiem27/new_layoffs_at_omnicomipg/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xiem27/new_layoffs_at_omnicomipg/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xk64s2/is_it_time/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xil3sl/is_there_anyway_who_works_at_omnicom_or_any_of/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/where-agency-strategists-see-opportunity-as-ai-challenges-their-worth/872985/"
+       }
+      ]
+     },
+     {
+      "title": "Claude Code's VS Code extension got backdoored the same week Anthropic posted $17B",
+      "summary": "A backdoor was found in the official Claude Code extension distributed via the Cursor marketplace, and a separate finding showed Claude Code regularly sending background agent transcripts to the model — both drew huge Hacker News threads. At the same time Anthropic reported roughly $17 billion in Q3 revenue against a $23 billion net loss ahead of an IPO, and its app sits at #8 on the US App Store. Stanford professors also allege their books were pirated to train Claude.",
+      "why_it_matters": "AI coding tools are now consumer-scale software with consumer-scale supply chain risk, and the trust story is being written in developer forums rather than press releases.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "anthropic",
+       "security",
+       "developers"
+      ],
+      "hero_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "sources": [
+       {
+        "label": "Hacker News",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
+       },
+       {
+        "label": "The Information",
+        "url": "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+       }
+      ]
+     },
+     {
+      "title": "Meta's Muse is the #2 app while retailers scramble to block AI agents",
+      "summary": "Muse from Meta is the second most downloaded free app in the US, and Amazon and JPMorgan are among the companies blocking AI personal agents like it from their properties. Retail analysts warn that blocking friction-removing technology rarely works long-term. Amazon's own counter-data point: more than 400 million customers used Alexa for Shopping in the past 12 months, and they spend 50% more than those who don't.",
+      "why_it_matters": "Agentic shopping is arriving as a consumer habit before anyone has agreed the rules, and the brands that block it are betting against their own funnel.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "agents",
+       "commerce",
+       "meta"
+      ],
+      "hero_url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "sources": [
+       {
+        "label": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "\"Keep Android Open\" petition picks up steam over sideloading rules",
+      "summary": "A r/androidapps post rallying against Google's upcoming Android developer verification requirements drew 142 upvotes and a petition drive, arguing Google shouldn't decide which apps run on devices people paid for. The timing is awkward for Google: it also emerged that one of its Android manufacturing partners built a backdoor into 1.3 million set-top boxes and turned them into a botnet.",
+      "why_it_matters": "Platform lock-down is becoming a values issue for a vocal slice of users, and the security justification is being undercut in the same news cycle.",
+      "what_people_say": [
+       "\"Android was built on our freedom, not corporate control. Our devices. Our choices.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "android",
+       "platforms",
+       "privacy",
+       "google"
+      ],
+      "hero_url": "https://www.reddit.com/r/androidapps/comments/1xhy3nr/keep_android_open/",
+      "sources": [
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1xhy3nr/keep_android_open/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
+       }
+      ]
+     },
+     {
+      "title": "People are noticing they don't actually use social media anymore",
+      "summary": "A r/socialmedia thread asking \"are we actually using social media, or just watching it\" captured the shift: 30 minutes of scrolling without seeing a single post from someone you follow. Alongside it, r/productivity has a run of posts about scroll-induced executive dysfunction and broken reward systems after months of passive consumption. Snap also settled a lawsuit accusing it of fuelling teen depression through autoplay and infinite scroll.",
+      "why_it_matters": "The audience is describing social feeds as television they resent, which changes what \"organic reach\" is actually worth and makes creator trust the real distribution asset.",
+      "what_people_say": [
+       "\"I can spend 30 minutes scrolling and barely see anything from someone I follow.\"",
+       "\"I think I have ruined the reward systems in my brain.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "behaviour",
+       "social",
+       "attention",
+       "wellbeing"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1xgt1qu/are_we_actually_using_social_media_or_just/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1xgt1qu/are_we_actually_using_social_media_or_just/"
+       },
+       {
+        "label": "r/productivity",
+        "url": "https://www.reddit.com/r/productivity/comments/1xkvf25/how_to_get_back_to_normal_life_after_scrolling/"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Svedka hands its Super Bowl ad to consumers after the AI backlash",
+      "summary": "Sazerac-owned Svedka is bringing back its Fembot mascot for the 2027 Super Bowl, but this time it's challenging consumers to create the ad — an explicit pivot after the backlash to the AI-generated spot it used for its big-game debut this year. The brand is effectively using crowdsourcing as an apology mechanic.",
+      "why_it_matters": "\"We let AI make it\" has become a liability worth publicly undoing, and user-generated is the cheapest available proof of human involvement.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "super bowl",
+       "ai backlash",
+       "ugc",
+       "drinks"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/svedka-fembot-super-bowl-ad?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "e.l.f. shoots its Christmas film in stop motion to make a point about AI",
+      "summary": "e.l.f. Beauty's 60-second \"Made to Stand Out\" holiday spot is hand-animated stop motion narrated by Alan Cumming, and the brand is explicitly positioning the technique as a celebration of human creativity rather than AI generation. Craft has become the message, not just the execution.",
+      "why_it_matters": "Expect \"made by hand\" to be a stated holiday positioning across categories this year — the production method is now a brand claim consumers read.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "beauty",
+       "holiday",
+       "craft",
+       "anti-ai"
+      ],
+      "hero_url": "https://www.cosmeticsbusiness.com/e-l-f-brands-opts-for-handcrafted-stop-motion-christmas-campaign",
+      "sources": [
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/e-l-f-brands-opts-for-handcrafted-stop-motion-christmas-campaign"
+       }
+      ]
+     },
+     {
+      "title": "Retailers are fighting deal fatigue and a compressed holiday calendar",
+      "summary": "Nordstrom is staggering an \"unexpected\" holiday campaign because Halloween, Thanksgiving, Black Friday and Christmas are jammed into one window, while JCPenney is building its holiday work around real people and no-fuss saving as an answer to deal fatigue. Express is extending the organic social success of its spring work into \"Holiday, Hamlin Style.\" Modern Retail's survey confirms brands are shifting tactics versus 2025, and Retail Dive argues in-store experience is where holiday spirit gets won.",
+      "why_it_matters": "Everyone has the same discount; the differentiator this season is campaign timing and whether the store visit feels worth making.",
+      "what_people_say": [
+       "Nordstrom: \"Holiday timing is a moving target.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "retail",
+       "black friday",
+       "campaigns"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/holiday-timing-is-a-moving-target-nordstrom-aims-to-cut-through-the-noise-with-an-unexpected-campaign/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/holiday-timing-is-a-moving-target-nordstrom-aims-to-cut-through-the-noise-with-an-unexpected-campaign/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/"
+       },
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/modern-retail-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/"
+       }
+      ]
+     },
+     {
+      "title": "Cotopaxi runs a product drop every other day to pre-empt Black Friday",
+      "summary": "Cotopaxi is releasing a new product every other day from Nov 1–11 under a campaign called \"Cotodays,\" designed to build awareness before the Black Friday/Cyber Monday noise wall. It's a hypebeast drop mechanic applied to an outdoor brand with a value-and-ethics story rather than a scarcity one.",
+      "why_it_matters": "Drop cadence is being used as a pre-Black-Friday attention strategy, not just as a hype tool — a tactic any brand with enough SKUs can copy.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "drops",
+       "outdoor",
+       "black friday",
+       "dtc"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/cotopaxi-adopts-a-drop-strategy-to-build-buzz-ahead-of-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/cotopaxi-adopts-a-drop-strategy-to-build-buzz-ahead-of-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "The NYC Marathon became a fashion activation weekend",
+      "summary": "Fashion brands descended on the New York City Marathon to reach the running community, the NYRR app climbed to #5 on the US App Store, and NYT Style ran a street-style gallery of runners — several extending their Halloween costumes into race day. Eliud Kipchoge did press with Footwear News while in town. Running is now a style scene with a built-in media moment.",
+      "why_it_matters": "Mass-participation sport delivers what fashion weeks increasingly don't: hundreds of thousands of participants who are also content creators and buyers.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "sport",
+       "running",
+       "fashion",
+       "activation"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/fashion-briefing-fashion-brands-are-descending-on-the-nyc-marathon-to-tap-into-the-vibrant-running-community/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/fashion-briefing-fashion-brands-are-descending-on-the-nyc-marathon-to-tap-into-the-vibrant-running-community/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html"
+       },
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/new-york-road-runners/id6742177802"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/footwear-news/sneaker-news/eliud-kipchoge-melbourne-win-world-tour-witnessing-sub-2-1239395830/"
+       }
+      ]
+     },
+     {
+      "title": "Creators are selling ad space on their walls, laptops and dogs",
+      "summary": "Marketing Brew reports creators renting out physical space inside their homes, on their laptop lids and even on their pets as a new revenue line, with brands treating it as out-of-home inventory that travels into every video. It's a response to platform payout pressure on one side and brand breakthrough problems on the other.",
+      "why_it_matters": "If the background of a creator's room is now a media buy, brand placement budgets start competing with traditional OOH at a fraction of the cost.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "creators",
+       "ooh",
+       "sponsorship",
+       "media"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/creators-selling-ad-space-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/creators-selling-ad-space-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Meowdoku has achieved total ad saturation and total hatred",
+      "summary": "A r/CommercialsIHate post about \"major Meowdoku fatigue\" pulled 282 upvotes from people who say the mobile puzzle game's ads follow them across every app, with the worst offenders being fake-authentic formats: a creator pretending to answer \"omg what game is this?\" comments, an ASMR whisper version. The same sub's top post of the week is a 310-upvote confusion about why Brand Power exists at all.",
+      "why_it_matters": "Frequency capping is a creative problem, not just a media one — the influencer-mimicking formats are what turn repetition into active brand hostility.",
+      "what_people_say": [
+       "\"I've been a victim of many annoying ads, but this is the first one I actually feel fatigued from when it comes up.\"",
+       "\"Most of the ads are AI slop, but the ones that piss me off the most are the ones of actual people pretending to play and like the game.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "mobile games",
+       "ad fatigue",
+       "media",
+       "ugc"
+      ],
+      "hero_url": "https://www.reddit.com/r/CommercialsIHate/comments/1xhw616/major_meowdoku_fatigue/",
+      "sources": [
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1xhw616/major_meowdoku_fatigue/"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1xi4gn5/i_dont_understand_brand_powers_existence/"
+       }
+      ]
+     },
+     {
+      "title": "Michael Kors found Gen Z on TikTok Shop and Kewpie found America on tour",
+      "summary": "Michael Kors says Gen-Z shoppers barely knew the brand; its TikTok Shop business is now running at nearly four times expectations heading into Black Friday. Japanese mayo brand Kewpie, meanwhile, is building US presence through social and a physical US tour years after its salmon-rice-bowl breakthrough. Two very different brands using platform-native commerce and food-culture credibility to reach an audience that had no prior relationship with them.",
+      "why_it_matters": "Heritage brands with low youth awareness have a cheap route back in — but it requires being natively present where the shopping happens rather than running awareness ads at it.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "tiktok shop",
+       "food",
+       "fashion",
+       "gen z"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/michael-kors-tiktok-shop-sales-gen-z/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/michael-kors-tiktok-shop-sales-gen-z/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/japanese-mayo-brand-kewpie-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "Heidi Klum dressed as her own severed left hand and broke the internet again",
+      "summary": "Klum's 2026 Halloween costume — a full prosthetic recreation of her own left hand, which she scurried around the red carpet in — pulled 110,000 upvotes on r/mildyinteresting and dedicated write-ups from NYT Style and Allure, which interviewed prosthetics designer Mike Marino. It marked the 25th anniversary of her Halloween party. Elsewhere, Dazed argued celeb Halloween finally moved away from overproduced Instagram shoots, with Harry Styles, Tinashe, Charli xcx, Gabbriette and Alex Consani going scrappier.",
+      "why_it_matters": "One costume still out-earns an entire season of brand Halloween content; the shift away from polished celebrity shoots is a signal for how brands should pitch next October.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "halloween",
+       "celebrity",
+       "costumes",
+       "meme"
+      ],
+      "hero_url": "https://www.reddit.com/r/mildyinteresting/comments/1xksf4h/heidi_klums_halloween_costume_2026/",
+      "sources": [
+       {
+        "label": "r/mildyinteresting",
+        "url": "https://www.reddit.com/r/mildyinteresting/comments/1xksf4h/heidi_klums_halloween_costume_2026/"
+       },
+       {
+        "label": "Allure",
+        "url": "https://www.allure.com/story/heidi-klum-hand-halloween-costume-details"
+       },
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/10/31/style/heidi-klum-halloween-costume-hand.html"
+       },
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/fashion/article/71276/1/halloween-2026-best-celebrity-costumes-harry-styles-tinashe-charli-xcx?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-best-celebrity-costumes-of-halloween-2026"
+       }
+      ]
+     },
+     {
+      "title": "#tiktokscaryhorrorcontest was the biggest hashtag on TikTok this week",
+      "summary": "The platform's own horror contest hashtag was the #1 trending tag in the US with 73.5K posts and 312.2M views in seven days — a platform-run format rather than an organic one. Behind it, #marvelrivalsavengers took #2 with 110.1K posts, and #livecanbeeasy sat at #3 with 30.2M views.",
+      "why_it_matters": "TikTok's top trend of the week was a platform-manufactured contest, which is a reminder that seasonal participation formats are as effective as any paid push — and that gaming IP is the other reliable volume engine.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "tiktok",
+       "halloween",
+       "formats",
+       "ugc"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/tiktokscaryhorrorcontest"
+       },
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/marvelrivalsavengers"
+       },
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/livecanbeeasy"
+       }
+      ]
+     },
+     {
+      "title": "\"W Chews\" and \"L Nibbles\" is the new food-review slang",
+      "summary": "W Chews and L Nibbles — meaning good food and bad food, from the W/L win/loss slang — have spread across TikTok and Reels via a run of AI-generated brainrot clips featuring reality TV producer Jay Thomas Manuel, aka Mini Producer, eating and judging food. Know Your Meme documented the format this week.",
+      "why_it_matters": "It's a ready-made food verdict format with two words and a binary, which is exactly the kind of thing a snack or QSR brand can ride — and exactly the kind of AI-generated meme that gets awkward when a brand touches it.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "meme",
+       "food",
+       "slang",
+       "ai"
+      ],
+      "hero_url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles"
+       }
+      ]
+     },
+     {
+      "title": "Jennifer Lawrence's Cut cover turned a haircare launch into a face debate",
+      "summary": "Lawrence spoke openly about cosmetic procedures in an Oct 27 cover story while promoting her haircare brand, Mes. The photos triggered a wave of speculation and memes about her appearance, plus a substantial counter-wave pushing back on the pile-on. The brand launch became secondary to the discourse.",
+      "why_it_matters": "Founder-led beauty launches now come with a face-scrutiny tax; honesty about procedures buys credibility with some audiences and hands content to the pile-on economy with others.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "celebrity",
+       "discourse",
+       "meme"
+      ],
+      "hero_url": "https://knowyourmeme.com/videos/441015-jennifer-lawrence-plastic-surgery",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/videos/441015-jennifer-lawrence-plastic-surgery"
+       }
+      ]
+     },
+     {
+      "title": "Comedians are the new faces of fashion campaigns",
+      "summary": "Glossy's podcast this week tracked how fashion brands have moved past athletes, musicians and influencers to cast comedians, with campaigns getting noticeably funnier through the autumn season. It fits a broader anti-polish mood — the same reason celebrity Halloween got scrappier and Ouai is making web series instead of 15-second cutdowns.",
+      "why_it_matters": "Humour is the cheapest available differentiator in a season where every brand is running the same discount, and comedians bring audiences that treat ads as content.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "humour",
+       "casting",
+       "creators"
+      ],
+      "hero_url": "https://www.glossy.co/podcasts/can-fashion-be-funny-how-comedians-became-the-faces-of-fall/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/podcasts/can-fashion-be-funny-how-comedians-became-the-faces-of-fall/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Food-themed fashion has tipped into gluttony",
+      "summary": "Eater called time on the trend: a baguette-shaped purse once felt subversive, now Moschino has a trompe l'oeil celery bag and Big Bud Press is doing hot-dog-and-pretzel-print jumpsuits. The novelty-food-print aesthetic has saturated to the point where it reads as default rather than joke.",
+      "why_it_matters": "A reliable collab shortcut for food brands entering fashion just lost its surprise value — the next food-brand merch drop needs a different idea.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "fashion",
+       "food",
+       "collab",
+       "aesthetics"
+      ],
+      "hero_url": "https://www.eater.com/trends/996747/food-fashion-print-trend",
+      "sources": [
+       {
+        "label": "Eater",
+        "url": "https://www.eater.com/trends/996747/food-fashion-print-trend"
+       }
+      ]
+     },
+     {
+      "title": "People miss MakeupAlley because product research has become a part-time job",
+      "summary": "A r/BeautyGuruChatter thread asked whether MakeupAlley could exist in 2026, with the poster describing days of trawling Reddit threads and videos just to work out whether a blush is any good. The same sub is laughing at engagement-bait formats like holding a palette in your mouth to apply eyeshadow. Discovery is abundant; verdicts are scarce.",
+      "why_it_matters": "There is a real gap for trustworthy, fast product verdicts — and the brands that win are the ones whose reviews are easy to find and hard to fake.",
+      "what_people_say": [
+       "\"I used to be able to go to makeupalley and get the tldr of how a blush would perform in like 10 minutes.\"",
+       "\"The sheer number of (seemingly) new formulas to come out in the past few years is overwhelming.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "reviews",
+       "discovery",
+       "nostalgia"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xll143/could_makeupalley_exist_in_2026/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xll143/could_makeupalley_exist_in_2026/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xhy0yy/trends_that_are_so_stupid_they_become_funny/"
+       }
+      ]
+     },
+     {
+      "title": "Gen Z discovered Freddy Krueger through Fortnite and tried to cancel him",
+      "summary": "Know Your Meme documented an October wave of posts and TikToks claiming people were trying to cancel Freddy Krueger, driven by younger fans who met the character in Fortnite, then went digging into his backstory and reopened the old argument about the original script versus the 2010 remake.",
+      "why_it_matters": "Game crossovers are now the primary discovery route for legacy horror IP, and they bring a generation that will re-litigate the source material rather than accept it as canon.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "gaming",
+       "ip",
+       "discourse",
+       "horror"
+      ],
+      "hero_url": "https://knowyourmeme.com/videos/441017-freddy-krueger-cancelled",
+      "sources": [
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/videos/441017-freddy-krueger-cancelled"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Cotopaxi \"Cotodays\" drop run",
+    "when": "Nov 1–11",
+    "angle": "A new product every other day as a pre-Black-Friday awareness play; worth watching whether staggered drops beat one big discount day."
+   },
+   {
+    "name": "Singles' Day (11.11)",
+    "when": "Nov 11",
+    "angle": "The biggest global shopping day lands the same week US brands start early Black Friday pricing, so expect overlapping promotional calendars and consumer deal fatigue commentary."
+   },
+   {
+    "name": "Veterans Day",
+    "when": "Nov 11",
+    "angle": "Service discounts and tribute creative; low-risk but easy to get wrong if the brand has no actual programme behind it."
+   },
+   {
+    "name": "New Apple TV 4K launch",
+    "when": "Nov 13",
+    "angle": "Apple released an updated tvOS 27.2 build ahead of it; a hardware refresh landing right at the start of holiday gifting windows and streaming bundle promos."
+   },
+   {
+    "name": "Anthropic IPO",
+    "when": "Expected this month",
+    "angle": "After reporting ~$17B quarterly revenue and a $23B net loss, the listing will set the public temperature on the AI bubble debate that brand and agency AI positioning is riding on."
+   },
+   {
+    "name": "Early Black Friday deal wave",
+    "when": "Nov 2–23",
+    "angle": "Espresso machines, earphones and the Apple Watch Ultra 4 are already discounted; the real Nov 27 date now functions as the end of a month-long promo, not the start."
+   },
+   {
+    "name": "Thanksgiving prep content season",
+    "when": "Nov 9–26",
+    "angle": "Food media is already pushing gravy-braised turkey, Instant Pot sides and sommelier wine picks — the window for food and drink brands to attach to a recipe rather than a discount."
+   }
+  ]
+ },
+ "signal_count": 1203,
+ "source_counts": {
+  "reddit": 482,
+  "bluesky": 280,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 323,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "8c83140ba6.jpg",
+  "products:1": "52ab547452.jpg",
+  "products:2": "5f224da867.jpg",
+  "products:3": "9f5738dcbe.jpg",
+  "products:4": "1a1e907d40.jpg",
+  "products:6": "fc762e94ef.webp",
+  "products:7": "c540c8d45d.png",
+  "digital:0": "0a6e634b96.jpg",
+  "digital:2": "06912b4bf3.webp",
+  "digital:3": "76c3a017cd.webp",
+  "digital:4": "6be59b472a.png",
+  "digital:5": "f9c3dd7719.jpg",
+  "campaigns:0": "14815c6118.webp",
+  "campaigns:1": "14034d096f.png",
+  "campaigns:2": "af332b9db5.png",
+  "campaigns:3": "64f8e7aaee.jpg",
+  "campaigns:4": "1bc1b00bc6.jpg",
+  "campaigns:5": "d3e7a3226a.jpg",
+  "campaigns:6": "4d2c32bb22.jpg",
+  "campaigns:7": "901010657b.png",
+  "culture:0": "0e15a7f681.jpg",
+  "culture:2": "4fb567c5a6.jpg",
+  "culture:3": "f56f74bac1.jpg",
+  "culture:4": "8f269fd943.jpg",
+  "culture:5": "f469f9b8e5.jpg",
+  "culture:7": "0c1031e66c.jpg",
+  "digital:1": "043da61c97.jpg",
+  "digital:6": "dcfd7c5618.jpg",
+  "digital:7": "acb0178c0f.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
