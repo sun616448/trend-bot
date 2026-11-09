@@ -1,0 +1,943 @@
+{
+ "week": "2026-W46",
+ "generated_at": "2026-11-09T21:50:36.737015Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "Nvidia's CEO scandal swallows the AI news cycle while shoppers argue about advent calendars and Sephora order mix-ups",
+  "tldr": [
+   "Jensen Huang's admitted affair with an alleged Chinese spy became the week's biggest story across Hacker News, Reddit and meme accounts, and knocked Nvidia stock down over 4%.",
+   "Holiday retail is live: Starbucks' tiramisu velvet latte is a Reddit obsession, Skims' $150 advent calendar is getting refund requests, and Sephora's sale fulfilment chaos is the running joke on r/Sephora.",
+   "Anti-AI sentiment is now a consumer stance: ten states voted to ban data centres, Subaru's AI dog ad is being trashed, and Levi's is selling claymation as a virtue.",
+   "TikTok Shop launched a paid Plus tier for its top million US shoppers right before peak season.",
+   "Handmade is the aesthetic flex of the week, from an 11k-upvote homemade duck handbag to a $72 bespoke suit."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "Starbucks' iced tiramisu velvet latte is this year's holiday drop obsession",
+      "summary": "The holiday menu landed and the tiramisu velvet latte immediately became the thing baristas and customers post about; one partner joined r/starbucks purely to talk about it after a third 16-hour shift. The rest of the lineup is getting a harsher read, with the new short rib grilled cheese mocked as false advertising next to its menu photo.",
+      "why_it_matters": "The seasonal LTO still drives more genuine word of mouth than any paid holiday push, but the food side of the menu is now the credibility risk.",
+      "what_people_say": [
+       "\"I have never chugged a latte like it's water... get the drink.\"",
+       "\"Talk about false advertisement — Starbucks sandwiches get worse and worse.\"",
+       "Store leads are reminding each other that holiday launch week is when partners need green apron cards most."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "food and drink",
+       "starbucks",
+       "holiday",
+       "lto"
+      ],
+      "hero_url": "https://www.reddit.com/r/starbucks/comments/1xohulv/holy_crap/",
+      "sources": [
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xohulv/holy_crap/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xpj7w9/short_rib_grilled_cheese/"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xokdll/holiday_launch_partner_care/"
+       }
+      ]
+     },
+     {
+      "title": "Sephora's sale fulfilment is a lottery and shoppers are posting the receipts",
+      "summary": "Post-sale threads on r/Sephora are dominated by order mix-ups: one shopper ordered two fragrance sampler sets and received eight, another ordered a Danessa Myricks palette and got a $250 Dyson Airwrap instead, while others got wholesale multipacks. The flipside is equally loud, with Rouge members posting about lost packages and swearing off the retailer. Separately, the hyped Pink Frosting lip product is getting the \"this is it?\" treatment.",
+      "why_it_matters": "Fulfilment errors are now content, and the same thread that generates free hype also broadcasts your logistics problems to hundreds of thousands of beauty buyers.",
+      "what_people_say": [
+       "\"Bought two, received 8 — my entire year is made.\"",
+       "\"Ordered Danessa, got Dyson. Not sure how to feel lol.\"",
+       "\"I'm rouge and this is how I'm treated? I'll gladly pay full price ordering directly from the brand.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "beauty",
+       "retail",
+       "sephora",
+       "fulfilment"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1xnyq2a/ordered_danessa_got_dyson/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xn5zv4/sale_win_bought_two_received_8/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xnyq2a/ordered_danessa_got_dyson/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xp4fyz/never_have_been_treated_so_poorly/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xmi8ow/you_guys_lied_to_meee/"
+       }
+      ]
+     },
+     {
+      "title": "Skims' $150 advent calendar disappoints the people who bought it",
+      "summary": "Customers who paid $150 for Kim Kardashian's Skims advent calendar opened it to find what the New York Times described as looking like the detritus in their handbags, and are now asking for refunds. It lands in a season where advent calendars have spread to hot sauce, tinned fish and artisanal jam, raising the bar for what counts as a worthwhile 24-door box.",
+      "why_it_matters": "Advent calendars are now a category, not a gimmick, and a thin one from a brand with high price expectations turns into an unboxing backlash in a day.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "fashion",
+       "holiday",
+       "skims",
+       "backlash"
+      ],
+      "hero_url": "https://www.nytimes.com/2026/11/09/style/skims-advent-calendar-refunds.html",
+      "sources": [
+       {
+        "label": "NYT Style",
+        "url": "https://www.nytimes.com/2026/11/09/style/skims-advent-calendar-refunds.html"
+       },
+       {
+        "label": "Bon Appétit",
+        "url": "https://www.bonappetit.com/story/theres-an-advent-calendar-for-almost-everything"
+       }
+      ]
+     },
+     {
+      "title": "Loewe x The Nightmare Before Christmas spreads across handbag forums",
+      "summary": "More pieces from the Loewe and Nightmare Before Christmas collection surfaced this week and got thousands of upvotes on r/handbags, while Tim Burton did a press run for the collaboration talking about Blackpool Pleasure Beach as his favourite place on earth. It is the rare luxury licence that people are reposting for the design rather than the logo.",
+      "why_it_matters": "A thirty-year-old film property is carrying a luxury house into holiday gifting conversation without a single ad buy visible in the chatter.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "collab",
+       "luxury",
+       "holiday"
+      ],
+      "hero_url": "https://www.reddit.com/r/handbags/comments/1xphcpz/more_of_the_loewe_nightmare_before_christmas/",
+      "sources": [
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1xphcpz/more_of_the_loewe_nightmare_before_christmas/"
+       }
+      ]
+     },
+     {
+      "title": "AppleCare+ claim glitch and the rumoured death of the Action button",
+      "summary": "A warning post about AppleCare+ claims being mishandled pulled over 15,000 upvotes on r/iphone, with the poster sharing an email from Apple and a recorded admission from an AIG supervisor about a known system glitch. At the same time, a MacRumors report that Apple may drop the Action button next year set off a 3,600-upvote argument on r/apple, where most people would rather lose the Camera Control button.",
+      "why_it_matters": "Apple's premium service and hardware decisions are being litigated in public by its most loyal customers, which is where warranty trust actually gets built or lost.",
+      "what_people_say": [
+       "\"This post obviously has ruffled some feathers... somewhere in this thread is the recorded admission of a known system glitch.\"",
+       "\"Personally I'd get rid of the Camera Control button first. I used the Action button once.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "gadgets",
+       "apple",
+       "service",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/iphone/comments/1xq6lky/warning_to_all_applecare_customers/",
+      "sources": [
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xq6lky/warning_to_all_applecare_customers/"
+       },
+       {
+        "label": "r/apple",
+        "url": "https://www.reddit.com/r/apple/comments/1xpf5c5/apple_rumored_to_drop_the_iphones_action_button/"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xph5um/apple_rumored_to_drop_the_iphones_action_button/"
+       }
+      ]
+     },
+     {
+      "title": "Blend Bunny's Ellis V3 palettes win the week, but the brand's goodwill is fraying",
+      "summary": "A beetle-inspired eye look built with Blend Bunny's Ellis V3 and V3 shimmer palettes pulled over 4,000 upvotes on r/MakeupAddiction, with the creator calling the colour story their favourite ever. Days later the brand announced an all-neutral palette with Jordan Liberty called Undertones for November 13, and r/BeautyGuruChatter immediately brought up an unacknowledged formula change the brand denied on Instagram.",
+      "why_it_matters": "Indie beauty momentum lives and dies on forum trust: the product posts sell the palette, the formula-change receipts cap how far it travels.",
+      "what_people_say": [
+       "\"Perfect colour pay off, formula — especially on those shimmers — and the colour story is hands down my favourite ever.\"",
+       "\"I'm not over Blend Bunny changing the formula and gaslighting customers about it on Insta.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "indie",
+       "palette",
+       "launch"
+      ],
+      "hero_url": "https://www.reddit.com/r/MakeupAddiction/comments/1xpjmlg/beetle_inspired_eyeshadow/",
+      "sources": [
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1xpjmlg/beetle_inspired_eyeshadow/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xqbhau/blendbunny_jordan_liberty_announcing_a_new_large/"
+       }
+      ]
+     },
+     {
+      "title": "Poppi's founders are back with Jetty, a hydration brand aimed at Gatorade",
+      "summary": "Allison and Stephen Ellsworth, who built and sold Poppi, launched Jetty this week: bottled drinks and electrolyte powders with lower sodium, positioned for everyday drinkers rather than athletes, landing at Whole Foods, Target and Amazon.",
+      "why_it_matters": "The Poppi playbook — founder-fronted social, mainstream retail from day one, a legacy category to attack — is being run again, this time against PepsiCo's biggest sports drink while Pepsi cuts 1,000 North American jobs.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "food and drink",
+       "launch",
+       "beverage",
+       "dtc"
+      ],
+      "hero_url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "sources": [
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html"
+       },
+       {
+        "label": "Food Dive",
+        "url": "https://www.fooddive.com/news/poppi-cofounders-launch-hydration-brand-jetty/874094/"
+       }
+      ]
+     },
+     {
+      "title": "Wendy's bets on thicker bacon and no breakfast",
+      "summary": "Wendy's rejected a $1.4 billion buyout offer and laid out a turnaround plan built on menu quality: thicker bacon, upgraded staples and stepping back from breakfast. r/fastfood racked up nearly 500 comments arguing about whether better ingredients or cheaper combos bring people back, as Burger King and Chipotle make similar food-quality moves.",
+      "why_it_matters": "The discount war is giving way to a quality war in QSR, and consumers are openly sceptical that \"improved\" means anything.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "food and drink",
+       "qsr",
+       "wendys",
+       "menu"
+      ],
+      "hero_url": "https://www.reddit.com/r/fastfood/comments/1xotsaq/thicker_bacon_and_ditching_breakfast_wendys_hopes/",
+      "sources": [
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1xotsaq/thicker_bacon_and_ditching_breakfast_wendys_hopes/"
+       },
+       {
+        "label": "r/fastfood",
+        "url": "https://www.reddit.com/r/fastfood/comments/1xoq7an/wendys_rejects_14_billion_buyout_offer/"
+       },
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "Nvidia's Jensen Huang scandal becomes the AI industry's meme of the week",
+      "summary": "Huang admitted in a letter to staff that he had an affair with a woman US intelligence believes was recruited by China's spy agency; Nvidia's board opened an independent investigation, the stock fell more than 4% while AMD and Broadcom jumped, and Huang pulled out of the ElevenLabs Summit and an Anthropic event. Online the reaction was instant and unserious, from BuzzFeed's roundup of \"popped the AI bubble with his d*ck\" jokes to Deus Ex fans asking why everyone was suddenly posting about Jensen and Chinese spies.",
+      "why_it_matters": "The single most-used human face of the AI boom is now a liability, which matters for every brand that has built keynote moments, chip partnerships or AI credibility around him.",
+      "what_people_say": [
+       "\"I was unfaithful to my wife... there is no excuse for what I did. I am deeply sorry.\"",
+       "\"Me, a Deus Ex fan: why is everyone talking about Jensen and Chinese spies, is there a new...? Oh.\"",
+       "A Hacker News thread on his staff letter drew over 1,100 comments in a day."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "nvidia",
+       "crisis",
+       "memes"
+      ],
+      "hero_url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
+      "sources": [
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+       },
+       {
+        "label": "BuzzFeed",
+        "url": "https://www.buzzfeed.com/mariamsharia/jensen-huang-nvidia-ceo-cheating-scandal-memes"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+       },
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy"
+       }
+      ]
+     },
+     {
+      "title": "Every state that put data centres on the ballot voted to ban them",
+      "summary": "A New Republic piece reporting that all ten states with data centre ballot initiatives voted to ban them drew more than 35,000 upvotes on r/technology, the biggest tech thread of the week outside the Nvidia story. It lands alongside sceptical coverage of the latest global pledge to use AI for climate good.",
+      "why_it_matters": "AI infrastructure has become a local-politics issue with real consumer hostility attached, which raises the risk of any brand messaging that leans on \"powered by AI\" as a benefit.",
+      "what_people_say": [
+       "Commenters framed it as the first clear referendum on who actually pays for the AI build-out.",
+       "\"Reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer.\""
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "data centres",
+       "backlash",
+       "policy"
+      ],
+      "hero_url": "https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/",
+      "sources": [
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
+       }
+      ]
+     },
+     {
+      "title": "TikTok Shop launches a paid membership for its top one million US shoppers",
+      "summary": "TikTok Shop Plus is a paid premium tier aimed at the platform's heaviest buyers, launched in time for the holiday season. It is TikTok's clearest move yet from impulse-buy feed commerce toward recurring, loyalty-style retail.",
+      "why_it_matters": "If TikTok can get its best shoppers onto a subscription, brands selling there inherit a Prime-style customer base with different expectations on delivery, pricing and returns.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "social commerce",
+       "tiktok",
+       "subscription",
+       "retail"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
+      "sources": [
+       {
+        "label": "App Store top free (US)",
+        "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320"
+       }
+      ]
+     },
+     {
+      "title": "Anthropic ships Claude Fable and Mythos 5.2 while Claude Code keeps leaking trust",
+      "summary": "Anthropic released two new frontier models ahead of its IPO, claiming gains in coding, reasoning and vision. The same week, Hacker News lit up over Claude Code sending users' email addresses to websites, its \"Don't Ask Again\" setting exposing passwords in over 1,100 public GitHub files, Goldman Sachs pulling Claude Code from bankers and traders, and users insisting Opus 5.5 was quietly nerfed on November 3.",
+      "why_it_matters": "Model launches no longer land on their own: the developer community's security and \"did they degrade it\" complaints now travel further than the release notes.",
+      "what_people_say": [
+       "\"Is Opus 5.5 nerfed? Thinking patterns changed on November 3.\"",
+       "Developers posting \"Goodbye Claude, hello Pi\" switching threads drew hundreds of comments."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "anthropic",
+       "developers",
+       "trust"
+      ],
+      "hero_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "sources": [
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://github.com/anthropics/claude-code/issues/107757"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+       }
+      ]
+     },
+     {
+      "title": "Search behaviour is splitting between Google and chatbots",
+      "summary": "A report that ChatGPT's search volume is now roughly 20% of Google's circulated widely on r/artificial, with commenters reading it as proof people were fed up with Google results. Meanwhile Google is enhancing AI Overviews in ways that make the CMA-mandated opt-out less appealing for publishers, and reportedly told schools that reject its AI they will lose Search.",
+      "why_it_matters": "Discovery budgets built around ten blue links need a second plan: a fifth of query volume is now happening somewhere brands cannot bid on.",
+      "what_people_say": [
+       "\"People were really sick of Google, huh?\"",
+       "Publishers say they still cannot see click data to judge whether opting out of AI Overviews costs them traffic."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "search",
+       "seo",
+       "publishers"
+      ],
+      "hero_url": "https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/",
+      "sources": [
+       {
+        "label": "r/artificial",
+        "url": "https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/"
+       },
+       {
+        "label": "Hacker News",
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+       }
+      ]
+     },
+     {
+      "title": "Ogilvy and CAA will clone celebrities for AI ads, and Instagram will generate your filters",
+      "summary": "Ogilvy launched Echo with CAA, a system for licensing and cloning talent such as Terry Crews and athletes for AI-generated ads that will carry disclosure labels. Instagram separately rolled out an Effect Builder that spins up custom Story filters from a text prompt for US users over 18.",
+      "why_it_matters": "Synthetic talent and prompt-made effects move AI from the pitch deck into production workflows, and the disclosure label becomes the only thing standing between a campaign and an AI-slop pile-on.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "advertising",
+       "talent",
+       "instagram"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+       }
+      ]
+     },
+     {
+      "title": "Shopping moves into the chat window",
+      "summary": "Amazon began rolling out a text-to-shop agent letting select US customers buy by messaging Alexa, with wider release promised in weeks. At the same time OpenAI's monetization chief told ad partners that privacy rules mean some targeting \"we just can't\" do, and distanced himself from the reported $100 billion ad revenue target.",
+      "why_it_matters": "The two biggest potential AI shopping surfaces are setting their rules now: Amazon wants the transaction, OpenAI is signalling how little data advertisers will get.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "commerce",
+       "amazon",
+       "openai"
+      ],
+      "hero_url": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
+      "sources": [
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/"
+       },
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/media/openais-monetization-chief-to-ad-partners-user-trust-means-some-things-we-just-cant-do/"
+       }
+      ]
+     },
+     {
+      "title": "LG sued over smart TV tracking as ACR opt-outs get ignored",
+      "summary": "LG is facing legal action over allegations its smart TVs kept collecting automatic content recognition data despite opt-outs, with other manufacturers potentially next. The thread pulled nearly 9,500 upvotes on r/gadgets, where people swapped ways to cut their TVs off the internet entirely.",
+      "why_it_matters": "ACR data underpins a lot of CTV targeting; if opt-out enforcement tightens, the addressable TV pitch gets harder to make.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "privacy",
+       "ctv",
+       "adtech",
+       "gadgets"
+      ],
+      "hero_url": "https://www.reddit.com/r/gadgets/comments/1xpv4vb/lg_faces_legal_action_over_alleged_smart_tv/",
+      "sources": [
+       {
+        "label": "r/gadgets",
+        "url": "https://www.reddit.com/r/gadgets/comments/1xpv4vb/lg_faces_legal_action_over_alleged_smart_tv/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Levi's sells claymation as the antidote to AI ads, while Subaru gets roasted for a synthetic puppy",
+      "summary": "Levi's holiday campaign is handmade claymation explicitly framed against AI bloat, following a back-to-school effort the CEO admitted underdelivered. The contrast is sharp on r/CommercialsIHate, where Subaru's AI-generated dog spots are being picked apart frame by frame, with people pointing out the dog appears to move at about 20fps.",
+      "why_it_matters": "Craft is becoming a positioning claim in its own right this quarter, and the downside of the cheap route is now measured in audience contempt rather than savings.",
+      "what_people_say": [
+       "\"I hurt for the families of the folks that lost work because Subaru went AI with these commercials.\"",
+       "\"Lazy marketing and not even impressive looking.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "holiday",
+       "ai",
+       "craft",
+       "backlash"
+      ],
+      "hero_url": "https://www.retaildive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873842/",
+      "sources": [
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873842/"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1xmmb7g/oh_look_its_a_puppy_hes_so_cute_i_dont_care_this/"
+       }
+      ]
+     },
+     {
+      "title": "Publicis dunks on WPP's CEO in an Instagram carousel",
+      "summary": "Publicis Groupe posted a public open letter to WPP's Cindy Rose on Instagram — \"Hey @wpp, we're not angry, we're just disappointed\" — rebutting her earnings-call suggestion that Publicis wins business on a \"CEO handshake.\" r/advertising picked it apart within hours, treating it as a sign of how exposed holding companies feel right now.",
+      "why_it_matters": "Holding-company beef is now played out in the same social formats as consumer brands, and it doubles as recruitment and client signalling in a shaky agency market.",
+      "what_people_say": [
+       "\"Claiming we win on a 'CEO handshake' is an insult to clients' intelligence.\"",
+       "Agency staff in the thread tied it to the broader \"is the ad agency business dying\" mood."
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "agencies",
+       "social",
+       "beef",
+       "publicis"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1xoonxp/publicis_takes_shots_at_wpps_cindy_rose_via/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xoonxp/publicis_takes_shots_at_wpps_cindy_rose_via/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xn4qrv/is_the_ad_agency_business_dying/"
+       }
+      ]
+     },
+     {
+      "title": "Pepsi's holiday push puts soda in Santa's hands",
+      "summary": "Pepsi is expanding its holiday retail presence and running a soda-for-Santa idea as an extension of its \"Food Deserves Pepsi\" platform, with more spend against football. It arrives in the same week PepsiCo said it will cut about 1,000 North American jobs as home-market sales struggle.",
+      "why_it_matters": "A direct swipe at Coke's ownership of Christmas, launched from a weaker position — watch whether the retail execution or the creative does the lifting.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "holiday",
+       "beverage",
+       "pepsi",
+       "retail"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/"
+       },
+       {
+        "label": "CNBC Retail",
+        "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
+       }
+      ]
+     },
+     {
+      "title": "Holiday experiential goes physical: Lands' End tree farm, Hilton in Times Square",
+      "summary": "Lands' End built a Holiday Tree Farm experience that its new CMO says feeds an always-on marketing calendar rather than being a one-off stunt, while Hilton took over part of Times Square to mark a new campaign and its move from the NYSE to Nasdaq, whisking passersby away in more ways than one.",
+      "why_it_matters": "Pop-ups are being justified as content factories now, not footfall plays — the brief is how many assets and how much owned data the build generates.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "experiential",
+       "popup",
+       "holiday",
+       "travel"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/experiential-examined-hilton-brings-quiet-luxury-times-square-travelers/1974751"
+       }
+      ]
+     },
+     {
+      "title": "Apple hands Apple Pay to Edgar Wright",
+      "summary": "Apple's new Apple Pay spot is directed by Edgar Wright, leaning on the kinetic action-comedy style of Baby Driver to sell a payments feature most people already have. It is Apple returning to director-led craft for a utility product.",
+      "why_it_matters": "A reminder that for commoditised features, the only differentiator left is execution — and naming the director is part of the campaign.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "apple",
+       "film",
+       "payments",
+       "craft"
+      ],
+      "hero_url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+      "sources": [
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "#bluewave and the campaign-as-creator-channel playbook",
+      "summary": "#bluewave was the second-biggest hashtag on US TikTok this week with 87.6K posts and 456 million views, and the post-election content that travelled furthest was creator-made: a breakdown of the social team behind Jon Ossoff's campaign, winners photographed at Whataburger, and Doja Cat swapping \"paint the town red\" for \"paint the town blue.\" Observers credited viral short-form video, not ad buys, for several results.",
+      "why_it_matters": "Whatever your politics, the formats that won attention this week — fast-turn creator teams, a brand backdrop like Whataburger, a lyric swap — are the same ones brands are buying, and they just got a very public case study.",
+      "what_people_say": [
+       "\"His campaign videos during the wildfire smoke this summer went viral.\"",
+       "\"When this man becomes senator, I want whoever was behind his ad campaign to get a Scrooge McDuck vault full of money.\"",
+       "A photo of newly elected officials at Whataburger drew nearly 30,000 upvotes as \"picture of the day.\""
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "tiktok",
+       "creators",
+       "shortform",
+       "formats"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/bluewave",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/bluewave"
+       },
+       {
+        "label": "r/Fauxmoi",
+        "url": "https://www.reddit.com/r/Fauxmoi/comments/1xnrk7v/the_social_creator_team_behind_jon_ossoffs/"
+       },
+       {
+        "label": "r/popculturechat",
+        "url": "https://www.reddit.com/r/popculturechat/comments/1xoe68r/doja_cat_changes_the_lyrics_to_paint_the_town_red/"
+       },
+       {
+        "label": "r/Fauxmoi",
+        "url": "https://www.reddit.com/r/Fauxmoi/comments/1xnilv4/picture_of_the_day_senatorelect_james_talarico/"
+       }
+      ]
+     },
+     {
+      "title": "Spotting AI slop is now a consumer skill",
+      "summary": "People are getting specific about the tells. A widely shared Bluesky post listed the design signatures of AI-built sites (eyebrow text above headers, paired fonts, all caps) as things to remove if you do not want to look like slop. Archive.org was told to \"read the room\" for serving AI-generated material on an archival site, and a reporter was criticised for using ChatGPT to \"brighten and sharpen\" images on the grounds that those tools invent detail.",
+      "why_it_matters": "Audiences have built a working visual and editorial vocabulary for detecting AI output, which means sloppy generative work now damages credibility rather than just looking cheap.",
+      "what_people_say": [
+       "\"Want your app or website to look less like AI slop? Remove eyebrows over headers, pick one font, less is more.\"",
+       "\"Hey archive.org, read the room a little?? You're an archival website.\"",
+       "\"The way those tools work is by adding fictionalized details.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "design",
+       "discourse",
+       "trust"
+      ],
+      "hero_url": "https://bsky.app/profile/dame.is/post/3mznrxbk5j22y",
+      "sources": [
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/dame.is/post/3mznrxbk5j22y"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/invisibleup.com/post/3mzrgro7u4c27"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/notalawyer.bsky.social/post/3mzma5e5pwk25"
+       }
+      ]
+     },
+     {
+      "title": "Handmade is the status symbol",
+      "summary": "A father's homemade duck handbag for his daughter pulled nearly 12,000 upvotes on r/handbags, followed by the seahorse bag he made first. On r/malefashionadvice, a bespoke suit made for $72 — $22 of fabric, $50 to a tailor of twenty years — drew 2,400 upvotes and a long thread about how impossible that feels at Western prices.",
+      "why_it_matters": "The same audience that is ruthless about AI-made content is rewarding visible human labour, which is exactly the lane Levi's and other brands are moving into this quarter.",
+      "what_people_say": [
+       "\"Watching her light up and immediately fall in love with it is something I'll never forget.\"",
+       "\"The fabric cost me around $22, and I paid another $50 for a good tailor.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "craft",
+       "handmade",
+       "fashion",
+       "community"
+      ],
+      "hero_url": "https://www.reddit.com/r/handbags/comments/1xm98iz/made_a_duck_bag_for_my_daughter/",
+      "sources": [
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1xm98iz/made_a_duck_bag_for_my_daughter/"
+       },
+       {
+        "label": "r/handbags",
+        "url": "https://www.reddit.com/r/handbags/comments/1xp34or/i_posted_my_duck_bag_here_a_few_days_ago_as_my/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xm4u6b/friends_wedding/"
+       }
+      ]
+     },
+     {
+      "title": "The Starbucks boycott collides with holiday launch week",
+      "summary": "Starbucks Workers United is pushing an outright boycott of standalone corporate stores, with the AFL-CIO amplifying \"No contract? No coffee!\" The timing is pointed: one store was closed on holiday drink launch day, and r/starbucks discovered it had voted to unionise and was still bargaining over hours, a $17 starting wage and the dress code.",
+      "why_it_matters": "A labour dispute is now wrapped around the most valuable fortnight in the brand's calendar, and the drink hype and the boycott are circulating in the same feeds.",
+      "what_people_say": [
+       "\"Customers, it's time to help us tell Starbucks enough is enough. BOYCOTT STARBUCKS!\"",
+       "\"America's unions stand in solidarity with our Starbucks baristas in their fight for a fair contract.\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "labour",
+       "boycott",
+       "starbucks",
+       "discourse"
+      ],
+      "hero_url": "https://bsky.app/profile/sbworkersunited.org/post/3mzqvovzfr22z",
+      "sources": [
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/sbworkersunited.org/post/3mzqvovzfr22z"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/aflcio.org/post/3mzoi4ppmx224"
+       },
+       {
+        "label": "r/starbucks",
+        "url": "https://www.reddit.com/r/starbucks/comments/1xokh9a/starbucks_closed_on_holiday_drop_day/"
+       }
+      ]
+     },
+     {
+      "title": "Matte lips and 90s base are pulling beauty away from glow",
+      "summary": "Cosmetics Business argues the glow era is ending as matte lips return, powered by nostalgia and maximalist makeup but with skincare ingredients built in. The forums agree: a 3,400-upvote r/MakeupAddiction thread tried to reverse-engineer how 90s celebrities got their almost-blush-free base, with people sending each other to Kevyn Aucoin's books on the Internet Archive.",
+      "why_it_matters": "The reference point for \"good skin\" is shifting from dewy and filtered to matte and structured, which changes product briefs, shade naming and how base products are demoed.",
+      "what_people_say": [
+       "\"I'm currently reading the Kevyn Aucoin books on the internet archive because of your recommendations.\"",
+       "Others are still chasing the opposite — \"that diffused glowy airbrushed look\" — and failing."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "aesthetics",
+       "nostalgia",
+       "makeup"
+      ],
+      "hero_url": "https://www.reddit.com/r/MakeupAddiction/comments/1xnx9qh/how_did_celebrities_achieve_this_base_in_the_90s/",
+      "sources": [
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1xnx9qh/how_did_celebrities_achieve_this_base_in_the_90s/"
+       },
+       {
+        "label": "Cosmetics Business",
+        "url": "https://www.cosmeticsbusiness.com/is-the-glow-over-why-matte-lips-are"
+       },
+       {
+        "label": "r/MakeupAddiction",
+        "url": "https://www.reddit.com/r/MakeupAddiction/comments/1xoihug/how_to_achieve_this_look_in_makeup/"
+       }
+      ]
+     },
+     {
+      "title": "Menswear is bored of beige",
+      "summary": "A 1,600-upvote r/malefashionadvice post complained that every basics brand ships the same white, black, grey, tan and \"neutral\" navy, and asked where loud colour went. Alongside it, a 58-year-old's fedora-driven style reinvention drew 1,800 upvotes and genuine advice, and a man asked whether his outfit would read as an \"eccentric lunatic\" to his girlfriend's parents.",
+      "why_it_matters": "There is visible demand for colour and character in men's basics at a time when almost every brand has converged on the same muted palette.",
+      "what_people_say": [
+       "\"I'm so sick of neutral/safe/muted colors. I want LOUD.\"",
+       "\"Not really reinventing... I discovered that I love a good fedora.\"",
+       "\"Is there anything I can do to come off as sane while still looking cool??\""
+      ],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "menswear",
+       "colour",
+       "discourse"
+      ],
+      "hero_url": "https://www.reddit.com/r/malefashionadvice/comments/1xre16f/im_so_sick_of_neutralsafemuted_colors_i_want_loud/",
+      "sources": [
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xre16f/im_so_sick_of_neutralsafemuted_colors_i_want_loud/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xq6c45/reinventing_myself_at_58_years_old/"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1xq8ky9/meeting_my_gf_parents_tonight/"
+       }
+      ]
+     },
+     {
+      "title": "Subscription fatigue is turning into deal-hacking",
+      "summary": "An r/androidapps thread asking why every basic utility now wants a monthly fee drew a hundred-plus comments of agreement, with people saying they would happily pay once. Elsewhere the energy goes into gaming the system: discovering AARP membership knocks 40% off Walmart+, hunting three months of Game Pass Ultimate for under $20 a month, and relitigating which expensive purchases actually earned their keep.",
+      "why_it_matters": "Recurring revenue is getting harder to defend against consumers who now treat renewals as negotiations and swap workarounds publicly.",
+      "what_people_say": [
+       "\"I don't mind paying for a good app, but I'd much rather pay once and be done with it.\"",
+       "\"AARP members get 40% off Walmart+... you don't have to be 65 to sign up.\"",
+       "\"What felt overpriced when you bought it but earned its keep?\" drew over 700 replies."
+      ],
+      "momentum": "steady",
+      "tags": [
+       "subscriptions",
+       "value",
+       "frugal",
+       "apps"
+      ],
+      "hero_url": "https://www.reddit.com/r/androidapps/comments/1xn3gd0/why_is_it_so_hard_to_find_a_simple_app_without_a/",
+      "sources": [
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1xn3gd0/why_is_it_so_hard_to_find_a_simple_app_without_a/"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xog19a/walmart_discount_with_aarp_you_dont_have_to_be_65/"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xobvlk/what_felt_overpriced_when_you_bought_it_but/"
+       },
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale"
+       }
+      ]
+     },
+     {
+      "title": "Grocery as personality: Trader Joe's for one, Costco for the holidays",
+      "summary": "\"Trader Joe's is the Costco for single people\" hit 3,200 upvotes as solo shoppers argued portion size is the real value proposition. Meanwhile Costco shoppers are celebrating bulk shortbread they will eat alone, and r/Frugal declared cheap protein season open with turkey, ham and shrimp rings to break down and freeze.",
+      "why_it_matters": "Household-size framing is doing more persuasion work than price per unit right now, especially for single-person households entering a holiday season built for families.",
+      "what_people_say": [
+       "\"TJ's is my Costco cause the portion sizes are great for single people.\"",
+       "\"Bad day to find out I'm the only person in my house who likes shortbread. Just kidding, I'm elated.\"",
+       "\"Buy the big scary meat. It's the cheapest per pound all year.\""
+      ],
+      "momentum": "steady",
+      "tags": [
+       "grocery",
+       "value",
+       "holiday",
+       "community"
+      ],
+      "hero_url": "https://www.reddit.com/r/traderjoes/comments/1xo7wra/trader_joes_is_the_costco_for_single_people/",
+      "sources": [
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xo7wra/trader_joes_is_the_costco_for_single_people/"
+       },
+       {
+        "label": "r/Costco",
+        "url": "https://www.reddit.com/r/Costco/comments/1xp2bdj/bad_day_to_find_out_im_the_only_person_in_my/"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xqhg0k/cheap_protein_season_is_upon_us_freezer_stock/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Singles' Day and Veterans Day",
+    "when": "Nov 11",
+    "angle": "Chinese e-commerce peak plus US military discounts land on the same day, and both are being used as a soft launch for Black Friday pricing."
+   },
+   {
+    "name": "HAVEN x Converse Chuck 70 and Blend Bunny's Undertones palette",
+    "when": "Nov 12–17",
+    "angle": "Two tightly scheduled drops with existing forum anticipation: the Chuck 70 hits HAVEN Nov 12 and Converse Nov 17, Undertones on Nov 13."
+   },
+   {
+    "name": "Thanksgiving, parade and football",
+    "when": "Nov 26",
+    "angle": "Expect the usual food-brand parade sponsorships and QSR tie-ins, with Pepsi pushing its football and holiday retail presence hardest."
+   },
+   {
+    "name": "Black Friday and Cyber Monday",
+    "when": "Nov 27–30",
+    "angle": "Deals are already leaking (3D printers, Game Pass), and this year's hook is value-hacking content rather than doorbusters; watch TikTok Shop's new Plus tier get its first test."
+   },
+   {
+    "name": "Advent calendar season opens",
+    "when": "Dec 1",
+    "angle": "After the Skims backlash, expect unboxing-first scrutiny of every calendar over $50 and a strong run for food and beauty versions."
+   },
+   {
+    "name": "The Children's Place sale deadline",
+    "when": "Bids due Dec 9",
+    "angle": "Liquidation pricing on kids' apparel and shoes through the holidays, and a likely competitive grab for its customers by Target, Walmart and resale apps."
+   }
+  ]
+ },
+ "signal_count": 1234,
+ "source_counts": {
+  "reddit": 483,
+  "bluesky": 290,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 343,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "1f6a138b6d.jpg",
+  "products:1": "29ddabdf7d.jpg",
+  "products:2": "a76eafdc75.jpg",
+  "products:3": "534b3d50fc.jpg",
+  "products:4": "61c6302c08.jpg",
+  "products:5": "013a324d2c.jpg",
+  "products:6": "12c3fd2cdd.jpg",
+  "products:7": "566ab61b39.jpg",
+  "digital:0": "fa24e8f1cc.jpg",
+  "digital:1": "40c0ac3272.jpg",
+  "digital:2": "c2e0e39b6e.png",
+  "digital:3": "16e741e6c9.jpg",
+  "digital:4": "ac049104e1.jpg",
+  "digital:5": "2d38cc5cf1.webp",
+  "digital:6": "b0055462ef.webp",
+  "digital:7": "54f2ec5980.jpg",
+  "campaigns:0": "785cfd9894.webp",
+  "campaigns:2": "65ee34e82f.webp",
+  "campaigns:4": "5124357c88.jpg",
+  "culture:0": "5f80089602.png",
+  "culture:1": "85b4c55f55.webp",
+  "culture:2": "749a1fb8cf.jpg",
+  "culture:3": "c59040b1dd.jpg",
+  "culture:4": "66ad10b969.jpg",
+  "culture:5": "f3b47bb65c.jpg",
+  "culture:7": "cfc589a316.jpg",
+  "campaigns:3": "44175379e0.jpg",
+  "culture:6": "f31769f4de.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
