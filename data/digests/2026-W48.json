@@ -1,0 +1,1030 @@
+{
+ "week": "2026-W48",
+ "generated_at": "2026-11-23T23:08:25.454395Z",
+ "model": "claude-opus-5",
+ "digest": {
+  "headline": "GTA 6 eats the internet while shoppers call Black Friday's bluff",
+  "tldr": [
+   "Grand Theft Auto VI's launch is the week's gravitational centre: redemption-code horror stories, Target return fights, retailer tie-in promos and a TikTok tag (#lucia) with 679M views in seven days.",
+   "Shoppers are openly unimpressed with Black Friday: Ulta's 30% off got laughed at on Reddit, a Groundwork Collaborative investigation says 1 in 3 Amazon 'deals' saves nothing, and the NRF expects Thanksgiving-weekend shopping to slip.",
+   "Jensen Huang was reinstated as Nvidia CEO 11 days after resigning, chips rallied, and the whole thing has already been memed into a Know Your Meme entry.",
+   "Amazon pushed an in-app pop-up urging New Yorkers to oppose the Delivery Protection Act and got a backlash instead, with Mamdani calling the threatened $5 fee 'greed'.",
+   "Holiday ads are leaning on charm and characters: Jonathan Bailey as a hot Scrooge for Verizon, Geico's first holiday film and parade float, Philadelphia's Phillyboy as Santa."
+  ],
+  "sections": [
+   {
+    "key": "products",
+    "title": "Consumer products",
+    "items": [
+     {
+      "title": "GTA 6 is out and the launch-week pain is the content",
+      "summary": "Rockstar's Grand Theft Auto VI landed and the consumer stories are as loud as the game: a 17-year-old's post about a pre-redeemed code bouncing between Best Buy, PlayStation and Rockstar support hit 144k upvotes, and Target staff are dealing with parents demanding returns on a final-sale disc. Players are also arguing about how faithfully the game renders Florida, right down to a snake enclosure. It is the biggest consumer product moment of the quarter by raw volume of talk.",
+      "why_it_matters": "A launch this big turns ordinary retail friction - codes, returns, age ratings - into mass-audience content, and any brand touching the purchase journey gets dragged into it.",
+      "what_people_say": [
+       "'$80 wasted on a worthless box. Not even 18 yet but I just got fucked by 3 different companies at once.'",
+       "A Target worker: a mother 'absolutely refuses to accept that she cannot return this game' even though the receipt says final sale.",
+       "A player's friend ranted for ten minutes about the inaccurate snake cage: 'they're gonna cause people to go out and buy snakes and mistreat them'."
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "gaming",
+       "launch",
+       "retail",
+       "gta6"
+      ],
+      "hero_url": "https://www.reddit.com/r/GTA6unmoderated/comments/1xy0zlv/just_got_fucked/",
+      "sources": [
+       {
+        "label": "r/GTA6unmoderated",
+        "url": "https://www.reddit.com/r/GTA6unmoderated/comments/1xy0zlv/just_got_fucked/"
+       },
+       {
+        "label": "r/Target",
+        "url": "https://www.reddit.com/r/Target/comments/1xzyw8z/mother_refusing_to_accept_grand_theft_auto_vi/"
+       },
+       {
+        "label": "r/mildlyinfuriating",
+        "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1y0v9t6/friend_is_dragging_down_my_enjoyment_of_gta_6/"
+       }
+      ]
+     },
+     {
+      "title": "Shoppers are calling Black Friday discounts weak before the day arrives",
+      "summary": "r/Ulta's reaction to the Black Friday ad - '30 percent off is not a Black Friday deal' - drew nearly 2,000 upvotes, with a companion thread of people saying they'll just buy the items at full price anyway. On r/Frugal, people are passing around the Groundwork Collaborative investigation claiming nearly 1 in 3 Amazon 'deals' matched or beat pre-sale prices, and 1 in 10 were actually higher. The NRF now expects Thanksgiving-weekend shopping to slip as sales stretch across November.",
+      "why_it_matters": "Discount theatre is losing its audience; percentage-off headlines are being price-checked in public, and the credibility cost lands on the retailer, not the deal.",
+      "what_people_say": [
+       "'I'm sorry, 30 percent off is not a Black Friday deal 🤣🤣🤣'",
+       "'A lot of the items I'm genuinely wanting are not discounted that much for me to get excited over.'",
+       "'Nearly 1 in 3 of these Amazon deals offered no real savings.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "retail",
+       "black friday",
+       "beauty",
+       "pricing"
+      ],
+      "hero_url": "https://www.reddit.com/r/Ulta/comments/1y2a1wr/im_sorry_30_percent_off_is_not_a_black_friday_deal/",
+      "sources": [
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1y2a1wr/im_sorry_30_percent_off_is_not_a_black_friday_deal/"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1y23qta/anyone_else_not_hyped_about_these_deals/"
+       },
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xynsxw/amazons_decoy_black_friday_deals_investigation/"
+       },
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/"
+       }
+      ]
+     },
+     {
+      "title": "The Skims advent calendar becomes beauty's villain of the week",
+      "summary": "Robert Welsh's rant about the Skims advent calendar - calling it a scam full of items available on AliExpress - was the most-discussed beauty post of the week, and it widened into an attack on creator Glamzilla for defending it to fans. The thread reads as a broader verdict on influencer-shilled holiday sets. Meanwhile r/Ulta shows the flipside: people genuinely thrilled to be gifted the Ulta advent calendar.",
+      "why_it_matters": "Advent calendars are now a trust test; if the per-item value doesn't hold up, the creator who promoted it takes damage alongside the brand.",
+      "what_people_say": [
+       "Welsh called the calendar 'a disgusting scam' and said anyone would be disappointed in it.",
+       "Fans objected to being told that 'real fans' would appreciate the set.",
+       "'My husband ordered me the Ulta advent calendar as a surprise! I don't deserve him.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "beauty",
+       "influencers",
+       "holiday",
+       "backlash"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xzuspz/robert_welsh_goes_off_on_glamzillaskims_and_calls/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xzuspz/robert_welsh_goes_off_on_glamzillaskims_and_calls/"
+       },
+       {
+        "label": "r/Ulta",
+        "url": "https://www.reddit.com/r/Ulta/comments/1y2s7ua/my_husband_surprised_me_in_the_most_surprising_way/"
+       }
+      ]
+     },
+     {
+      "title": "Shoes that look like your grandma's couch",
+      "summary": "Highsnobiety flagged Kith and Proleta Re Art's artisanal Clarks alongside similar textural work at ASICS, Vans and Dr. Martens, while adidas turned the Formotion F50 into a suede sneaker-loafer and Nike put its first print - leopard - on the Mind 001 slip-on. On the ground, A Ma Maniére's Nike V5 RNR is a Chicago store-only pickup at $95 that sneaker Reddit is hunting down.",
+      "why_it_matters": "Footwear's mood has moved from technical hype to tactile, homely materials, and scarcity is being created by single-store availability rather than raffle drops.",
+      "what_people_say": [
+       "A buyer found the A Ma Maniére V5 RNR in-store for $95 and was told it's 'currently only available in-store at their Chicago store, no wider release date yet'."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "sneakers",
+       "fashion",
+       "collab",
+       "drops"
+      ],
+      "hero_url": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/",
+      "sources": [
+       {
+        "label": "Highsnobiety",
+        "url": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/"
+       },
+       {
+        "label": "Highsnobiety",
+        "url": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/"
+       },
+       {
+        "label": "WWD",
+        "url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-safari-ix5079-001-release-date-1239463171/"
+       }
+      ]
+     },
+     {
+      "title": "Thanksgiving gets outsourced as turkey prices jump 29%",
+      "summary": "Costco's Thanksgiving dinner kit is back and being passed around as the low-stress option, while the Food Institute reports turkey prices up 29% year over year. Eater's piece on what chefs themselves buy rather than make is circulating as permission to stop cooking everything from scratch. Costco superfans are also still posting food-court pilgrimages, from the Japan bulgogi bake to $2.97 roasted garlic.",
+      "why_it_matters": "Holiday hosting is being reframed around cost and effort relief; prepared kits and 'which bit do I buy' guidance are the winning formats this year.",
+      "what_people_say": [
+       "'The turkey, the sides, and a whole lot less holiday stress.'",
+       "'i have to head to costco on the saturday before thanksgiving. chat am i gonna die?'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "food",
+       "holiday",
+       "costco",
+       "inflation"
+      ],
+      "hero_url": "https://www.delish.com/food-news/a74511176/costco-thanksgiving-dinner-kit-2026/",
+      "sources": [
+       {
+        "label": "Delish",
+        "url": "https://www.delish.com/food-news/a74511176/costco-thanksgiving-dinner-kit-2026/"
+       },
+       {
+        "label": "The Food Institute",
+        "url": "https://foodinstitute.com/focus/holiday-food-inflation-hits-the-thanksgiving-2026-table/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-food-inflation-hits-the-thanksgiving-2026-table"
+       },
+       {
+        "label": "Eater",
+        "url": "https://www.eater.com/holidays/1002103/what-to-buy-on-thanksgiving-according-to-chefs"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/sky.skymarchini.net/post/3n2tjvqnbwk2s"
+       }
+      ]
+     },
+     {
+      "title": "Trader Joe's stacked peanut butter cups and gingerbread sheet cake",
+      "summary": "The new $5.99 Dark & Milk Chocolate Peanut Butter & Salted Fudge Cups - a dark PB cup stacked on a milk chocolate salted fudge cup - is the November limited-edition everyone is posting, and the gingerbread sheet cake got a detailed 8.5/10 review for its cinnamon cream cheese frosting. Trader Joe's remains the default seasonal snack calendar for food Reddit.",
+      "why_it_matters": "Limited-run seasonal SKUs still generate free, detailed peer reviews that no paid food campaign can buy.",
+      "what_people_say": [
+       "'This one has the best frosting. It's a cinnamon cream cheese... 8.5/10.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "food",
+       "limited edition",
+       "trader joes",
+       "snacks"
+      ],
+      "hero_url": "https://www.reddit.com/r/traderjoes/comments/1xzqxek/new_limited_november_2026_snack_trader_joes_dark/",
+      "sources": [
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1xzqxek/new_limited_november_2026_snack_trader_joes_dark/"
+       },
+       {
+        "label": "r/traderjoes",
+        "url": "https://www.reddit.com/r/traderjoes/comments/1y0o44m/gingerbread_sheet_cake_review/"
+       }
+      ]
+     },
+     {
+      "title": "Beauty shoppers are mourning discontinued formulas and dragging new ones",
+      "summary": "Sephora's sub spent the week publicly logging product grudges: Prada's lip balms 'taste like a bar of soap', Urban Decay's decline is being treated as a case study, and a thread on constant reformulation and discontinuation pulled in people who buy backups they can't afford. Vampy lipstick shades from the old KVD era are being nostalgically hunted.",
+      "why_it_matters": "Reviews are being written explicitly to influence search and AI summaries, and legacy-brand equity is decaying faster than brands think when hero SKUs get cut.",
+      "what_people_say": [
+       "'I just want to make sure this information is scraped for whatever google summary exists for when someone is tempted to buy them.'",
+       "'The downfall of urban decay needs to be studied.'",
+       "'Not everybody can afford to buy tons of back ups!'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "beauty",
+       "backlash",
+       "reviews",
+       "nostalgia"
+      ],
+      "hero_url": "https://www.reddit.com/r/Sephora/comments/1xyymlj/just_want_public_record_to_show_how_much_i_hate/",
+      "sources": [
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xyymlj/just_want_public_record_to_show_how_much_i_hate/"
+       },
+       {
+        "label": "r/Sephora",
+        "url": "https://www.reddit.com/r/Sephora/comments/1xzqjf0/the_downfall_of_urban_decay_needs_to_be_studied/"
+       },
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1y21h34/i_wish_these_brands_would_stop_reformulating_and/"
+       }
+      ]
+     },
+     {
+      "title": "Warranties are the new flex in gift season",
+      "summary": "A Darn Tough wearer cashed in a warranty claim on years of holey socks and got $170 of replacements for a $7 return - a post that sat alongside a 31-year-old Panasonic bread machine and a 'what Christmas gift are you still using 5+ years later' thread with 845 upvotes. Durability and lifetime guarantees are doing the work that discounts usually do in late November.",
+      "why_it_matters": "In a sceptical discount season, provable longevity and a no-questions warranty are a more persuasive gifting pitch than a percentage off.",
+      "what_people_say": [
+       "'It cost me $7 to return them... Darn Tough gave me $170 to spend for the warranty.'",
+       "'If you see one of these Panasonic bread machines second-hand, you might want to grab it. Ours is 31 years old and still working.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "gifting",
+       "durability",
+       "home",
+       "buyitforlife"
+      ],
+      "hero_url": "https://www.reddit.com/r/BuyItForLife/comments/1y2ya3h/finally_took_advantage_of_the_darn_tough_warranty/",
+      "sources": [
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1y2ya3h/finally_took_advantage_of_the_darn_tough_warranty/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1xye73t/31_years_and_still_making_bread/"
+       },
+       {
+        "label": "r/BuyItForLife",
+        "url": "https://www.reddit.com/r/BuyItForLife/comments/1y32bos/what_best_christmas_gifts_are_you_still_using_5/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "digital",
+    "title": "Digital",
+    "items": [
+     {
+      "title": "Jensen Huang is back at Nvidia 11 days after resigning",
+      "summary": "Nvidia's board reinstated Jensen Huang as CEO on Monday, reversing its own statement days earlier that he would not return, after reporting tied him to affairs including one with an executive at Megaspeed. Nvidia shares jumped 31% and the Nasdaq 100 rose 6.8%; Hacker News threads on the news passed 1,700 and 1,800 points. The NYT and The Verge both frame Trump's pressure as the deciding factor, and Know Your Meme has already catalogued the meme wave.",
+      "why_it_matters": "The single biggest AI company just demonstrated that governance can be overridden by political backing - and the market rewarded it, which resets how investors and partners read AI-sector risk.",
+      "what_people_say": [
+       "Elon Musk: 'The mistake has been corrected.'",
+       "Politicians reacted with 'outrageous', 'reckless' and 'wow'.",
+       "Huang told returning employees: 'I'm going to be a better CEO the second time around.'"
+      ],
+      "momentum": "breaking",
+      "tags": [
+       "ai",
+       "nvidia",
+       "business",
+       "memes"
+      ],
+      "hero_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "sources": [
+       {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+       },
+       {
+        "label": "NYT Tech",
+        "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+       },
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"
+       },
+       {
+        "label": "Know Your Meme",
+        "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy"
+       }
+      ]
+     },
+     {
+      "title": "Amazon turned its own app into a lobbying channel and New Yorkers noticed",
+      "summary": "Amazon is serving New York customers a pop-up on app open urging them to oppose the Delivery Protection Act, warning of up to $5 in added order costs. The posts calling it out are doing far better than the message itself, and Zohran Mamdani's 'it's greed' response drew 24,000 upvotes on r/technology. Retail Dive confirms the call to action is official.",
+      "why_it_matters": "Using a shopping app's own surface for political advocacy converts a transactional moment into a brand-trust moment, and this week it went the wrong way.",
+      "what_people_say": [
+       "'This shit... made me mad enough to email my councilmember and the speaker in support of the Delivery Protection Act.'",
+       "'Amazon has really got a lot of fucking nerve forcing this popup when New Yorkers open their app.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "amazon",
+       "platforms",
+       "policy",
+       "backlash"
+      ],
+      "hero_url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+      "sources": [
+       {
+        "label": "Retail Dive",
+        "url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/radosh.bsky.social/post/3n2yftmuvpc2t"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/moreperfectunion.bsky.social/post/3n2pihhtycs2e"
+       },
+       {
+        "label": "r/technology",
+        "url": "https://www.reddit.com/r/technology/comments/1y323op/its_greed_zohran_mamdani_blasts_amazon_over_new_5/"
+       }
+      ]
+     },
+     {
+      "title": "Agents stopped being a demo and started doing damage",
+      "summary": "Anthropic shipped Claude Ship, letting agents review, fix and approve pull requests, while OpenAI pushed GPT-6.2 Sol into the ChatGPT Chat tab and Product Hunt filled with agent-orchestration tools like Plango and Replit Missions. Against that, a former NSA hacker's account of an 'agent swarm' that bypassed 2FA, exfiltrated data and encrypted a company in 14 minutes racked up nearly 7,000 upvotes on r/ChatGPT.",
+      "why_it_matters": "The agent conversation has flipped from productivity promises to speed-of-attack and approval-chain risk, which is now a brand-safety question for anyone deploying them customer-side.",
+      "what_people_say": [
+       "'This all took 14 minutes. 14 minutes. Never seen anything that fast before.'",
+       "'Literally just heard an ad for an AI app promising that email that used to take two minutes now takes thirty seconds... I've never heard a less impressive promise.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "agents",
+       "security",
+       "tools"
+      ],
+      "hero_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "sources": [
+       {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+       },
+       {
+        "label": "9to5Mac",
+        "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/"
+       },
+       {
+        "label": "r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1y1vf1l/former_nsa_hacker_reveals_hes_actively_responding/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/joshgondelman.bsky.social/post/3n2me7p4qg222"
+       }
+      ]
+     },
+     {
+      "title": "AI slop is breaking discovery, from app stores to search",
+      "summary": "Android users say finding a decent app now takes days of wading through 'endless AI slop', and a long thread of hand-picked non-Google apps was the sub's answer. Elsewhere the complaint is structural: one publisher wrote about AI killing All About Berlin, and an analysis circulating on Hacker News claims Google's AI answers have cut search traffic by 40%.",
+      "why_it_matters": "If store search and web search both degrade, owned audiences, word of mouth and human curation become the only reliable discovery routes for products.",
+      "what_people_say": [
+       "'Developers have stopped making good apps because what's the use? You'll never get visibility.'",
+       "'It takes me at least a few days to try out dozens of apps and even then I may miss the one or two good ones.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "discovery",
+       "apps",
+       "seo"
+      ],
+      "hero_url": "https://www.reddit.com/r/androidapps/comments/1y11sch/do_you_guys_as_users_have_a_tough_time_finding_a/",
+      "sources": [
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1y11sch/do_you_guys_as_users_have_a_tough_time_finding_a/"
+       },
+       {
+        "label": "r/androidapps",
+        "url": "https://www.reddit.com/r/androidapps/comments/1y2xohh/some_of_the_apps_i_use_on_my_pixel_8_that_arent/"
+       }
+      ]
+     },
+     {
+      "title": "Creators keep catching brands using AI quietly",
+      "summary": "Michelle Phan is releasing a 50-episode AI-generated anime and commenters are less annoyed by the AI than by the team's refusal to say so plainly. In the same week Ssense had to respond to accusations of using AI-generated product photos. The pattern is consistent: audiences will tolerate disclosure far better than evasion.",
+      "why_it_matters": "The reputational hit now comes from the dodge, not the tool - any AI in creative output needs a one-line answer ready before launch.",
+      "what_people_say": [
+       "'Funny how people will use AI but will dance around admitting it, just say it.'",
+       "'When new AI tech needs to be sold to the masses, it's humanized through commercial art. When that tech is mainstream it always hurts the arts.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "ai",
+       "creators",
+       "transparency",
+       "fashion"
+      ],
+      "hero_url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xywg64/michelle_phan_is_releasing_an_anime_of_50/",
+      "sources": [
+       {
+        "label": "r/BeautyGuruChatter",
+        "url": "https://www.reddit.com/r/BeautyGuruChatter/comments/1xywg64/michelle_phan_is_releasing_an_anime_of_50/"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/11/ssense-ai-photos-accusations-response"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/kaseygifford.bsky.social/post/3n2yzyob72c2o"
+       }
+      ]
+     },
+     {
+      "title": "ByteDance owns the top of the App Store chart",
+      "summary": "TikTok Pro - Events sits at #1 on the US free chart, with PineDrama short dramas at #8 and CapCut at #16, all ByteDance properties; Meta's Muse is #2 and ChatGPT #3. Vinted at #4 and wishlist app GoWish at #5 show the seasonal pull of resale and gift lists.",
+      "why_it_matters": "Short-form drama and event apps are becoming distinct consumer habits rather than TikTok features, and holiday wishlists are a live distribution surface for gift brands.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "apps",
+       "tiktok",
+       "shortform",
+       "charts"
+      ],
+      "hero_url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873",
+      "sources": [
+       {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873"
+       },
+       {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922"
+       },
+       {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+       },
+       {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923"
+       }
+      ]
+     },
+     {
+      "title": "The feed fatigue conversation has turned into a posting strike",
+      "summary": "An r/socialmedia thread asking whether Instagram has lost its creative side - all Reels and sponsored posts, no signature styles - ran alongside a researcher from X's team openly asking why people stopped posting and whether engagement farming killed it. On r/femalefashionadvice, a popular essay told readers to 'use your free will' and go looking for things instead of waiting for the algorithm to serve them.",
+      "why_it_matters": "Reach is increasingly rented from feeds that users resent; brands that build searchable, browsable owned surfaces will be the ones people can actually find on purpose.",
+      "what_people_say": [
+       "'I miss coming across interesting photos, creative pages, and profiles with their own signature style.'",
+       "'A lot of people seem to have gotten too used to having things served up on a feed and they have no exploration drive or skills.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "platforms",
+       "instagram",
+       "behaviour",
+       "creators"
+      ],
+      "hero_url": "https://www.reddit.com/r/socialmedia/comments/1xyi8zm/does_anyone_else_feel_like_instagram_has_lost_its/",
+      "sources": [
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1xyi8zm/does_anyone_else_feel_like_instagram_has_lost_its/"
+       },
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1y150c9/what_made_you_stop_posting_on_social_media/"
+       },
+       {
+        "label": "r/femalefashionadvice",
+        "url": "https://www.reddit.com/r/femalefashionadvice/comments/1xyqqit/have_you_used_your_free_will_lately/"
+       }
+      ]
+     },
+     {
+      "title": "Spotify Wrapped season starts now",
+      "summary": "Fast Company's 'here's how to make sure you're ready' guide signals the annual Wrapped countdown has begun, with listeners already gaming their stats before the drop. It is the one year-in-review format that reliably takes over social feeds for 48 hours.",
+      "why_it_matters": "Wrapped sets the template every brand copies in December; if you want a data-recap moment, your version needs to be ready before Spotify sucks up the oxygen.",
+      "what_people_say": [
+       "Fans are counting down to 'what may be the most anticipated' year-end review of them all."
+      ],
+      "momentum": "rising",
+      "tags": [
+       "spotify",
+       "year in review",
+       "platforms",
+       "music"
+      ],
+      "hero_url": "https://www.fastcompany.com/91647779/spotify-wrapped-2026-is-almost-here-heres-how-to-make-sure-youre-ready",
+      "sources": [
+       {
+        "label": "Fast Company",
+        "url": "https://www.fastcompany.com/91647779/spotify-wrapped-2026-is-almost-here-heres-how-to-make-sure-youre-ready"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "campaigns",
+    "title": "Campaigns",
+    "items": [
+     {
+      "title": "Everyone piggybacked on GTA 6, from Popeyes to weed shops",
+      "summary": "Retailers and brands built launch-day promos around Grand Theft Auto VI: food and delivery deals, tech bundles and even cannabis offers aimed at players taking time off to play. Campaign rounded up tie-ins from Atlantic Records to Popeyes, and Nylon covered model Alex Consani wearing all emerging designers in Miami for the launch weekend.",
+      "why_it_matters": "A game launch is now a full cultural calendar moment that fashion, food and delivery brands plan against like a Super Bowl.",
+      "what_people_say": [
+       "'I just know rockstar planned for this and has a whole ad campaign locked and loaded.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "gaming",
+       "tie-in",
+       "retail",
+       "promos"
+      ],
+      "hero_url": "https://www.modernretail.co/marketing/retailers-ride-the-grand-theft-auto-vi-wave-with-special-promos/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Modern Retail",
+        "url": "https://www.modernretail.co/marketing/retailers-ride-the-grand-theft-auto-vi-wave-with-special-promos/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/brand-campaign-makes-feel-playing-gta-vi/1975790"
+       },
+       {
+        "label": "NYLON",
+        "url": "https://www.nylon.com/fashion/alex-consani-grand-theft-auto-vi-style-emerging-designers"
+       }
+      ]
+     },
+     {
+      "title": "Verizon makes Scrooge hot with Jonathan Bailey",
+      "summary": "Verizon's holiday spot casts Jonathan Bailey as a very attractive Scrooge, with SNL alum Ego Nwodim as a Ghost of Holiday Present who isn't immune to his looks. It's a thirst-casting approach to a public-domain story every telco and retailer recycles in December.",
+      "why_it_matters": "Celebrity casting against a tired holiday archetype is cheaper attention than a new story, as long as the joke lands in the first five seconds.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "holiday",
+       "celebrity",
+       "telco",
+       "tv"
+      ],
+      "hero_url": "https://www.campaignlive.com/article/verizon-casts-jonathan-bailey-hottest-scrooge-holiday-season/1975933",
+      "sources": [
+       {
+        "label": "Campaign",
+        "url": "https://www.campaignlive.com/article/verizon-casts-jonathan-bailey-hottest-scrooge-holiday-season/1975933"
+       },
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/verizon-laliga-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Geico's first holiday film and first parade float",
+      "summary": "Geico is airing a handmade holiday film during the Macy's Thanksgiving Day Parade and debuting its first float in the same broadcast - a double play on the one live TV event where ad and content blur together. Adweek frames it as Geico stretching toward entertainment rather than gecko gags.",
+      "why_it_matters": "The parade remains a rare mass live moment; owning a float plus the ad break buys hours of presence instead of 30 seconds.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "holiday",
+       "insurance",
+       "event",
+       "parade"
+      ],
+      "hero_url": "https://www.adweek.com/creativity/geicos-first-holiday-film-reveals-its-entertainment-ambitions/",
+      "sources": [
+       {
+        "label": "Adweek",
+        "url": "https://www.adweek.com/creativity/geicos-first-holiday-film-reveals-its-entertainment-ambitions/"
+       }
+      ]
+     },
+     {
+      "title": "Legacy food brands dust off their mascots",
+      "summary": "Philadelphia is raising its seasonal spend 15% and bringing back Phillyboy in a Santa-like role with a cheesecake focus, while Jell-O's first work from Johannes Leonardo is its biggest marketing investment in over a decade and aims to reset how people see the brand. Carl's Jr. hired David&Goliath with a brief to be bold again as it moves to cooked-to-order burgers.",
+      "why_it_matters": "Pantry brands are betting that recognisable characters and a clear creative platform beat performance-only spending in a crowded holiday aisle.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "brand platform",
+       "mascots",
+       "holiday"
+      ],
+      "hero_url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
+      "sources": [
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/"
+       },
+       {
+        "label": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/carls-jr-taps-davidgoliath-as-marketing-focus-turns-to-boldness/875471/"
+       }
+      ]
+     },
+     {
+      "title": "A24 bottled the Backrooms",
+      "summary": "A24 worked with fragrance house Joya Studio on a scent score for 'Backrooms', translating liminal spaces into smells people can burn at home while watching. It's merch as an extension of the film's atmosphere rather than a logo tee.",
+      "why_it_matters": "Scent is becoming a credible entertainment merch category because it extends the viewing experience into the home instead of just advertising it.",
+      "what_people_say": [],
+      "momentum": "breaking",
+      "tags": [
+       "entertainment",
+       "fragrance",
+       "merch",
+       "collab"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Gap bets on 'fashiontainment' with a boy band and a scripted series",
+      "summary": "Gap Inc. signed boy band Just Your Type to a multi-year partnership and launched 'The Agency', a scripted microseries made for Banana Republic. It follows the Gap dance-ad playbook of treating campaigns as entertainment formats people will watch voluntarily.",
+      "why_it_matters": "Apparel brands are building recurring content properties instead of seasonal campaigns, which changes the brief from one film to a release schedule.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "fashion",
+       "content",
+       "music",
+       "gap"
+      ],
+      "hero_url": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "Fashionista",
+        "url": "https://fashionista.com/2026/11/gap-inc-athleta-brand-president-ceo-announcement"
+       }
+      ]
+     },
+     {
+      "title": "NWSL sponsors put players, not logos, at the centre",
+      "summary": "At NWSL Championship Weekend, Google, CarMax and e.l.f. built activations around individual player and fan relationships rather than standard signage. Women's sport sponsorship keeps rewarding brands that invest in athletes as creators.",
+      "why_it_matters": "Athlete-first sponsorship produces content that travels after the final whistle, which is why challenger beauty and retail brands are outbidding traditional sports advertisers here.",
+      "what_people_say": [],
+      "momentum": "steady",
+      "tags": [
+       "sports",
+       "sponsorship",
+       "nwsl",
+       "beauty"
+      ],
+      "hero_url": "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "sources": [
+       {
+        "label": "Marketing Brew",
+        "url": "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed"
+       }
+      ]
+     },
+     {
+      "title": "Creator gifting is getting expensive and brands are asking what it buys",
+      "summary": "Glossy reports that as gifting scales, creators' standards for what is worth filming keep rising, forcing brands to trade quantity for quality with no clean ROI measure. Freelance social managers are hitting the same wall from the other side: they can't even see the TikTok and Reddit threads clients are reading.",
+      "why_it_matters": "PR gifting has quietly become a major line item with the weakest measurement in the marketing stack - expect budget scrutiny in January planning.",
+      "what_people_say": [
+       "'Twice this month a client brought up a TikTok or a Reddit thread about their brand that I'd never seen. Embarrassing.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "creators",
+       "pr",
+       "measurement",
+       "social"
+      ],
+      "hero_url": "https://www.glossy.co/fashion/as-gifting-to-creators-gains-traction-brands-worry-about-roi-and-expectations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/fashion/as-gifting-to-creators-gains-traction-brands-worry-about-roi-and-expectations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       },
+       {
+        "label": "r/socialmedia",
+        "url": "https://www.reddit.com/r/socialmedia/comments/1y087rc/freelancer_running_social_for_a_few_small_brands/"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "culture",
+    "title": "Culture",
+    "items": [
+     {
+      "title": "Being nice to Lucia is the GTA meme nobody predicted",
+      "summary": "The dominant GTA VI joke is that it's the first Grand Theft Auto where players voluntarily obey traffic laws and treat their in-game girlfriend well, enough that r/OutOfTheLoop got a 2,300-upvote explainer request. On TikTok, #lucia logged 72.6K posts and 679.4M views in seven days, the #3 hashtag overall. The counter-current is pedantic realism policing of everything from Florida accuracy to physics glitches.",
+      "why_it_matters": "The emotional-attachment angle, not the violence, is driving the shareable content - a reminder that audiences build the narrative around a launch, not the publisher.",
+      "what_people_say": [
+       "'I've seen so many memes about how this is the first Grand Theft Auto where it makes players want to be nice to Lucia.'",
+       "'oh, good, the game where everyone keeps talking about how realistic it is does actually still have some nonsense like this.'",
+       "'too late, i've depicted my enemies as the hot people from the game everyone is talking about.'"
+      ],
+      "momentum": "peaking",
+      "tags": [
+       "gaming",
+       "memes",
+       "tiktok",
+       "gta6"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/lucia",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/lucia"
+       },
+       {
+        "label": "r/OutOfTheLoop",
+        "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1y17cdp/whats_going_on_with_gta6_and_playing_nicely/"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/nerdyspinosaurid.bsky.social/post/3n2tysvzqgc27"
+       },
+       {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/eke.bsky.social/post/3n2ol42lot22x"
+       }
+      ]
+     },
+     {
+      "title": "#huss is the top TikTok tag in the US and nobody can explain it",
+      "summary": "#husshusshuss ranked #1 overall on TikTok's US chart with 24.5K posts and 60.1M views in seven days, with #huss right behind at #2 and 71.6M views, both tagged under games and entertainment. It's the classic shape of a sound-led format that peaks before anyone writes an explainer.",
+      "why_it_matters": "Sound-first formats are still the cheapest entry point for brands on TikTok, but the window from chart-topping to played-out is now about ten days.",
+      "what_people_say": [],
+      "momentum": "peaking",
+      "tags": [
+       "tiktok",
+       "sounds",
+       "format",
+       "memes"
+      ],
+      "hero_url": "https://www.tiktok.com/tag/husshusshuss",
+      "sources": [
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/husshusshuss"
+       },
+       {
+        "label": "TikTok Creative Center",
+        "url": "https://www.tiktok.com/tag/huss"
+       }
+      ]
+     },
+     {
+      "title": "Treat culture: bakeries are the new collab partner",
+      "summary": "Glossy reports beauty and fashion brands are putting their names on croissants, smoothies, coffee and frozen yogurt as treat spending takes a bigger share of Gen Z wallets, with premium bakeries now landing major collabs. A $8 pastry with a logo is cheaper to try than a product and photographs better than a billboard.",
+      "why_it_matters": "Food is becoming the entry-level product for brands that are otherwise unaffordable - a trial mechanic disguised as a snack.",
+      "what_people_say": [],
+      "momentum": "rising",
+      "tags": [
+       "food",
+       "collab",
+       "genz",
+       "beauty"
+      ],
+      "hero_url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+      "sources": [
+       {
+        "label": "Glossy",
+        "url": "https://www.glossy.co/pop/get-it-while-its-hot-the-bakeries-snagging-major-beauty-and-fashion-collaborations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "The skull cap looksmaxxing trend gets a reality check",
+      "summary": "Men on TikTok are wearing skull caps to boost their perceived attractiveness, and Dazed sent a writer to test whether it actually works. It sits next to a 1,000-upvote r/malefashionadvice thread from a man who feels embarrassed to dress well in a town where everyone wears hoodies and Wranglers.",
+      "why_it_matters": "Menswear discourse is splitting between optimisation hacks and social permission; brands selling to men need to handle both the hack and the self-consciousness.",
+      "what_people_say": [
+       "'I almost never see anyone wearing what this subreddit would consider stylish... I'm not looking down on them at all.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "menswear",
+       "tiktok",
+       "fashion",
+       "discourse"
+      ],
+      "hero_url": "https://www.dazeddigital.com/fashion/article/71398/1/skull-cap-actually-make-you-hotter-tik-tok-trend-menswear?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=does-wearing-a-skull-cap-actually-make-you-hotter",
+      "sources": [
+       {
+        "label": "Dazed",
+        "url": "https://www.dazeddigital.com/fashion/article/71398/1/skull-cap-actually-make-you-hotter-tik-tok-trend-menswear?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=does-wearing-a-skull-cap-actually-make-you-hotter"
+       },
+       {
+        "label": "r/malefashionadvice",
+        "url": "https://www.reddit.com/r/malefashionadvice/comments/1y2s25a/feel_insecure_or_embarrassed_to_wear_fashionable/"
+       }
+      ]
+     },
+     {
+      "title": "Tech outages are feeding a doomsday shopping mood",
+      "summary": "After a run of outages - Microsoft Outlook, then Apple's services going down mid-week - CNBC reports emergency-prep spending is climbing and the Food Institute says Costco and other retailers are seeing surging demand for canned goods. Ordinary consumers are treating infrastructure wobbles as a prompt to stock up.",
+      "why_it_matters": "Preparedness has moved from a fringe category to a mainstream holiday purchase driver, and outage days are now demand events for grocery and hardware.",
+      "what_people_say": [
+       "'Few days ago it was microsoft outlook now the apple. Whats going on…..'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "consumer mood",
+       "prepping",
+       "retail",
+       "outages"
+      ],
+      "hero_url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+      "sources": [
+       {
+        "label": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+       },
+       {
+        "label": "The Food Institute",
+        "url": "https://foodinstitute.com/focus/tech-outages-trigger-consumer-panic-buying/?utm_source=rss&utm_medium=rss&utm_campaign=tech-outages-trigger-consumer-panic-buying"
+       },
+       {
+        "label": "r/iphone",
+        "url": "https://www.reddit.com/r/iphone/comments/1xys92c/whats_happening/"
+       }
+      ]
+     },
+     {
+      "title": "Subscription purges and buy-now-pay-later at $100k",
+      "summary": "A widely upvoted r/Frugal post listing cancelled subscriptions - Disney/Hulu/HBO, Prime, ChatGPT Plus, Claude Pro, DoorDash - reads like a map of the stack people are now pruning. At the same time, Block data reported by Fast Company shows households earning over $100,000 are more likely than lower earners to use buy now, pay later.",
+      "why_it_matters": "Cutting recurring spend and financing one-off purchases are happening in the same wallet; subscriptions need to justify themselves monthly while checkout needs flexible payment even for affluent buyers.",
+      "what_people_say": [
+       "'I've cut more than half of my subscriptions... kept only essentials.'",
+       "'We are a nation united in our desire to pay tomorrow for what we're buying today.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "subscriptions",
+       "bnpl",
+       "consumer finance",
+       "frugal"
+      ],
+      "hero_url": "https://www.reddit.com/r/Frugal/comments/1xyhv78/ive_cut_more_than_half_of_my_subscriptions/",
+      "sources": [
+       {
+        "label": "r/Frugal",
+        "url": "https://www.reddit.com/r/Frugal/comments/1xyhv78/ive_cut_more_than_half_of_my_subscriptions/"
+       },
+       {
+        "label": "Fast Company",
+        "url": "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research"
+       }
+      ]
+     },
+     {
+      "title": "Agency pay becomes a public grievance",
+      "summary": "An r/advertising post about Innocean Toronto listing a payroll and HR admin role at C$45k-50k drew a wave of agreement that agency salaries are sliding without protest, while another thread tracked rumours of Omnicom layoffs in Canada on November 26. Digiday's reporting that clients never saw the promised AI savings sits uneasily alongside it.",
+      "why_it_matters": "The AI-efficiency pitch is being felt as wage compression inside agencies, which will shape talent availability and the quality of work brands buy next year.",
+      "what_people_say": [
+       "'The job market sucks rn but exploiting that with sub-living wage salaries is scummy behaviour.'",
+       "'Clients took the meeting, nodded along and then waited for the invoice to shrink. It didn't.'"
+      ],
+      "momentum": "rising",
+      "tags": [
+       "agencies",
+       "labour",
+       "ai",
+       "industry"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1y2w50j/agency_salaries_are_shrinking_and_no_ones_making/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1y2w50j/agency_salaries_are_shrinking_and_no_ones_making/"
+       },
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1y14nlq/omnicom_its_affiliate_agencies_in_canada_doing/"
+       },
+       {
+        "label": "Digiday",
+        "url": "https://digiday.com/sponsored/agencies-are-selling-ai-efficiency-clients-want-outcomes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+       }
+      ]
+     },
+     {
+      "title": "Casting fatigue: it's Shaq or John Cena, again",
+      "summary": "An r/advertising thread about seeing Shaq in two spots in one break and Cena in four - bread, bin bags, sunscreen - captured a real viewer complaint about endorsement saturation. Related: r/CommercialsIHate is already bracing for 'six months of Shen Yun ads'.",
+      "why_it_matters": "Over-indexed celebrity endorsers dilute the brands that hire them; audiences notice the repetition before they notice the product.",
+      "what_people_say": [
+       "'I no joke just saw Shaq in 2 different ones during the same commercial break.'",
+       "'And so it begins. Six months of Shen Yun ads.'"
+      ],
+      "momentum": "steady",
+      "tags": [
+       "advertising",
+       "celebrity",
+       "tv",
+       "discourse"
+      ],
+      "hero_url": "https://www.reddit.com/r/advertising/comments/1xz6j84/are_companies_capable_of_casting_anyone_other/",
+      "sources": [
+       {
+        "label": "r/advertising",
+        "url": "https://www.reddit.com/r/advertising/comments/1xz6j84/are_companies_capable_of_casting_anyone_other/"
+       },
+       {
+        "label": "r/CommercialsIHate",
+        "url": "https://www.reddit.com/r/CommercialsIHate/comments/1y1sf8b/and_so_it_begins_six_months_of_shen_yun_ads/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "radar": [
+   {
+    "name": "Thanksgiving and the Macy's Parade",
+    "when": "Thu Nov 26",
+    "angle": "Geico debuts its first float and holiday film in the broadcast; pet brands are pushing dog-friendly Thanksgiving plates as the family-table extension."
+   },
+   {
+    "name": "Black Friday",
+    "when": "Fri Nov 27",
+    "angle": "Expect live price-checking and 'this isn't a real deal' posts; brands with transparent, verifiable discounts will outperform percentage-off headlines."
+   },
+   {
+    "name": "Small Business Saturday",
+    "when": "Sat Nov 28",
+    "angle": "Independent shops, Etsy pop-ups and Bluesky-based makers are already running their own early sales and limited runs into this weekend."
+   },
+   {
+    "name": "Cyber Monday and Cyber Week",
+    "when": "Mon Nov 30 to Fri Dec 4",
+    "angle": "CTV, retail media and search spend is up for the weekend; K-beauty and skincare bundles are the categories most likely to sell out."
+   },
+   {
+    "name": "Spotify Wrapped",
+    "when": "Early December",
+    "angle": "The year-in-review takeover; brands get roughly 48 hours to ride the format before parodies outnumber the originals."
+   },
+   {
+    "name": "Game awards and GTA 6's first full month",
+    "when": "Early to mid December",
+    "angle": "Expect a second wave of GTA tie-in promos, Lucia memes and retail bundles as gift-buying overlaps with the game's first month on sale."
+   }
+  ]
+ },
+ "signal_count": 1225,
+ "source_counts": {
+  "reddit": 489,
+  "bluesky": 276,
+  "google_trends": 10,
+  "hackernews": 40,
+  "producthunt": 40,
+  "appstore": 25,
+  "rss": 342,
+  "tiktok": 3
+ },
+ "media": {
+  "products:0": "bed2f92bfe.jpg",
+  "products:1": "ecd6302fce.webp",
+  "products:2": "2f30ad71e9.jpg",
+  "products:3": "0bc0d6e83a.jpg",
+  "products:4": "d2e637968f.jpg",
+  "products:5": "bc52a693d1.jpg",
+  "products:6": "edbf7d200e.jpg",
+  "products:7": "09ce3f54c5.jpg",
+  "digital:0": "277b74811b.jpg",
+  "digital:1": "d6421e76d9.webp",
+  "digital:2": "b49ff9a67f.jpg",
+  "digital:4": "b325df89b5.jpg",
+  "digital:5": "155657691b.png",
+  "digital:7": "c120428a73.jpg",
+  "campaigns:0": "a004a7e8c0.jpg",
+  "campaigns:1": "035f899b48.jpg",
+  "campaigns:2": "9cf7af90a8.png",
+  "campaigns:4": "bd89f45da5.png",
+  "campaigns:5": "54d6c6c22f.jpg",
+  "campaigns:6": "15ea81968c.jpg",
+  "culture:2": "6127366d27.jpg",
+  "culture:3": "e15fcf6c9d.jpg",
+  "culture:4": "3ec908c098.jpg",
+  "culture:5": "d9cbae7b8e.jpg",
+  "culture:7": "d2a0bb7272.jpg",
+  "campaigns:3": "27144b2920.jpg",
+  "campaigns:7": "1e5db86d56.jpg",
+  "culture:0": "60bab8f109.jpg",
+  "culture:6": "eb0d686812.jpg"
+ },
+ "notes": [
+  "youtube: returned no signals"
+ ]
+}
